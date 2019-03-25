@@ -24,8 +24,8 @@
 /wd4838
 /we4668
 /I .
-/I E:\UnrealProjects\VREscapeRoom\VREscapeRoomPlugless\Source
-/I E:\UnrealProjects\VREscapeRoom\VREscapeRoomPlugless\Source\VREscapeRoomPlugless
+/I C:\Users\Slavi\Desktop\Oops\Repo\VREscapeRoom\VREscapeRoomPlugless\Source
+/I C:\Users\Slavi\Desktop\Oops\Repo\VREscapeRoom\VREscapeRoomPlugless\Source\VREscapeRoomPlugless
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -416,16 +416,16 @@
 /I ThirdParty\libSampleRate
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-/FI"E:\UnrealProjects\VREscapeRoom\VREscapeRoomPlugless\Intermediate\Build\Win64\VREscapeRoomPluglessEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"E:\UnrealProjects\VREscapeRoom\VREscapeRoomPlugless\Intermediate\Build\Win64\VREscapeRoomPluglessEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"E:\UnrealProjects\VREscapeRoom\VREscapeRoomPlugless\Intermediate\Build\Win64\VREscapeRoomPluglessEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"E:\UnrealProjects\VREscapeRoom\VREscapeRoomPlugless\Source\VREscapeRoomPlugless\ClassToBuildTheProject.cpp"
-/FI"E:\UnrealProjects\VREscapeRoom\VREscapeRoomPlugless\Intermediate\Build\Win64\UE4Editor\Development\VREscapeRoomPlugless\Definitions.VREscapeRoomPlugless.h"
-/Fo"E:\UnrealProjects\VREscapeRoom\VREscapeRoomPlugless\Intermediate\Build\Win64\UE4Editor\Development\VREscapeRoomPlugless\ClassToBuildTheProject.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
+/FI"C:\Users\Slavi\Desktop\Oops\Repo\VREscapeRoom\VREscapeRoomPlugless\Intermediate\Build\Win64\VREscapeRoomPluglessEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\Slavi\Desktop\Oops\Repo\VREscapeRoom\VREscapeRoomPlugless\Intermediate\Build\Win64\VREscapeRoomPluglessEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\Slavi\Desktop\Oops\Repo\VREscapeRoom\VREscapeRoomPlugless\Intermediate\Build\Win64\VREscapeRoomPluglessEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\Slavi\Desktop\Oops\Repo\VREscapeRoom\VREscapeRoomPlugless\Source\VREscapeRoomPlugless\ClassToBuildTheProject.cpp"
+/FI"C:\Users\Slavi\Desktop\Oops\Repo\VREscapeRoom\VREscapeRoomPlugless\Intermediate\Build\Win64\UE4Editor\Development\VREscapeRoomPlugless\Definitions.VREscapeRoomPlugless.h"
+/Fo"C:\Users\Slavi\Desktop\Oops\Repo\VREscapeRoom\VREscapeRoomPlugless\Intermediate\Build\Win64\UE4Editor\Development\VREscapeRoomPlugless\ClassToBuildTheProject.cpp.obj"
 /TP
 /GR-
 /W4

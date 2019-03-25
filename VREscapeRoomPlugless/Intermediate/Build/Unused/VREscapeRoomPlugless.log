@@ -1,40 +1,44 @@
-﻿  Using 'git status' to determine working set for adaptive non-unity build (E:\UnrealProjects\VREscapeRoom).
-  Creating makefile for hot reloading VREscapeRoomPluglessEditor (modules to compile have changed)
-  Compiling game modules for hot reload
-  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 27 actions with 8 processes...
-    [1/27] PCLaunch.rc
-    [2/27] PCLaunch.rc
-    [3/27] SharedPCH.Engine.cpp
-    [4/27] SharedPCH.UnrealEd.cpp
-    [5/27] ClassToBuildTheProject.cpp
-    [6/27] VREscapeRoomPlugless.cpp
-    [7/27] Module.OpenVRExpansionPlugin.gen.cpp
-    [8/27] Module.OpenVRExpansionPlugin.cpp
-    [9/27] Module.VRExpansionPlugin.gen.3_of_10.cpp
-    [10/27] Module.VRExpansionPlugin.gen.1_of_10.cpp
-    [11/27] Module.VRExpansionPlugin.gen.4_of_10.cpp
-    [12/27] Module.VRExpansionPlugin.gen.8_of_10.cpp
-    [13/27] Module.VRExpansionPlugin.gen.5_of_10.cpp
-    [14/27] Module.VRExpansionPlugin.gen.7_of_10.cpp
-    [15/27] Module.VRExpansionPlugin.gen.6_of_10.cpp
-    [16/27] Module.VRExpansionPlugin.gen.9_of_10.cpp
-    [17/27] UE4Editor-VREscapeRoomPlugless-3865.lib
-       Creating library E:\UnrealProjects\VREscapeRoom\VREscapeRoomPlugless\Intermediate\Build\Win64\UE4Editor\Development\VREscapeRoomPlugless\UE4Editor-VREscapeRoomPlugless-3865.lib and object E:\UnrealProjects\VREscapeRoom\VREscapeRoomPlugless\Intermediate\Build\Win64\UE4Editor\Development\VREscapeRoomPlugless\UE4Editor-VREscapeRoomPlugless-3865.exp
-    [18/27] UE4Editor-OpenVRExpansionPlugin-1043.lib
-       Creating library E:\UnrealProjects\VREscapeRoom\VREscapeRoomPlugless\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\UE4Editor-OpenVRExpansionPlugin-1043.lib and object E:\UnrealProjects\VREscapeRoom\VREscapeRoomPlugless\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\UE4Editor-OpenVRExpansionPlugin-1043.exp
-    [19/27] UE4Editor-VREscapeRoomPlugless-3865.dll
-       Creating library E:\UnrealProjects\VREscapeRoom\VREscapeRoomPlugless\Intermediate\Build\Win64\UE4Editor\Development\VREscapeRoomPlugless\UE4Editor-VREscapeRoomPlugless-3865.suppressed.lib and object E:\UnrealProjects\VREscapeRoom\VREscapeRoomPlugless\Intermediate\Build\Win64\UE4Editor\Development\VREscapeRoomPlugless\UE4Editor-VREscapeRoomPlugless-3865.suppressed.exp
-    [20/27] UE4Editor-OpenVRExpansionPlugin-1043.dll
-       Creating library E:\UnrealProjects\VREscapeRoom\VREscapeRoomPlugless\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\UE4Editor-OpenVRExpansionPlugin-1043.suppressed.lib and object E:\UnrealProjects\VREscapeRoom\VREscapeRoomPlugless\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\UE4Editor-OpenVRExpansionPlugin-1043.suppressed.exp
-    [21/27] Module.VRExpansionPlugin.gen.2_of_10.cpp
-    [22/27] Module.VRExpansionPlugin.gen.10_of_10.cpp
-    [23/27] Module.VRExpansionPlugin.3_of_3.cpp
-    [24/27] Module.VRExpansionPlugin.2_of_3.cpp
-    [25/27] Module.VRExpansionPlugin.1_of_3.cpp
-    [26/27] UE4Editor-VRExpansionPlugin-3865.lib
-       Creating library E:\UnrealProjects\VREscapeRoom\VREscapeRoomPlugless\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\UE4Editor-VRExpansionPlugin-3865.lib and object E:\UnrealProjects\VREscapeRoom\VREscapeRoomPlugless\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\UE4Editor-VRExpansionPlugin-3865.exp
-    [27/27] UE4Editor-VRExpansionPlugin-3865.dll
-       Creating library E:\UnrealProjects\VREscapeRoom\VREscapeRoomPlugless\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\UE4Editor-VRExpansionPlugin-3865.suppressed.lib and object E:\UnrealProjects\VREscapeRoom\VREscapeRoomPlugless\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\UE4Editor-VRExpansionPlugin-3865.suppressed.exp
+﻿  Performing full C++ include scan (building a new target)
+  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Slavi\Desktop\Oops\Repo\VREscapeRoom).
+  Creating makefile for VREscapeRoomPluglessEditor (no existing makefile)
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Parsing headers for VREscapeRoomPluglessEditor
+    Running UnrealHeaderTool "C:\Users\Slavi\Desktop\Oops\Repo\VREscapeRoom\VREscapeRoomPlugless\VREscapeRoomPlugless.uproject" "C:\Users\Slavi\Desktop\Oops\Repo\VREscapeRoom\VREscapeRoomPlugless\Intermediate\Build\Win64\VREscapeRoomPluglessEditor\Development\VREscapeRoomPluglessEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for VREscapeRoomPluglessEditor in 68,1886378 seconds
+  Building 28 actions with 8 processes...
+    [1/28] PCLaunch.rc
+    [2/28] PCLaunch.rc
+    [3/28] PCLaunch.rc
+    [4/28] SharedPCH.UnrealEd.cpp
+    [5/28] Module.VRExpansionPlugin.gen.3_of_10.cpp
+    [6/28] Module.VRExpansionPlugin.gen.8_of_10.cpp
+    [7/28] Module.VRExpansionPlugin.gen.4_of_10.cpp
+    [8/28] Module.VRExpansionPlugin.gen.6_of_10.cpp
+    [9/28] Module.VRExpansionPlugin.gen.7_of_10.cpp
+    [10/28] Module.VRExpansionPlugin.gen.5_of_10.cpp
+    [11/28] Module.VRExpansionPlugin.gen.9_of_10.cpp
+    [12/28] Module.VRExpansionPlugin.gen.2_of_10.cpp
+    [13/28] Module.VRExpansionPlugin.gen.1_of_10.cpp
+    [14/28] Module.VRExpansionPlugin.gen.10_of_10.cpp
+    [15/28] Module.VRExpansionPlugin.3_of_3.cpp
+    [16/28] Module.VRExpansionPlugin.2_of_3.cpp
+    [17/28] Module.VRExpansionPlugin.1_of_3.cpp
+    [18/28] UE4Editor-VRExpansionPlugin.lib
+       Creating library C:\Users\Slavi\Desktop\Oops\Repo\VREscapeRoom\VREscapeRoomPlugless\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\UE4Editor-VRExpansionPlugin.lib and object C:\Users\Slavi\Desktop\Oops\Repo\VREscapeRoom\VREscapeRoomPlugless\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\UE4Editor-VRExpansionPlugin.exp
+    [19/28] UE4Editor-VRExpansionPlugin.dll
+       Creating library C:\Users\Slavi\Desktop\Oops\Repo\VREscapeRoom\VREscapeRoomPlugless\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\UE4Editor-VRExpansionPlugin.suppressed.lib and object C:\Users\Slavi\Desktop\Oops\Repo\VREscapeRoom\VREscapeRoomPlugless\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\UE4Editor-VRExpansionPlugin.suppressed.exp
+    [20/28] SharedPCH.Engine.cpp
+    [21/28] ClassToBuildTheProject.cpp
+    [22/28] VREscapeRoomPlugless.cpp
+    [23/28] UE4Editor-VREscapeRoomPlugless.lib
+       Creating library C:\Users\Slavi\Desktop\Oops\Repo\VREscapeRoom\VREscapeRoomPlugless\Intermediate\Build\Win64\UE4Editor\Development\VREscapeRoomPlugless\UE4Editor-VREscapeRoomPlugless.lib and object C:\Users\Slavi\Desktop\Oops\Repo\VREscapeRoom\VREscapeRoomPlugless\Intermediate\Build\Win64\UE4Editor\Development\VREscapeRoomPlugless\UE4Editor-VREscapeRoomPlugless.exp
+    [24/28] UE4Editor-VREscapeRoomPlugless.dll
+       Creating library C:\Users\Slavi\Desktop\Oops\Repo\VREscapeRoom\VREscapeRoomPlugless\Intermediate\Build\Win64\UE4Editor\Development\VREscapeRoomPlugless\UE4Editor-VREscapeRoomPlugless.suppressed.lib and object C:\Users\Slavi\Desktop\Oops\Repo\VREscapeRoom\VREscapeRoomPlugless\Intermediate\Build\Win64\UE4Editor\Development\VREscapeRoomPlugless\UE4Editor-VREscapeRoomPlugless.suppressed.exp
+    [25/28] Module.OpenVRExpansionPlugin.gen.cpp
+    [26/28] Module.OpenVRExpansionPlugin.cpp
+    [27/28] UE4Editor-OpenVRExpansionPlugin.lib
+       Creating library C:\Users\Slavi\Desktop\Oops\Repo\VREscapeRoom\VREscapeRoomPlugless\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\UE4Editor-OpenVRExpansionPlugin.lib and object C:\Users\Slavi\Desktop\Oops\Repo\VREscapeRoom\VREscapeRoomPlugless\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\UE4Editor-OpenVRExpansionPlugin.exp
+    [28/28] UE4Editor-OpenVRExpansionPlugin.dll
+       Creating library C:\Users\Slavi\Desktop\Oops\Repo\VREscapeRoom\VREscapeRoomPlugless\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\UE4Editor-OpenVRExpansionPlugin.suppressed.lib and object C:\Users\Slavi\Desktop\Oops\Repo\VREscapeRoom\VREscapeRoomPlugless\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\UE4Editor-OpenVRExpansionPlugin.suppressed.exp
   Deploying VREscapeRoomPluglessEditor Win64 Development...
-  Total build time: 1063.76 seconds (Parallel executor: 990.26 seconds)
+  Total build time: 609,33 seconds (Parallel executor: 385,80 seconds)
