@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VREscapeRoomPlugless-3865.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UnrealProjects\VREscapeRoom\VREscapeRoomPlugless\Intermediate\Build\Win64\VREscapeRoomPluglessEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\UnrealProjects\VREscapeRoom\VREscapeRoomPlugless\Intermediate\Build\Win64\UE4Editor\Development\VREscapeRoomPlugless\ClassToBuildTheProject.cpp.obj"
+"E:\UnrealProjects\VREscapeRoom\VREscapeRoomPlugless\Intermediate\Build\Win64\UE4Editor\Development\VREscapeRoomPlugless\VREscapeRoomPlugless.cpp.obj"
+"E:\UnrealProjects\VREscapeRoom\VREscapeRoomPlugless\Intermediate\Build\Win64\UE4Editor\Development\VREscapeRoomPlugless\PCLaunch.rc.res"
+/OUT:"E:\UnrealProjects\VREscapeRoom\VREscapeRoomPlugless\Intermediate\Build\Win64\UE4Editor\Development\VREscapeRoomPlugless\UE4Editor-VREscapeRoomPlugless-3865.lib"

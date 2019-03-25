@@ -1,0 +1,5 @@
+E:\UnrealProjects\VREscapeRoom\VREscapeRoomPlugless\Source\VREscapeRoomPlugless\VREscapeRoomPlugless.Build.cs
+E:\UnrealProjects\VREscapeRoom\VREscapeRoomPlugless\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin\OpenVRExpansionPlugin.Build.cs
+E:\UnrealProjects\VREscapeRoom\VREscapeRoomPlugless\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\VRExpansionPlugin.Build.cs
+E:\UnrealProjects\VREscapeRoom\VREscapeRoomPlugless\Source\VREscapeRoomPlugless.Target.cs
+E:\UnrealProjects\VREscapeRoom\VREscapeRoomPlugless\Source\VREscapeRoomPluglessEditor.Target.cs
