@@ -24,8 +24,8 @@
 /wd4838
 /we4668
 /I .
-/I E:\UnrealProjects\mordentral-vrexppluginexample-d51abb2d3aa1\Source
-/I E:\UnrealProjects\mordentral-vrexppluginexample-d51abb2d3aa1\Source\VRExpPluginExample
+/I "C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Source"
+/I "C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Source\VRExpPluginExample"
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -414,10 +414,10 @@
 /I ThirdParty
 /I ThirdParty\libSampleRate\Public
 /I ThirdParty\libSampleRate
-/I E:\UnrealProjects\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions
-/I E:\UnrealProjects\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\AdvancedSessions\AdvancedSessions\Source
-/I E:\UnrealProjects\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes
-/I E:\UnrealProjects\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions
+/I "C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions"
+/I "C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\AdvancedSessions\AdvancedSessions\Source"
+/I "C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes"
+/I "C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions"
 /I ..\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem\Source
@@ -434,16 +434,16 @@
 /I Runtime\Networking\Public\Interfaces
 /I Runtime\Networking\Public\Interfaces\IPv4
 /I Runtime\Networking\Public\Interfaces\Steam
-/I E:\UnrealProjects\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin
-/I E:\UnrealProjects\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source
+/I "C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin"
+/I "C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source"
 /I Runtime\Engine\Private\PhysicsEngine
-/I E:\UnrealProjects\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public
-/I E:\UnrealProjects\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin
-/I E:\UnrealProjects\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables
-/I E:\UnrealProjects\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts
-/I E:\UnrealProjects\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Interactibles
-/I E:\UnrealProjects\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc
-/I E:\UnrealProjects\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\SimpleChar
+/I "C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public"
+/I "C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin"
+/I "C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables"
+/I "C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts"
+/I "C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Interactibles"
+/I "C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc"
+/I "C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\SimpleChar"
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -468,17 +468,17 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6\include\um"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-/FI"E:\UnrealProjects\mordentral-vrexppluginexample-d51abb2d3aa1\Intermediate\Build\Win64\VRExpPluginExampleEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"E:\UnrealProjects\mordentral-vrexppluginexample-d51abb2d3aa1\Intermediate\Build\Win64\VRExpPluginExampleEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"E:\UnrealProjects\mordentral-vrexppluginexample-d51abb2d3aa1\Intermediate\Build\Win64\VRExpPluginExampleEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"E:\UnrealProjects\mordentral-vrexppluginexample-d51abb2d3aa1\Source\VRExpPluginExample\VRExpPluginExample.cpp"
-/FI"E:\UnrealProjects\mordentral-vrexppluginexample-d51abb2d3aa1\Intermediate\Build\Win64\UE4Editor\Development\VRExpPluginExample\Definitions.VRExpPluginExample.h"
-/Fo"E:\UnrealProjects\mordentral-vrexppluginexample-d51abb2d3aa1\Intermediate\Build\Win64\UE4Editor\Development\VRExpPluginExample\VRExpPluginExample.cpp.obj"
+/FI"C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Intermediate\Build\Win64\VRExpPluginExampleEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Intermediate\Build\Win64\VRExpPluginExampleEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Intermediate\Build\Win64\VRExpPluginExampleEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Source\VRExpPluginExample\VRExpPluginExample.cpp"
+/FI"C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Intermediate\Build\Win64\UE4Editor\Development\VRExpPluginExample\Definitions.VRExpPluginExample.h"
+/Fo"C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Intermediate\Build\Win64\UE4Editor\Development\VRExpPluginExample\VRExpPluginExample.cpp.obj"
 /TP
 /GR-
 /W4

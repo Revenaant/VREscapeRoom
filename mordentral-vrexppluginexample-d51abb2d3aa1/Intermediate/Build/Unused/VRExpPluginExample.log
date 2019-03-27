@@ -1,0 +1,60 @@
+﻿  Cleaning VRExpPluginExampleEditor Binaries...
+  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom).
+  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom).
+  Creating makefile for VRExpPluginExampleEditor (no existing makefile)
+  Performing full C++ include scan (no include cache file)
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Parsing headers for VRExpPluginExampleEditor
+    Running UnrealHeaderTool "C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\VRExpPluginExample.uproject" "C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Intermediate\Build\Win64\VRExpPluginExampleEditor\Development\VRExpPluginExampleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for VRExpPluginExampleEditor in 10.6301011 seconds
+  Building 38 actions with 8 processes...
+    [1/38] PCLaunch.rc
+    [2/38] PCLaunch.rc
+    [3/38] PCLaunch.rc
+    [4/38] PCLaunch.rc
+    [5/38] PCLaunch.rc
+    [6/38] SharedPCH.UnrealEd.cpp
+    [7/38] SharedPCH.Engine.cpp
+    [8/38] Module.VRExpansionPlugin.gen.10_of_10.cpp
+    [9/38] Module.VRExpansionPlugin.gen.5_of_10.cpp
+    [10/38] Module.VRExpansionPlugin.gen.6_of_10.cpp
+    [11/38] Module.AdvancedSessions.cpp
+    [12/38] Module.VRExpansionPlugin.gen.9_of_10.cpp
+    [13/38] Module.VRExpansionPlugin.3_of_3.cpp
+    [14/38] Module.VRExpansionPlugin.gen.4_of_10.cpp
+    [15/38] Module.VRExpansionPlugin.gen.3_of_10.cpp
+    [16/38] Module.VRExpansionPlugin.gen.2_of_10.cpp
+    [17/38] Module.VRExpansionPlugin.2_of_3.cpp
+    [18/38] Module.VRExpansionPlugin.gen.7_of_10.cpp
+    [19/38] Module.VRExpansionPlugin.gen.8_of_10.cpp
+    [20/38] Module.AdvancedSteamSessions.gen.cpp
+    [21/38] Module.OpenVRExpansionPlugin.cpp
+    [22/38] Module.OpenVRExpansionPlugin.gen.cpp
+    [23/38] Module.AdvancedSteamSessions.cpp
+    [24/38] UE4Editor-OpenVRExpansionPlugin.lib
+       Creating library C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\UE4Editor-OpenVRExpansionPlugin.lib and object C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\UE4Editor-OpenVRExpansionPlugin.exp
+    [25/38] UE4Editor-AdvancedSteamSessions.lib
+       Creating library C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\UE4Editor-AdvancedSteamSessions.lib and object C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\UE4Editor-AdvancedSteamSessions.exp
+    [26/38] UE4Editor-OpenVRExpansionPlugin.dll
+       Creating library C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\UE4Editor-OpenVRExpansionPlugin.suppressed.lib and object C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\UE4Editor-OpenVRExpansionPlugin.suppressed.exp
+    [27/38] Module.AdvancedSessions.gen.cpp
+    [28/38] UE4Editor-AdvancedSessions.lib
+       Creating library C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\UE4Editor-AdvancedSessions.lib and object C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\UE4Editor-AdvancedSessions.exp
+    [29/38] UE4Editor-AdvancedSessions.dll
+       Creating library C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\UE4Editor-AdvancedSessions.suppressed.lib and object C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\UE4Editor-AdvancedSessions.suppressed.exp
+    [30/38] UE4Editor-AdvancedSteamSessions.dll
+       Creating library C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\UE4Editor-AdvancedSteamSessions.suppressed.lib and object C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\UE4Editor-AdvancedSteamSessions.suppressed.exp
+    [31/38] Module.VRExpansionPlugin.gen.1_of_10.cpp
+    [32/38] EmptyClassForProject.cpp
+    [33/38] VRExpPluginExample.cpp
+    [34/38] UE4Editor-VRExpPluginExample.lib
+       Creating library C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Intermediate\Build\Win64\UE4Editor\Development\VRExpPluginExample\UE4Editor-VRExpPluginExample.lib and object C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Intermediate\Build\Win64\UE4Editor\Development\VRExpPluginExample\UE4Editor-VRExpPluginExample.exp
+    [35/38] Module.VRExpansionPlugin.1_of_3.cpp
+    [36/38] UE4Editor-VRExpansionPlugin.lib
+       Creating library C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\UE4Editor-VRExpansionPlugin.lib and object C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\UE4Editor-VRExpansionPlugin.exp
+    [37/38] UE4Editor-VRExpPluginExample.dll
+       Creating library C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Intermediate\Build\Win64\UE4Editor\Development\VRExpPluginExample\UE4Editor-VRExpPluginExample.suppressed.lib and object C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Intermediate\Build\Win64\UE4Editor\Development\VRExpPluginExample\UE4Editor-VRExpPluginExample.suppressed.exp
+    [38/38] UE4Editor-VRExpansionPlugin.dll
+       Creating library C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\UE4Editor-VRExpansionPlugin.suppressed.lib and object C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\UE4Editor-VRExpansionPlugin.suppressed.exp
+  Deploying VRExpPluginExampleEditor Win64 Development...
+  Total build time: 85.00 seconds (Parallel executor: 68.06 seconds)

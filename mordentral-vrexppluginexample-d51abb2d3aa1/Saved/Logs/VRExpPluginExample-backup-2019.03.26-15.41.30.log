@@ -1,0 +1,1375 @@
+﻿Log file open, 03/26/19 16:10:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VRExpPluginExample
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.266382
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogPluginManager: Mounting plugin OpenVRExpansionPlugin
+LogPluginManager: Mounting plugin VRExpansionPlugin
+LogStreaming: Display: Took  0.086s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7820HQ CPU @ 2.90GHz, GPU: NVIDIA Quadro P5200
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.03.26-15.10.18:068][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.03.26-15.10.18:068][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.03.26-15.10.18:068][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Config/Windows/Engine.ini]
+[2019.03.26-15.10.18:068][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.03.26-15.10.18:068][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.03.26-15.10.18:068][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.03.26-15.10.18:068][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.03.26-15.10.18:068][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.03.26-15.10.18:068][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.03.26-15.10.18:068][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.03.26-15.10.18:068][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.03.26-15.10.18:068][  0]LogConfig: Setting CVar [[r.ForwardShading:1]]
+[2019.03.26-15.10.18:068][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:3]]
+[2019.03.26-15.10.18:068][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.03.26-15.10.18:068][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.03.26-15.10.18:068][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2019.03.26-15.10.18:068][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.03.26-15.10.18:068][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.03.26-15.10.18:068][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:0]]
+[2019.03.26-15.10.18:068][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.03.26-15.10.18:069][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:1]]
+[2019.03.26-15.10.18:069][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.03.26-15.10.18:069][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Config/Windows/Engine.ini]
+[2019.03.26-15.10.18:069][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Config/Windows/Engine.ini]
+[2019.03.26-15.10.18:069][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.03.26-15.10.18:069][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.03.26-15.10.18:069][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.03.26-15.10.18:069][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.03.26-15.10.18:069][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.03.26-15.10.18:069][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.03.26-15.10.18:069][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.03.26-15.10.18:069][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.03.26-15.10.18:069][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.03.26-15.10.18:069][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.03.26-15.10.18:069][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.03.26-15.10.18:069][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.03.26-15.10.18:069][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.03.26-15.10.18:069][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Config/Windows/Engine.ini]
+[2019.03.26-15.10.18:069][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.03.26-15.10.18:069][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.03.26-15.10.18:069][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.03.26-15.10.18:069][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.03.26-15.10.18:069][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.03.26-15.10.18:069][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.03.26-15.10.18:069][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.03.26-15.10.18:069][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.03.26-15.10.18:069][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.03.26-15.10.18:069][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.03.26-15.10.18:069][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.03.26-15.10.18:069][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.03.26-15.10.18:069][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.03.26-15.10.18:069][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.03.26-15.10.18:069][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Config/Windows/Engine.ini]
+[2019.03.26-15.10.18:069][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Config/Windows/Engine.ini]
+[2019.03.26-15.10.18:075][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Config/Windows/Scalability.ini]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Config/Windows/Scalability.ini]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Config/Windows/Scalability.ini]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Config/Windows/Scalability.ini]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.26-15.10.18:075][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Config/Windows/Scalability.ini]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Config/Windows/Scalability.ini]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Config/Windows/Scalability.ini]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.26-15.10.18:076][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.26-15.10.18:076][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.26-15.10.18:076][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.26-15.10.18:088][  0]LogHAL: Display: Platform has ~ 16 GB [17099833344 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.03.26-15.10.18:088][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.26-15.10.18:088][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Config/Windows/Scalability.ini]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Config/Windows/Scalability.ini]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Config/Windows/Scalability.ini]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Config/Windows/Scalability.ini]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.26-15.10.18:088][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Config/Windows/Scalability.ini]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Config/Windows/Scalability.ini]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Config/Windows/Scalability.ini]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.03.26-15.10.18:089][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.03.26-15.10.18:089][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Config/Windows/Engine.ini]
+[2019.03.26-15.10.18:089][  0]LogInit: Computer: DESKTOP-GMKVEES
+[2019.03.26-15.10.18:089][  0]LogInit: User: HPZVRBackpack
+[2019.03.26-15.10.18:089][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.03.26-15.10.18:089][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.03.26-15.10.18:090][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.03.26-15.10.18:090][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.26-15.10.18:090][  0]LogMemory: Process Physical Memory: 103.00 MB used, 103.01 MB peak
+[2019.03.26-15.10.18:090][  0]LogMemory: Process Virtual Memory: 91.39 MB used, 91.39 MB peak
+[2019.03.26-15.10.18:090][  0]LogMemory: Physical Memory: 6165.78 MB used,  10141.89 MB free, 16307.67 MB total
+[2019.03.26-15.10.18:090][  0]LogMemory: Virtual Memory: 4651.24 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.03.26-15.10.18:104][  0]LogInit: Using OS detected language (en-GB).
+[2019.03.26-15.10.18:104][  0]LogInit: Using OS detected locale (en-US).
+[2019.03.26-15.10.18:104][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.03.26-15.10.18:483][  0]LogStreaming: Display: Took  0.379s to InitEngineTextLocalization.
+[2019.03.26-15.10.18:530][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.26-15.10.18:530][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.26-15.10.20:264][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.26-15.10.20:349][  0]LogD3D11RHI:    0. 'NVIDIA Quadro P5200' (Feature Level 11_0)
+[2019.03.26-15.10.20:349][  0]LogD3D11RHI:       16255/0/8153 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.03.26-15.10.20:352][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.26-15.10.20:352][  0]LogD3D11RHI:       0/0/8153 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.26-15.10.20:352][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.26-15.10.20:363][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.26-15.10.20:363][  0]LogD3D11RHI:     GPU DeviceId: 0x1bb5 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.26-15.10.20:364][  0]LogWindows: EnumDisplayDevices:
+[2019.03.26-15.10.20:364][  0]LogWindows:    0. 'NVIDIA Quadro P5200' (P:1 D:1)
+[2019.03.26-15.10.20:364][  0]LogWindows:    1. 'NVIDIA Quadro P5200' (P:0 D:0)
+[2019.03.26-15.10.20:364][  0]LogWindows:    2. 'NVIDIA Quadro P5200' (P:0 D:0)
+[2019.03.26-15.10.20:365][  0]LogWindows:    3. 'NVIDIA Quadro P5200' (P:0 D:0)
+[2019.03.26-15.10.20:365][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.03.26-15.10.20:365][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro P5200
+[2019.03.26-15.10.20:365][  0]LogD3D11RHI:   Driver Version: 416.58 (internal:25.21.14.1658, unified:416.58)
+[2019.03.26-15.10.20:365][  0]LogD3D11RHI:      Driver Date: 10-23-2018
+[2019.03.26-15.10.20:365][  0]LogRHI: Texture pool is 11378 MB (70% of 16255 MB)
+[2019.03.26-15.10.20:443][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.26-15.10.20:464][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.03.26-15.10.21:571][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.26-15.10.21:599][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.26-15.10.21:625][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.26-15.10.21:655][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.26-15.10.21:683][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.26-15.10.21:720][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.26-15.10.21:751][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.26-15.10.21:777][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.26-15.10.21:788][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.26-15.10.21:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-15.10.21:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-15.10.21:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-15.10.21:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-15.10.21:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-15.10.21:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-15.10.21:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-15.10.21:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-15.10.21:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-15.10.21:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-15.10.21:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-15.10.21:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-15.10.21:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-15.10.21:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-15.10.21:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-15.10.21:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-15.10.21:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-15.10.21:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-15.10.21:952][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.26-15.10.22:042][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.26-15.10.22:042][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.26-15.10.22:094][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.26-15.10.22:094][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.26-15.10.22:120][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.26-15.10.22:143][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.26-15.10.22:166][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.26-15.10.22:193][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.26-15.10.22:302][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.26-15.10.22:302][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.26-15.10.22:302][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.26-15.10.22:397][  0]LogShaderCompilers: Guid format shader working directory is -51 characters bigger than the processId version (../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Intermediate/Shaders/WorkingDirectory/8812/).
+[2019.03.26-15.10.22:397][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/HP ZVR Backpack/AppData/Local/Temp/UnrealShaderWorkingDir/393FFDF244725624EFFE07A0A01FCA6F/'.
+[2019.03.26-15.10.22:401][  0]LogXGEController: Cleaning working directory: C:/Users/HP ZVR Backpack/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.03.26-15.10.22:401][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.26-15.10.22:401][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.26-15.10.22:401][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.26-15.10.23:455][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.26-15.10.23:550][  0]LogDerivedDataCache: Loaded boot cache 0.10s 89MB C:/Users/HP ZVR Backpack/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.26-15.10.23:550][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/HP ZVR Backpack/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.03.26-15.10.23:551][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.26-15.10.23:551][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.26-15.10.23:551][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.26-15.10.23:551][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.26-15.10.23:573][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.26-15.10.23:573][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.26-15.10.23:573][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.03.26-15.10.23:586][  0]LogDerivedDataCache: Using Local data cache path C:/Users/HP ZVR Backpack/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.26-15.10.23:586][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.26-15.10.23:586][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.26-15.10.23:620][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.26-15.10.23:622][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.26-15.10.23:622][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.26-15.10.23:724][  0]LogAssetRegistry: FAssetRegistry took 0.0392 seconds to start up
+[2019.03.26-15.10.24:152][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.26-15.10.24:355][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.26-15.10.24:358][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.26-15.10.24:358][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.26-15.10.24:358][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.26-15.10.24:358][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.26-15.10.24:371][  0]LogNetVersion: VRExpPluginExample 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4206975451)
+[2019.03.26-15.10.24:969][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.106196 seconds
+[2019.03.26-15.10.24:975][  0]LogUObjectArray: 39784 objects as part of root set at end of initial load.
+[2019.03.26-15.10.24:975][  0]LogUObjectAllocator: 6925464 out of 0 bytes used by permanent object pool.
+[2019.03.26-15.10.24:976][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.26-15.10.25:733][  0]LogMaterial: Display: Missing cached shader map for material BaseColor, compiling. 
+[2019.03.26-15.10.25:734][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\BaseColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.26-15.10.25:734][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.26-15.10.25:774][  0]LogMaterial: Display: Missing cached shader map for material LightingModel, compiling. 
+[2019.03.26-15.10.25:775][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\LightingModel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.26-15.10.25:775][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.26-15.10.25:779][  0]LogMaterial: Display: Missing cached shader map for material MaterialAO, compiling. 
+[2019.03.26-15.10.25:780][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\MaterialAO.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.26-15.10.25:780][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.26-15.10.25:785][  0]LogMaterial: Display: Missing cached shader map for material Metallic, compiling. 
+[2019.03.26-15.10.25:785][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Metallic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.26-15.10.25:785][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.26-15.10.25:789][  0]LogMaterial: Display: Missing cached shader map for material Opacity, compiling. 
+[2019.03.26-15.10.25:790][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Opacity.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.26-15.10.25:790][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.26-15.10.25:794][  0]LogMaterial: Display: Missing cached shader map for material Roughness, compiling. 
+[2019.03.26-15.10.25:794][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Roughness.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.26-15.10.25:794][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.26-15.10.25:824][  0]LogMaterial: Display: Missing cached shader map for material Specular, compiling. 
+[2019.03.26-15.10.25:825][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Specular.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.26-15.10.25:825][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.26-15.10.25:828][  0]LogMaterial: Display: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2019.03.26-15.10.25:829][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\SubsurfaceColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.26-15.10.25:829][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.26-15.10.25:834][  0]LogMaterial: Display: Missing cached shader map for material WorldNormal, compiling. 
+[2019.03.26-15.10.25:834][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\WorldNormal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.26-15.10.25:834][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.26-15.10.25:901][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.26-15.10.25:915][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.26-15.10.26:647][  0]SourceControl: Source control is disabled
+[2019.03.26-15.10.26:648][  0]SourceControl: Source control is disabled
+[2019.03.26-15.10.26:648][  0]SourceControl: Source control is disabled
+[2019.03.26-15.10.26:649][  0]SourceControl: Source control is disabled
+[2019.03.26-15.10.26:814][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.26-15.10.26:897][  0]LogOcInput: OculusInput pre-init called
+[2019.03.26-15.10.27:062][  0]LogEngine: Initializing Engine...
+[2019.03.26-15.10.27:066][  0]LogHMD: SteamVR initialized.  Driver: holographic  Display: WindowsHolographic
+[2019.03.26-15.10.27:069][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.26-15.10.27:070][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Reconstruct NetIndex -  0.000 s
+[2019.03.26-15.10.27:070][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.26-15.10.27:338][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.26-15.10.27:356][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.26-15.10.27:417][  0]LogInit: XAudio2 using 'Headphones (Realtek USB2.0 Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.03.26-15.10.27:437][  0]LogInit: FAudioDevice initialized.
+[2019.03.26-15.10.27:438][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.26-15.10.27:492][  0]LogDerivedDataCache: Saved boot cache 0.05s 89MB C:/Users/HP ZVR Backpack/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.26-15.10.27:501][  0]LogInit: Texture streaming: Enabled
+[2019.03.26-15.10.27:519][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.26-15.10.27:534][  0]LogInit: Transaction tracking system initialized
+[2019.03.26-15.10.27:562][  0]BlueprintLog: New page: Editor Load
+[2019.03.26-15.10.27:640][  0]LocalizationService: Localization service is disabled
+[2019.03.26-15.10.28:175][  0]LogFileCache: Scanning file cache for directory 'C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Content/' took 0.02s
+[2019.03.26-15.10.28:175][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.26-15.10.28:175][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.26-15.10.28:175][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.26-15.10.28:175][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.26-15.10.28:175][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Reconstruct NetIndex -  0.000 s
+[2019.03.26-15.10.28:175][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.26-15.10.28:314][  0]SourceControl: Source control is disabled
+[2019.03.26-15.10.28:314][  0]LightingResults: New page: Lighting Build
+[2019.03.26-15.10.28:318][  0]MapCheck: New page: Map Check
+[2019.03.26-15.10.28:318][  0]LightingResults: New page: Lighting Build
+[2019.03.26-15.10.31:932][  0]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.03.26-15.10.31:981][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.26-15.10.32:027][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.26-15.10.32:028][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.232ms to complete.
+[2019.03.26-15.10.32:028][  0]LogFileHelpers: Loading map 'MotionControllerMap' took 3.714
+[2019.03.26-15.10.32:128][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-15.10.32:136][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-15.10.32:144][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-15.10.32:151][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-15.10.32:158][  0]LogCollectionManager: Loaded 0 collections in 0.001656 seconds
+[2019.03.26-15.10.32:174][  0]LogFileCache: Scanning file cache for directory 'C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Collections/' took 0.01s
+[2019.03.26-15.10.32:174][  0]LogFileCache: Scanning file cache for directory 'C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Content/Developers/HPZVRBackpack/Collections/' took 0.00s
+[2019.03.26-15.10.32:174][  0]LogFileCache: Scanning file cache for directory 'C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Content/Collections/' took 0.00s
+[2019.03.26-15.10.32:174][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.03.26-15.10.32:185][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2730 classes and 641 folders.
+[2019.03.26-15.10.32:191][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.26-15.10.32:192][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-15.10.32:193][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-15.10.32:193][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-15.10.32:194][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-15.10.32:194][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-15.10.32:195][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-15.10.32:195][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-15.10.32:195][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-15.10.32:196][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-15.10.32:196][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-15.10.32:197][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-15.10.32:197][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-15.10.32:197][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-15.10.32:198][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-15.10.32:199][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-15.10.32:199][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-15.10.32:199][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-15.10.32:200][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-15.10.32:200][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-15.10.32:201][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-15.10.32:201][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-15.10.32:202][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-15.10.32:202][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-15.10.32:202][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-15.10.32:203][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-15.10.32:203][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-15.10.32:233][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.26-15.10.32:238][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.03.26-15.10.32:253][  0]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.26-15.10.32:257][  0]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.26-15.10.32:262][  0]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.26-15.10.32:345][  0]LogRenderer: Reallocating scene render targets to support 1024x1024 Format 10 NumSamples 4 (Frame:1).
+[2019.03.26-15.10.32:363][  0]LogRenderer: Reallocating scene render targets to support 1208x1024 Format 26 NumSamples 4 (Frame:1).
+[2019.03.26-15.10.32:511][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.03.26-15.10.32:511][  0]LogLoad: (Engine Initialization) Total time: 15.91 seconds
+[2019.03.26-15.10.32:511][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.26-15.10.32:603][  0]LogHMD: SteamVR Shutting down.
+[2019.03.26-15.10.32:610][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.26-15.10.32:625][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.26-15.10.33:775][ 11]LogAssetRegistry: Asset discovery search completed in 10.0752 seconds
+[2019.03.26-15.10.33:778][ 11]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.26-15.10.33:778][ 11]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000066 seconds (updated 0 objects)
+[2019.03.26-15.11.08:852][734]Cmd: TRANSACTION UNDO
+[2019.03.26-15.11.08:852][734]LogEditorTransaction: Undo Move Actors
+[2019.03.26-15.11.08:952][734]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.26-15.11.41:803][673]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.26-15.11.48:324][ 58]Cmd: TRANSACTION UNDO
+[2019.03.26-15.11.48:325][ 58]LogEditorTransaction: Undo Move Actors
+[2019.03.26-15.12.00:375][756]Cmd: TRANSACTION UNDO
+[2019.03.26-15.12.00:375][756]LogEditorTransaction: Undo Move Actors
+[2019.03.26-15.12.01:883][834]Cmd: TRANSACTION UNDO
+[2019.03.26-15.12.01:883][834]LogEditorTransaction: Undo Move Actors
+[2019.03.26-15.12.03:265][906]Cmd: TRANSACTION UNDO
+[2019.03.26-15.12.03:265][906]LogEditorTransaction: Undo Move Actors
+[2019.03.26-15.12.05:017][999]Cmd: TRANSACTION UNDO
+[2019.03.26-15.12.05:017][999]LogEditorTransaction: Undo Move Actors
+[2019.03.26-15.12.16:782][696]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-15.12.22:204][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-15.12.23:493][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-15.12.24:664][168]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-15.12.26:219][261]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-15.12.29:389][451]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-15.12.30:361][509]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-15.12.31:071][551]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-15.12.35:406][808]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-15.12.40:120][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-15.12.58:954][212]Cmd: TRANSACTION UNDO
+[2019.03.26-15.12.58:954][212]LogEditorTransaction: Undo Move Actors
+[2019.03.26-15.13.04:842][559]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube16)
+[2019.03.26-15.13.05:029][567]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.26-15.13.13:118][ 51]LogEditorViewport: Clicking on Actor (LMB): ClimbWallActor_C (ClimbWallActor)
+[2019.03.26-15.13.15:747][205]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.26-15.13.29:750][ 42]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.26-15.13.49:854][244]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.26-15.13.59:461][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-15.14.29:777][628]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2019.03.26-15.14.33:597][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-15.14.37:555][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-15.14.43:187][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-15.14.46:429][621]Cmd: TRANSACTION UNDO
+[2019.03.26-15.14.46:429][621]LogEditorTransaction: Undo Scale Components
+[2019.03.26-15.14.46:430][621]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ClimbWallActor2.StaticMesh' 
+[2019.03.26-15.14.46:431][621]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ClimbWallActor2.StaticMesh' 
+[2019.03.26-15.14.46:438][621]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ClimbWallActor2.StaticMesh' 
+[2019.03.26-15.14.46:860][645]Cmd: TRANSACTION UNDO
+[2019.03.26-15.14.46:860][645]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2019.03.26-15.14.47:585][686]Cmd: TRANSACTION UNDO
+[2019.03.26-15.14.47:585][686]LogEditorTransaction: Undo Scale Components
+[2019.03.26-15.14.49:380][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-15.15.14:703][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-15.15.24:452][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-15.15.35:981][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_StaticMesh)
+[2019.03.26-15.15.39:137][759]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.26-15.15.47:303][237]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.26-15.15.54:850][684]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.26-15.16.01:069][ 55]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.26-15.16.16:442][958]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.26-15.16.26:841][570]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.26-15.16.41:429][443]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2019.03.26-15.16.43:762][578]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.26-15.16.44:348][611]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.03.26-15.16.45:569][681]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.26-15.16.51:371][ 29]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.03.26-15.16.52:604][101]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.03.26-15.16.57:082][369]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume2)
+[2019.03.26-15.17.01:382][624]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.03.26-15.17.06:102][896]Cmd: TRANSACTION UNDO
+[2019.03.26-15.17.06:102][896]LogEditorTransaction: Undo Scale Actors
+[2019.03.26-15.17.08:957][ 67]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.26-15.17.11:446][214]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.26-15.17.12:175][257]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume3)
+[2019.03.26-15.17.16:303][502]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.26-15.17.21:876][836]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2019.03.26-15.17.36:959][736]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.26-15.17.44:911][212]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.26-15.17.46:828][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-15.18.05:259][690]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/HP ZVR Backpack/Downloads/Ship.fbx)
+[2019.03.26-15.18.05:339][690]LogFbx: Loading FBX Scene from ../../../../../../Users/HP ZVR Backpack/Downloads/Ship.fbx
+[2019.03.26-15.18.05:797][690]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.26-15.18.22:056][690]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.03.26-15.18.40:001][761]LogLinker: Warning: Can't find file '/Game/Game/Maps/BasicTestMap_BuiltData'
+[2019.03.26-15.18.40:001][761]LogLinker: Warning: Can't find file for asset '/Game/Game/Maps/BasicTestMap_BuiltData' while loading ../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Content/Game/Maps/BasicTestMap.umap.
+[2019.03.26-15.18.40:003][761]LoadErrors: Error: /Game/Game/Maps/BasicTestMap : Can't find file for asset. /Game/Game/Maps/BasicTestMap_BuiltData
+[2019.03.26-15.18.40:005][761]LogLinker: Warning: Can't find file '/Game/Game/Maps/BasicTestMap_BuiltData'
+[2019.03.26-15.18.40:005][761]LogLinker: Warning: Can't find file for asset '/Game/Game/Maps/BasicTestMap_BuiltData' while loading ../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Content/Game/Maps/BasicTestMap.umap.
+[2019.03.26-15.18.40:007][761]LogLinker: Warning: Can't find file '/Game/Game/Maps/BasicTestMap_BuiltData'
+[2019.03.26-15.18.40:007][761]LogLinker: Warning: Can't find file for asset '/Game/Game/Maps/BasicTestMap_BuiltData' while loading NULL.
+[2019.03.26-15.18.40:007][761]LogLinker: Warning: Can't find file '/Game/Game/Maps/BasicTestMap_BuiltData'
+[2019.03.26-15.18.40:008][761]LogLinker: Warning: Can't find file for asset '/Game/Game/Maps/BasicTestMap_BuiltData' while loading NULL.
+[2019.03.26-15.18.40:012][761]LogLinker: Warning: Can't find file '/Game/Game/Maps/BasicTestMap_BuiltData'
+[2019.03.26-15.18.40:012][761]LoadErrors: Failed to load /Game/Game/Maps/BasicTestMap_BuiltData.BasicTestMap_BuiltData Referenced by PersistentLevel
+[2019.03.26-15.18.40:012][761]LogLinker: Warning: Can't find file for asset '/Game/Game/Maps/BasicTestMap_BuiltData' while loading NULL.
+[2019.03.26-15.18.40:015][761]LogAIModule: Creating AISystem for world BasicTestMap
+[2019.03.26-15.18.40:234][761]LogMetaData: Removing '/Game/Prototype/Maps/BasicTestMap.BasicTestMap_C' ref from Metadata '/Game/Game/Maps/BasicTestMap.PackageMetaData'
+[2019.03.26-15.18.40:234][761]LogMetaData: Removing '/Game/Prototype/Maps/BasicTestMap.BasicTestMap:PersistentLevel.BasicTestMap.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Game/Maps/BasicTestMap.PackageMetaData'
+[2019.03.26-15.18.40:234][761]LogMetaData: Removing '/Game/Prototype/Maps/BasicTestMap.BasicTestMap:PersistentLevel.BasicTestMap.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Game/Maps/BasicTestMap.PackageMetaData'
+[2019.03.26-15.18.40:234][761]LogMetaData: Removing '/Game/Prototype/Maps/BasicTestMap.SKEL_BasicTestMap_C' ref from Metadata '/Game/Game/Maps/BasicTestMap.PackageMetaData'
+[2019.03.26-15.18.40:468][761]LogSavePackage: Moving '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/BasicTestMap7D6476D54F5A0915A7127484EF8A0082.tmp' to '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Content/Prototype/Maps/BasicTestMap.umap'
+[2019.03.26-15.18.40:477][761]LogFileHelpers: Saving map 'BasicTestMap' took 0.196
+[2019.03.26-15.18.48:968][107]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/HP ZVR Backpack/Downloads/Ship.fbx)
+[2019.03.26-15.18.49:024][107]LogFbx: Loading FBX Scene from ../../../../../../Users/HP ZVR Backpack/Downloads/Ship.fbx
+[2019.03.26-15.18.49:474][107]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.26-15.19.32:485][107]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.03.26-15.19.32:675][107]LogMaterial: Display: Missing cached shader map for material phong1, compiling. 
+[2019.03.26-15.19.32:725][107]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.26-15.19.32:725][107]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.19.32:725][107]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.26-15.19.32:725][107]LogFbx: Warning: Triangulating static mesh pCube19
+[2019.03.26-15.19.32:756][107]LogStaticMesh: Building static mesh Ship_pCube19...
+[2019.03.26-15.19.32:773][107]LogStaticMesh: Built static mesh [0.02s] /Game/Prototype/Ship_pCube19.Ship_pCube19
+[2019.03.26-15.19.32:793][107]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2019.03.26-15.19.32:811][107]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.26-15.19.32:815][107]LogFbx: Warning: Triangulating static mesh Holder_LP
+[2019.03.26-15.19.32:830][107]LogStaticMesh: Building static mesh Ship_Holder_LP...
+[2019.03.26-15.19.32:839][107]LogStaticMesh: Built static mesh [0.01s] /Game/Prototype/Ship_Holder_LP.Ship_Holder_LP
+[2019.03.26-15.19.32:872][107]LogFbx: Warning: Triangulating static mesh Holder_HP
+[2019.03.26-15.19.33:968][107]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.19.34:015][107]LogStaticMesh: Building static mesh Ship_Holder_HP...
+[2019.03.26-15.19.34:724][107]LogStaticMesh: Built static mesh [0.71s] /Game/Prototype/Ship_Holder_HP.Ship_Holder_HP
+[2019.03.26-15.19.34:727][107]LogStaticMesh: Warning: Ship_Holder_HP has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.03.26-15.19.34:727][107]LogStaticMesh: Warning: Ship_Holder_HP has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.03.26-15.19.34:759][107]LogFbx: Warning: Triangulating static mesh Cricle_HP
+[2019.03.26-15.19.35:861][107]LogStaticMesh: Building static mesh Ship_Cricle_HP...
+[2019.03.26-15.19.37:418][107]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.26-15.19.37:418][107]LogStaticMesh: Built static mesh [1.56s] /Game/Prototype/Ship_Cricle_HP.Ship_Cricle_HP
+[2019.03.26-15.19.37:451][107]LogFbx: Warning: Triangulating static mesh Cube_02
+[2019.03.26-15.19.37:460][107]LogStaticMesh: Building static mesh Ship_Cube_02...
+[2019.03.26-15.19.37:462][107]LogStaticMesh: Built static mesh [0.00s] /Game/Prototype/Ship_Cube_02.Ship_Cube_02
+[2019.03.26-15.19.37:478][107]LogMaterial: Display: Missing cached shader map for material lambert13, compiling. 
+[2019.03.26-15.19.37:494][107]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.26-15.19.37:494][107]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.19.37:497][107]LogFbx: Warning: Triangulating static mesh Turbines_LP
+[2019.03.26-15.19.37:523][107]LogStaticMesh: Building static mesh Ship_Turbines_LP...
+[2019.03.26-15.19.37:537][107]LogStaticMesh: Built static mesh [0.01s] /Game/Prototype/Ship_Turbines_LP.Ship_Turbines_LP
+[2019.03.26-15.19.37:570][107]LogFbx: Warning: Triangulating static mesh Turbines_HP
+[2019.03.26-15.19.39:071][107]LogStaticMesh: Building static mesh Ship_Turbines_HP...
+[2019.03.26-15.19.44:678][107]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.26-15.19.44:678][107]LogStaticMesh: Built static mesh [5.61s] /Game/Prototype/Ship_Turbines_HP.Ship_Turbines_HP
+[2019.03.26-15.19.44:702][107]LogFbx: Warning: Triangulating static mesh Cube_07
+[2019.03.26-15.19.44:706][107]LogStaticMesh: Building static mesh Ship_Cube_07...
+[2019.03.26-15.19.44:708][107]LogStaticMesh: Built static mesh [0.00s] /Game/Prototype/Ship_Cube_07.Ship_Cube_07
+[2019.03.26-15.19.44:708][107]LogStaticMesh: Warning: Ship_Cube_07 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.03.26-15.19.44:708][107]LogStaticMesh: Warning: Ship_Cube_07 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.03.26-15.19.44:727][107]LogMaterial: Display: Missing cached shader map for material lambert16, compiling. 
+[2019.03.26-15.19.44:745][107]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.26-15.19.44:749][107]LogFbx: Warning: Triangulating static mesh pSphere37
+[2019.03.26-15.19.44:797][107]LogStaticMesh: Building static mesh Ship_pSphere37...
+[2019.03.26-15.19.44:810][107]LogStaticMesh: Built static mesh [0.01s] /Game/Prototype/Ship_pSphere37.Ship_pSphere37
+[2019.03.26-15.19.44:835][107]LogMaterial: Display: Missing cached shader map for material DemoSoldier, compiling. 
+[2019.03.26-15.19.44:929][107]LogFbx: Warning: Triangulating static mesh Human2
+[2019.03.26-15.19.48:641][107]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.03.26-15.19.48:641][107]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.03.26-15.19.48:771][107]LogStaticMesh: Building static mesh Ship_Human2...
+[2019.03.26-15.20.02:453][107]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.26-15.20.02:453][107]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.26-15.20.02:453][107]LogStaticMesh: Built static mesh [13.68s] /Game/Prototype/Ship_Human2.Ship_Human2
+[2019.03.26-15.20.02:460][107]LogStaticMesh: Warning: Ship_Human2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.03.26-15.20.02:480][107]LogMaterial: Display: Missing cached shader map for material lambert15, compiling. 
+[2019.03.26-15.20.02:496][107]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.26-15.20.02:496][107]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.20.02:496][107]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.26-15.20.02:496][107]LogFbx: Warning: Triangulating static mesh Door
+[2019.03.26-15.20.02:539][107]LogStaticMesh: Building static mesh Ship_Door...
+[2019.03.26-15.20.02:558][107]LogStaticMesh: Built static mesh [0.02s] /Game/Prototype/Ship_Door.Ship_Door
+[2019.03.26-15.20.02:568][107]LogFbx: Warning: Triangulating static mesh Windows_HP
+[2019.03.26-15.20.02:586][107]LogStaticMesh: Building static mesh Ship_Windows_HP...
+[2019.03.26-15.20.02:592][107]LogStaticMesh: Built static mesh [0.01s] /Game/Prototype/Ship_Windows_HP.Ship_Windows_HP
+[2019.03.26-15.20.02:614][107]LogFbx: Warning: Triangulating static mesh Combiningwzx23
+[2019.03.26-15.20.03:322][107]LogStaticMesh: Building static mesh Ship_Combiningwzx23...
+[2019.03.26-15.20.03:510][107]LogStaticMesh: Built static mesh [0.19s] /Game/Prototype/Ship_Combiningwzx23.Ship_Combiningwzx23
+[2019.03.26-15.20.03:583][107]LogFbx: Warning: Triangulating static mesh Holder_LP1
+[2019.03.26-15.20.03:595][107]LogStaticMesh: Building static mesh Ship_Holder_LP1...
+[2019.03.26-15.20.03:604][107]LogStaticMesh: Built static mesh [0.01s] /Game/Prototype/Ship_Holder_LP1.Ship_Holder_LP1
+[2019.03.26-15.20.03:614][107]LogFbx: Warning: Triangulating static mesh pCube39
+[2019.03.26-15.20.03:616][107]LogStaticMesh: Building static mesh Ship_pCube39...
+[2019.03.26-15.20.03:617][107]LogStaticMesh: Built static mesh [0.00s] /Game/Prototype/Ship_pCube39.Ship_pCube39
+[2019.03.26-15.20.03:625][107]LogFbx: Warning: Triangulating static mesh pCube38
+[2019.03.26-15.20.03:626][107]LogStaticMesh: Building static mesh Ship_pCube38...
+[2019.03.26-15.20.03:628][107]LogStaticMesh: Built static mesh [0.00s] /Game/Prototype/Ship_pCube38.Ship_pCube38
+[2019.03.26-15.20.03:641][107]LogFbx: Warning: Triangulating static mesh pCube36
+[2019.03.26-15.20.03:643][107]LogStaticMesh: Building static mesh Ship_pCube36...
+[2019.03.26-15.20.03:644][107]LogStaticMesh: Built static mesh [0.00s] /Game/Prototype/Ship_pCube36.Ship_pCube36
+[2019.03.26-15.20.03:653][107]LogFbx: Warning: Triangulating static mesh pCube37
+[2019.03.26-15.20.03:655][107]LogStaticMesh: Building static mesh Ship_pCube37...
+[2019.03.26-15.20.03:655][107]LogStaticMesh: Built static mesh [0.00s] /Game/Prototype/Ship_pCube37.Ship_pCube37
+[2019.03.26-15.20.03:663][107]LogFbx: Warning: Triangulating static mesh pCube35
+[2019.03.26-15.20.03:669][107]LogStaticMesh: Building static mesh Ship_pCube35...
+[2019.03.26-15.20.03:671][107]LogStaticMesh: Built static mesh [0.00s] /Game/Prototype/Ship_pCube35.Ship_pCube35
+[2019.03.26-15.20.03:672][107]LogStaticMesh: Warning: Ship_pCube35 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.03.26-15.20.03:672][107]LogStaticMesh: Warning: Ship_pCube35 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.03.26-15.20.03:679][107]LogFbx: Warning: Triangulating static mesh pCube42
+[2019.03.26-15.20.03:684][107]LogStaticMesh: Building static mesh Ship_pCube42...
+[2019.03.26-15.20.03:685][107]LogStaticMesh: Built static mesh [0.00s] /Game/Prototype/Ship_pCube42.Ship_pCube42
+[2019.03.26-15.20.03:686][107]LogStaticMesh: Warning: Ship_pCube42 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.03.26-15.20.03:686][107]LogStaticMesh: Warning: Ship_pCube42 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.03.26-15.20.03:693][107]LogFbx: Warning: Triangulating static mesh pCube29
+[2019.03.26-15.20.03:694][107]LogStaticMesh: Building static mesh Ship_pCube29...
+[2019.03.26-15.20.03:695][107]LogStaticMesh: Built static mesh [0.00s] /Game/Prototype/Ship_pCube29.Ship_pCube29
+[2019.03.26-15.20.03:704][107]LogFbx: Warning: Triangulating static mesh pCube28
+[2019.03.26-15.20.03:705][107]LogStaticMesh: Building static mesh Ship_pCube28...
+[2019.03.26-15.20.03:706][107]LogStaticMesh: Built static mesh [0.00s] /Game/Prototype/Ship_pCube28.Ship_pCube28
+[2019.03.26-15.20.03:714][107]LogFbx: Warning: Triangulating static mesh pCube27
+[2019.03.26-15.20.03:718][107]LogStaticMesh: Building static mesh Ship_pCube27...
+[2019.03.26-15.20.03:718][107]LogStaticMesh: Built static mesh [0.00s] /Game/Prototype/Ship_pCube27.Ship_pCube27
+[2019.03.26-15.20.03:726][107]LogFbx: Warning: Triangulating static mesh pCube26
+[2019.03.26-15.20.03:728][107]LogStaticMesh: Building static mesh Ship_pCube26...
+[2019.03.26-15.20.03:728][107]LogStaticMesh: Built static mesh [0.00s] /Game/Prototype/Ship_pCube26.Ship_pCube26
+[2019.03.26-15.20.03:737][107]LogFbx: Warning: Triangulating static mesh pCube25
+[2019.03.26-15.20.03:738][107]LogStaticMesh: Building static mesh Ship_pCube25...
+[2019.03.26-15.20.03:739][107]LogStaticMesh: Built static mesh [0.00s] /Game/Prototype/Ship_pCube25.Ship_pCube25
+[2019.03.26-15.20.03:747][107]LogFbx: Warning: Triangulating static mesh pCube22
+[2019.03.26-15.20.03:749][107]LogStaticMesh: Building static mesh Ship_pCube22...
+[2019.03.26-15.20.03:749][107]LogStaticMesh: Built static mesh [0.00s] /Game/Prototype/Ship_pCube22.Ship_pCube22
+[2019.03.26-15.20.03:760][107]LogFbx: Warning: Triangulating static mesh pCube24
+[2019.03.26-15.20.03:761][107]LogStaticMesh: Building static mesh Ship_pCube24...
+[2019.03.26-15.20.03:762][107]LogStaticMesh: Built static mesh [0.00s] /Game/Prototype/Ship_pCube24.Ship_pCube24
+[2019.03.26-15.20.03:770][107]LogFbx: Warning: Triangulating static mesh pCube23
+[2019.03.26-15.20.03:772][107]LogStaticMesh: Building static mesh Ship_pCube23...
+[2019.03.26-15.20.03:773][107]LogStaticMesh: Built static mesh [0.00s] /Game/Prototype/Ship_pCube23.Ship_pCube23
+[2019.03.26-15.20.03:790][107]LogMaterial: Display: Missing cached shader map for material phong30, compiling. 
+[2019.03.26-15.20.03:817][107]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.26-15.20.03:817][107]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.20.04:924][107]LogFbx: Warning: Triangulating static mesh Canister_03_Handle1
+[2019.03.26-15.20.08:515][107]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.26-15.20.08:618][107]LogStaticMesh: Building static mesh Ship_Canister_03_Handle1...
+[2019.03.26-15.20.12:150][107]LogStaticMesh: Built static mesh [3.53s] /Game/Prototype/Ship_Canister_03_Handle1.Ship_Canister_03_Handle1
+[2019.03.26-15.20.12:165][107]LogStaticMesh: Warning: Ship_Canister_03_Handle1 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2019.03.26-15.20.12:165][107]LogStaticMesh: Warning: Ship_Canister_03_Handle1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.03.26-15.20.12:188][107]LogFbx: Warning: Triangulating static mesh pGear1
+[2019.03.26-15.20.12:346][107]LogStaticMesh: Building static mesh Ship_pGear1...
+[2019.03.26-15.20.12:545][107]LogStaticMesh: Built static mesh [0.20s] /Game/Prototype/Ship_pGear1.Ship_pGear1
+[2019.03.26-15.20.13:490][107]LogFbx: Warning: Triangulating static mesh Canister_03_Handle2
+[2019.03.26-15.20.16:853][107]LogStaticMesh: Building static mesh Ship_Canister_03_Handle2...
+[2019.03.26-15.20.20:094][107]LogStaticMesh: Built static mesh [3.24s] /Game/Prototype/Ship_Canister_03_Handle2.Ship_Canister_03_Handle2
+[2019.03.26-15.20.20:106][107]LogStaticMesh: Warning: Ship_Canister_03_Handle2 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2019.03.26-15.20.20:106][107]LogStaticMesh: Warning: Ship_Canister_03_Handle2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.03.26-15.20.20:123][107]LogFbx: Warning: Triangulating static mesh pCube41
+[2019.03.26-15.20.20:125][107]LogStaticMesh: Building static mesh Ship_pCube41...
+[2019.03.26-15.20.20:127][107]LogStaticMesh: Built static mesh [0.00s] /Game/Prototype/Ship_pCube41.Ship_pCube41
+[2019.03.26-15.20.20:134][107]LogFbx: Warning: Triangulating static mesh pCylinder8
+[2019.03.26-15.20.20:136][107]LogStaticMesh: Building static mesh Ship_pCylinder8...
+[2019.03.26-15.20.20:138][107]LogStaticMesh: Built static mesh [0.00s] /Game/Prototype/Ship_pCylinder8.Ship_pCylinder8
+[2019.03.26-15.20.20:146][107]LogFbx: Warning: Triangulating static mesh pCube40
+[2019.03.26-15.20.20:147][107]LogStaticMesh: Building static mesh Ship_pCube40...
+[2019.03.26-15.20.20:148][107]LogStaticMesh: Built static mesh [0.00s] /Game/Prototype/Ship_pCube40.Ship_pCube40
+[2019.03.26-15.20.20:169][107]LogMaterial: Display: Missing cached shader map for material SciFi_Prop_14_3, compiling. 
+[2019.03.26-15.20.20:194][107]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.26-15.20.20:194][107]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.20.20:194][107]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.26-15.20.20:199][107]LogMaterial: Display: Missing cached shader map for material Scene_Root, compiling. 
+[2019.03.26-15.20.20:213][107]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.26-15.20.25:418][107]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.20.25:418][107]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.26-15.20.25:418][107]LogFbx: Warning: Triangulating static mesh SciFi_Prop_21_17
+[2019.03.26-15.20.27:777][107]LogStaticMesh: Building static mesh Ship_SciFi_Prop_21_17...
+[2019.03.26-15.20.33:212][107]LogStaticMesh: Built static mesh [5.43s] /Game/Prototype/Ship_SciFi_Prop_21_17.Ship_SciFi_Prop_21_17
+[2019.03.26-15.20.33:248][107]LogMaterial: Display: Missing cached shader map for material SciFi_Prop_12_8, compiling. 
+[2019.03.26-15.20.33:272][107]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.26-15.20.33:272][107]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.20.33:272][107]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.26-15.20.33:276][107]LogMaterial: Display: Missing cached shader map for material SciFi_Prop_03_2, compiling. 
+[2019.03.26-15.20.42:506][107]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.26-15.20.42:506][107]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.20.42:506][107]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.26-15.20.42:506][107]LogFbx: Warning: Triangulating static mesh SciFi_Prop_25_32
+[2019.03.26-15.20.45:506][107]LogStaticMesh: Building static mesh Ship_SciFi_Prop_25_32...
+[2019.03.26-15.20.46:653][107]LogStaticMesh: Built static mesh [1.15s] /Game/Prototype/Ship_SciFi_Prop_25_32.Ship_SciFi_Prop_25_32
+[2019.03.26-15.20.46:690][107]LogMaterial: Display: Missing cached shader map for material Sci_Fi_Crate20_1, compiling. 
+[2019.03.26-15.20.46:711][107]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.26-15.20.46:711][107]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.20.46:711][107]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.26-15.20.46:718][107]LogMaterial: Display: Missing cached shader map for material Sci_Fi_Crate1_1, compiling. 
+[2019.03.26-15.20.46:734][107]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.26-15.20.46:754][107]LogMaterial: Display: Missing cached shader map for material Scene_Root1, compiling. 
+[2019.03.26-15.20.56:605][107]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.03.26-15.20.56:605][107]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.03.26-15.20.56:605][107]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.26-15.20.56:605][107]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.26-15.20.56:605][107]LogFbx: Warning: Triangulating static mesh polymsh_detached6
+[2019.03.26-15.21.00:492][107]LogStaticMesh: Building static mesh Ship_polymsh_detached6...
+[2019.03.26-15.21.10:617][107]LogStaticMesh: Built static mesh [10.12s] /Game/Prototype/Ship_polymsh_detached6.Ship_polymsh_detached6
+[2019.03.26-15.21.10:636][107]LogStaticMesh: Warning: Ship_polymsh_detached6 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.03.26-15.21.10:636][107]LogStaticMesh: Warning: Ship_polymsh_detached6 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.03.26-15.21.10:667][107]LogMaterial: Display: Missing cached shader map for material Color_1, compiling. 
+[2019.03.26-15.21.10:687][107]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.26-15.21.10:687][107]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.21.10:687][107]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.26-15.21.10:697][107]LogMaterial: Display: Missing cached shader map for material Color_2, compiling. 
+[2019.03.26-15.21.10:712][107]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.26-15.21.10:750][107]LogStaticMesh: Building static mesh Ship_Sci-Fi_Cha...
+[2019.03.26-15.21.10:862][107]LogStaticMesh: Built static mesh [0.11s] /Game/Prototype/Ship_Sci-Fi_Cha.Ship_Sci-Fi_Cha
+[2019.03.26-15.21.10:883][107]LogFbx: Warning: Triangulating static mesh pTorus1
+[2019.03.26-15.21.10:891][107]LogStaticMesh: Building static mesh Ship_pTorus1...
+[2019.03.26-15.21.10:894][107]LogStaticMesh: Built static mesh [0.00s] /Game/Prototype/Ship_pTorus1.Ship_pTorus1
+[2019.03.26-15.21.10:998][107]LogFbx: Warning: Triangulating static mesh SciFi_Prop_23_11
+[2019.03.26-15.21.11:302][107]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.21.11:328][107]LogStaticMesh: Building static mesh Ship_SciFi_Prop_23_11...
+[2019.03.26-15.21.11:674][107]LogStaticMesh: Built static mesh [0.35s] /Game/Prototype/Ship_SciFi_Prop_23_11.Ship_SciFi_Prop_23_11
+[2019.03.26-15.21.11:787][107]LogFbx: Warning: Triangulating static mesh SciFi_Prop_23_10
+[2019.03.26-15.21.12:109][107]LogStaticMesh: Building static mesh Ship_SciFi_Prop_23_10...
+[2019.03.26-15.21.12:472][107]LogStaticMesh: Built static mesh [0.36s] /Game/Prototype/Ship_SciFi_Prop_23_10.Ship_SciFi_Prop_23_10
+[2019.03.26-15.21.12:492][107]LogFbx: Warning: Triangulating static mesh pCube32
+[2019.03.26-15.21.12:495][107]LogStaticMesh: Building static mesh Ship_pCube32...
+[2019.03.26-15.21.12:499][107]LogStaticMesh: Built static mesh [0.00s] /Game/Prototype/Ship_pCube32.Ship_pCube32
+[2019.03.26-15.21.12:508][107]LogFbx: Warning: Triangulating static mesh pCube34
+[2019.03.26-15.21.12:511][107]LogStaticMesh: Building static mesh Ship_pCube34...
+[2019.03.26-15.21.12:515][107]LogStaticMesh: Built static mesh [0.00s] /Game/Prototype/Ship_pCube34.Ship_pCube34
+[2019.03.26-15.21.12:526][107]LogFbx: Warning: Triangulating static mesh pCube43
+[2019.03.26-15.21.12:528][107]LogStaticMesh: Building static mesh Ship_pCube43...
+[2019.03.26-15.21.12:529][107]LogStaticMesh: Built static mesh [0.00s] /Game/Prototype/Ship_pCube43.Ship_pCube43
+[2019.03.26-15.21.12:537][107]LogFbx: Warning: Triangulating static mesh Back_of_ship_1_HP
+[2019.03.26-15.21.12:549][107]LogStaticMesh: Building static mesh Ship_Back_of_ship_1_HP...
+[2019.03.26-15.21.12:555][107]LogStaticMesh: Built static mesh [0.01s] /Game/Prototype/Ship_Back_of_ship_1_HP.Ship_Back_of_ship_1_HP
+[2019.03.26-15.21.12:591][107]LogFbx: Warning: Triangulating static mesh Back_of_ship_2_HP
+[2019.03.26-15.21.14:100][107]LogStaticMesh: Building static mesh Ship_Back_of_ship_2_HP...
+[2019.03.26-15.21.18:315][107]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.26-15.21.18:315][107]LogStaticMesh: Built static mesh [4.21s] /Game/Prototype/Ship_Back_of_ship_2_HP.Ship_Back_of_ship_2_HP
+[2019.03.26-15.21.18:349][107]LogFbx: Warning: Triangulating static mesh Back_of_ship_3_HP
+[2019.03.26-15.21.18:432][107]LogStaticMesh: Building static mesh Ship_Back_of_ship_3_HP...
+[2019.03.26-15.21.18:457][107]LogStaticMesh: Built static mesh [0.02s] /Game/Prototype/Ship_Back_of_ship_3_HP.Ship_Back_of_ship_3_HP
+[2019.03.26-15.21.18:458][107]LogStaticMesh: Warning: Ship_Back_of_ship_3_HP has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.03.26-15.21.18:458][107]LogStaticMesh: Warning: Ship_Back_of_ship_3_HP has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.03.26-15.21.18:486][107]LogFbx: Warning: Triangulating static mesh Back_of_ship_4_HP
+[2019.03.26-15.21.19:640][107]LogStaticMesh: Building static mesh Ship_Back_of_ship_4_HP...
+[2019.03.26-15.21.22:375][107]LogStaticMesh: Built static mesh [2.73s] /Game/Prototype/Ship_Back_of_ship_4_HP.Ship_Back_of_ship_4_HP
+[2019.03.26-15.21.22:391][107]LogStaticMesh: Warning: Ship_Back_of_ship_4_HP has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.03.26-15.21.22:391][107]LogStaticMesh: Warning: Ship_Back_of_ship_4_HP has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.03.26-15.21.22:412][107]LogFbx: Warning: Triangulating static mesh Back_of_ship_5_HP
+[2019.03.26-15.21.22:495][107]LogStaticMesh: Building static mesh Ship_Back_of_ship_5_HP...
+[2019.03.26-15.21.22:519][107]LogStaticMesh: Built static mesh [0.02s] /Game/Prototype/Ship_Back_of_ship_5_HP.Ship_Back_of_ship_5_HP
+[2019.03.26-15.21.22:529][107]LogFbx: Warning: Triangulating static mesh Back_of_ship_6_HP
+[2019.03.26-15.21.22:589][107]LogStaticMesh: Building static mesh Ship_Back_of_ship_6_HP...
+[2019.03.26-15.21.22:605][107]LogStaticMesh: Built static mesh [0.02s] /Game/Prototype/Ship_Back_of_ship_6_HP.Ship_Back_of_ship_6_HP
+[2019.03.26-15.21.22:614][107]LogFbx: Warning: Triangulating static mesh pCube44
+[2019.03.26-15.21.22:616][107]LogStaticMesh: Building static mesh Ship_pCube44...
+[2019.03.26-15.21.22:616][107]LogStaticMesh: Built static mesh [0.00s] /Game/Prototype/Ship_pCube44.Ship_pCube44
+[2019.03.26-15.21.22:653][107]FBXImport: Warning: Ship_Holder_HP has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.03.26-15.21.22:654][107]FBXImport: Warning: Ship_Holder_HP has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.03.26-15.21.22:654][107]FBXImport: Warning: Ship_Cube_07 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.03.26-15.21.22:654][107]FBXImport: Warning: Ship_Cube_07 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.03.26-15.21.22:654][107]FBXImport: Warning: Ship_Human2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.03.26-15.21.22:654][107]FBXImport: Warning: Ship_pCube35 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.03.26-15.21.22:654][107]FBXImport: Warning: Ship_pCube35 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.03.26-15.21.22:654][107]FBXImport: Warning: Ship_pCube42 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.03.26-15.21.22:654][107]FBXImport: Warning: Ship_pCube42 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.03.26-15.21.22:654][107]FBXImport: Warning: Ship_Canister_03_Handle1 has some nearly zero normals which can create some issues. (Tolerance of 1E-4) 
+[2019.03.26-15.21.22:654][107]FBXImport: Warning: Ship_Canister_03_Handle1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.03.26-15.21.22:654][107]FBXImport: Warning: Ship_Canister_03_Handle2 has some nearly zero normals which can create some issues. (Tolerance of 1E-4) 
+[2019.03.26-15.21.22:654][107]FBXImport: Warning: Ship_Canister_03_Handle2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.03.26-15.21.22:654][107]FBXImport: Warning: Ship_polymsh_detached6 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.03.26-15.21.22:654][107]FBXImport: Warning: Ship_polymsh_detached6 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.03.26-15.21.22:654][107]FBXImport: Warning: Ship_Back_of_ship_3_HP has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.03.26-15.21.22:654][107]FBXImport: Warning: Ship_Back_of_ship_3_HP has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.03.26-15.21.22:654][107]FBXImport: Warning: Ship_Back_of_ship_4_HP has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.03.26-15.21.22:654][107]FBXImport: Warning: Ship_Back_of_ship_4_HP has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.03.26-15.21.22:876][108]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.26-15.21.32:541][678]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (9.664 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.26-15.21.44:222][378]LogSlate: Window 'Message Log' being destroyed
+[2019.03.26-15.21.44:227][378]LogSlate: Window 'Message Log' being destroyed
+[2019.03.26-15.21.54:887][844]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/HP ZVR Backpack/Downloads/Ship.fbx)
+[2019.03.26-15.21.54:943][844]LogFbx: Loading FBX Scene from ../../../../../../Users/HP ZVR Backpack/Downloads/Ship.fbx
+[2019.03.26-15.21.55:399][844]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.26-15.22.02:554][844]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.03.26-15.22.22:958][269]LogSlate: Window 'Delete Assets' being destroyed
+[2019.03.26-15.22.49:985][688]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/HP ZVR Backpack/Downloads/Ship.fbx)
+[2019.03.26-15.22.50:041][688]LogFbx: Loading FBX Scene from ../../../../../../Users/HP ZVR Backpack/Downloads/Ship.fbx
+[2019.03.26-15.22.50:489][688]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.26-15.22.53:837][688]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.03.26-15.22.53:865][688]LogMaterial: Display: Missing cached shader map for material phong1, compiling. 
+[2019.03.26-15.22.53:880][688]LogFbx: Warning: Triangulating static mesh pCube19
+[2019.03.26-15.22.53:900][688]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.26-15.22.53:900][688]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.22.53:900][688]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.26-15.22.53:903][688]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2019.03.26-15.22.53:922][688]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.26-15.22.53:926][688]LogFbx: Warning: Triangulating static mesh Holder_LP
+[2019.03.26-15.22.53:955][688]LogFbx: Warning: Triangulating static mesh Holder_HP
+[2019.03.26-15.22.55:043][688]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.22.55:043][688]LogFbx: Warning: Triangulating static mesh Cricle_HP
+[2019.03.26-15.22.56:001][688]LogFbx: Warning: Triangulating static mesh Cube_02
+[2019.03.26-15.22.56:017][688]LogMaterial: Display: Missing cached shader map for material lambert13, compiling. 
+[2019.03.26-15.22.56:040][688]LogFbx: Warning: Triangulating static mesh Turbines_LP
+[2019.03.26-15.22.56:085][688]LogFbx: Warning: Triangulating static mesh Turbines_HP
+[2019.03.26-15.22.57:390][688]LogFbx: Warning: Triangulating static mesh Cube_07
+[2019.03.26-15.22.57:401][688]LogMaterial: Display: Missing cached shader map for material lambert16, compiling. 
+[2019.03.26-15.22.57:422][688]LogFbx: Warning: Triangulating static mesh pSphere37
+[2019.03.26-15.22.57:474][688]LogMaterial: Display: Missing cached shader map for material DemoSoldier, compiling. 
+[2019.03.26-15.22.57:567][688]LogFbx: Warning: Triangulating static mesh Human2
+[2019.03.26-15.23.01:251][688]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.03.26-15.23.01:251][688]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.03.26-15.23.01:251][688]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.03.26-15.23.01:255][688]LogMaterial: Display: Missing cached shader map for material lambert15, compiling. 
+[2019.03.26-15.23.01:276][688]LogFbx: Warning: Triangulating static mesh Door
+[2019.03.26-15.23.01:315][688]LogFbx: Warning: Triangulating static mesh Windows_HP
+[2019.03.26-15.23.01:346][688]LogFbx: Warning: Triangulating static mesh Combiningwzx23
+[2019.03.26-15.23.02:031][688]LogFbx: Warning: Triangulating static mesh Holder_LP1
+[2019.03.26-15.23.02:040][688]LogFbx: Warning: Triangulating static mesh pCube39
+[2019.03.26-15.23.02:041][688]LogFbx: Warning: Triangulating static mesh pCube38
+[2019.03.26-15.23.02:042][688]LogFbx: Warning: Triangulating static mesh pCube36
+[2019.03.26-15.23.02:043][688]LogFbx: Warning: Triangulating static mesh pCube37
+[2019.03.26-15.23.02:044][688]LogFbx: Warning: Triangulating static mesh pCube35
+[2019.03.26-15.23.02:049][688]LogFbx: Warning: Triangulating static mesh pCube42
+[2019.03.26-15.23.02:053][688]LogFbx: Warning: Triangulating static mesh pCube29
+[2019.03.26-15.23.02:054][688]LogFbx: Warning: Triangulating static mesh pCube28
+[2019.03.26-15.23.02:055][688]LogFbx: Warning: Triangulating static mesh pCube27
+[2019.03.26-15.23.02:056][688]LogFbx: Warning: Triangulating static mesh pCube26
+[2019.03.26-15.23.02:057][688]LogFbx: Warning: Triangulating static mesh pCube25
+[2019.03.26-15.23.02:058][688]LogFbx: Warning: Triangulating static mesh pCube22
+[2019.03.26-15.23.02:059][688]LogFbx: Warning: Triangulating static mesh pCube24
+[2019.03.26-15.23.02:060][688]LogFbx: Warning: Triangulating static mesh pCube23
+[2019.03.26-15.23.02:072][688]LogMaterial: Display: Missing cached shader map for material phong30, compiling. 
+[2019.03.26-15.23.03:167][688]LogFbx: Warning: Triangulating static mesh Canister_03_Handle1
+[2019.03.26-15.23.07:058][688]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.03.26-15.23.07:058][688]LogFbx: Warning: Triangulating static mesh pGear1
+[2019.03.26-15.23.08:315][688]LogFbx: Warning: Triangulating static mesh Canister_03_Handle2
+[2019.03.26-15.23.11:965][688]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.03.26-15.23.11:965][688]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.03.26-15.23.11:965][688]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.03.26-15.23.11:965][688]LogFbx: Warning: Triangulating static mesh pCube41
+[2019.03.26-15.23.11:968][688]LogFbx: Warning: Triangulating static mesh pCylinder8
+[2019.03.26-15.23.11:970][688]LogFbx: Warning: Triangulating static mesh pCube40
+[2019.03.26-15.23.11:996][688]LogMaterial: Display: Missing cached shader map for material SciFi_Prop_14_3, compiling. 
+[2019.03.26-15.23.12:038][688]LogMaterial: Display: Missing cached shader map for material Scene_Root, compiling. 
+[2019.03.26-15.23.17:475][688]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.03.26-15.23.17:475][688]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.03.26-15.23.17:476][688]LogFbx: Warning: Triangulating static mesh SciFi_Prop_21_17
+[2019.03.26-15.23.20:008][688]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.03.26-15.23.20:013][688]LogMaterial: Display: Missing cached shader map for material SciFi_Prop_12_8, compiling. 
+[2019.03.26-15.23.20:056][688]LogMaterial: Display: Missing cached shader map for material SciFi_Prop_03_2, compiling. 
+[2019.03.26-15.23.30:116][688]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.03.26-15.23.30:116][688]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.03.26-15.23.30:116][688]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.03.26-15.23.30:116][688]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.03.26-15.23.30:117][688]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.03.26-15.23.30:117][688]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.03.26-15.23.30:117][688]LogFbx: Warning: Triangulating static mesh SciFi_Prop_25_32
+[2019.03.26-15.23.33:422][688]LogMaterial: Display: Missing cached shader map for material Sci_Fi_Crate20_1, compiling. 
+[2019.03.26-15.23.33:468][688]LogMaterial: Display: Missing cached shader map for material Sci_Fi_Crate1_1, compiling. 
+[2019.03.26-15.23.33:511][688]LogMaterial: Display: Missing cached shader map for material Scene_Root1, compiling. 
+[2019.03.26-15.23.43:348][688]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.03.26-15.23.43:348][688]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.03.26-15.23.43:348][688]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.03.26-15.23.43:348][688]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.03.26-15.23.43:348][688]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.03.26-15.23.43:348][688]LogFbx: Warning: Triangulating static mesh polymsh_detached6
+[2019.03.26-15.23.47:122][688]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.03.26-15.23.47:122][688]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.03.26-15.23.47:122][688]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.03.26-15.23.47:122][688]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.03.26-15.23.47:127][688]LogMaterial: Display: Missing cached shader map for material Color_1, compiling. 
+[2019.03.26-15.23.47:171][688]LogMaterial: Display: Missing cached shader map for material Color_2, compiling. 
+[2019.03.26-15.23.47:214][688]LogFbx: Warning: Triangulating static mesh pTorus1
+[2019.03.26-15.23.47:306][688]LogFbx: Warning: Triangulating static mesh SciFi_Prop_23_11
+[2019.03.26-15.23.47:694][688]LogFbx: Warning: Triangulating static mesh SciFi_Prop_23_10
+[2019.03.26-15.23.47:971][688]LogFbx: Warning: Triangulating static mesh pCube32
+[2019.03.26-15.23.47:973][688]LogFbx: Warning: Triangulating static mesh pCube34
+[2019.03.26-15.23.47:975][688]LogFbx: Warning: Triangulating static mesh pCube43
+[2019.03.26-15.23.47:976][688]LogFbx: Warning: Triangulating static mesh Back_of_ship_1_HP
+[2019.03.26-15.23.48:009][688]LogFbx: Warning: Triangulating static mesh Back_of_ship_2_HP
+[2019.03.26-15.23.49:385][688]LogFbx: Warning: Triangulating static mesh Back_of_ship_3_HP
+[2019.03.26-15.23.49:498][688]LogFbx: Warning: Triangulating static mesh Back_of_ship_4_HP
+[2019.03.26-15.23.50:721][688]LogFbx: Warning: Triangulating static mesh Back_of_ship_5_HP
+[2019.03.26-15.23.50:823][688]LogFbx: Warning: Triangulating static mesh Back_of_ship_6_HP
+[2019.03.26-15.23.50:879][688]LogFbx: Warning: Triangulating static mesh pCube44
+[2019.03.26-15.23.52:862][688]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.03.26-15.23.52:862][688]LogStaticMesh: Building static mesh Ship...
+[2019.03.26-15.24.52:369][688]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.03.26-15.24.52:369][688]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.03.26-15.24.52:369][688]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.03.26-15.24.52:369][688]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.26-15.24.52:369][688]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.26-15.24.52:369][688]LogStaticMesh: Built static mesh [59.51s] /Game/Prototype/Ship.Ship
+[2019.03.26-15.24.52:540][688]LogStaticMesh: Warning: Ship has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.03.26-15.24.52:541][688]LogStaticMesh: Warning: Ship has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2019.03.26-15.24.52:541][688]LogStaticMesh: Warning: Ship has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.03.26-15.24.52:717][688]FBXImport: Warning: Ship has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.03.26-15.24.52:717][688]FBXImport: Warning: Ship has some nearly zero normals which can create some issues. (Tolerance of 1E-4) 
+[2019.03.26-15.24.52:717][688]FBXImport: Warning: Ship has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.03.26-15.24.53:048][689]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.26-15.25.24:934][582]LogSlate: Window 'Message Log' being destroyed
+[2019.03.26-15.25.24:939][582]LogSlate: Window 'Message Log' being destroyed
+[2019.03.26-15.25.29:914][880]LogActorFactory: Actor Factory created Ship
+[2019.03.26-15.25.31:454][972]LogActorFactory: Actor Factory created Ship
+[2019.03.26-15.25.32:531][ 30]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (39.484 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.26-15.25.32:631][ 36]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.26-15.25.37:901][352]Cmd: DELETE
+[2019.03.26-15.25.37:901][352]Cmd: ACTOR DELETE
+[2019.03.26-15.25.37:929][352]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-15.25.38:011][352]LogEditorActor: Deleted 1 Actors (0.109 secs)
+[2019.03.26-15.25.39:805][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_StaticMesh)
+[2019.03.26-15.25.40:482][498]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.26-15.25.48:096][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-15.25.48:323][967]LogActorFactory: Actor Factory created Ship
+[2019.03.26-15.25.49:582][ 42]LogActorFactory: Actor Factory created Ship
+[2019.03.26-15.25.50:049][ 64]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.26-15.26.02:751][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-15.26.19:397][824]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.26-15.26.27:458][307]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.26-15.26.37:237][893]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.26-15.26.40:827][108]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.26-15.26.48:080][543]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.26-15.26.59:104][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-15.27.05:377][580]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-15.27.17:494][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-15.27.17:610][313]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.26-15.27.17:627][313]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.26-15.27.17:629][313]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.26-15.27.17:630][313]LogPlayLevel: [PlayLevel] Compiling MotionControllerMap before play...
+[2019.03.26-15.27.17:801][313]LogPlayLevel: PlayLevel: Blueprint regeneration took 172 ms (1 blueprints)
+[2019.03.26-15.27.17:804][313]PIE: New page: PIE session: MotionControllerMap (Mar 26, 2019, 5:27:17 PM)
+[2019.03.26-15.27.17:805][313]LogOnline: Warning: STEAM: Steam API disabled!
+[2019.03.26-15.27.17:805][313]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2019.03.26-15.27.17:826][313]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.03.26-15.27.17:866][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040601s)
+[2019.03.26-15.27.17:866][313]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.03.26-15.27.17:867][313]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2019.03.26-15.27.17:867][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.041872s)
+[2019.03.26-15.27.17:952][313]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2019.03.26-15.27.17:968][313]LogInit: XAudio2 using 'Headphones (Realtek USB2.0 Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.03.26-15.27.17:975][313]LogInit: FAudioDevice initialized.
+[2019.03.26-15.27.18:022][313]LogLoad: Game class is 'SteamVR_GM_C'
+[2019.03.26-15.27.18:043][313]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2019.03.26-16.27.18
+[2019.03.26-15.27.18:050][313]LogWorld: Bringing up level for play took: 0.020273
+[2019.03.26-15.27.18:075][313]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2019.03.26-15.27.18:075][313]LogVoiceEngine: Error: OSS: StopLocalVoiceProcessing: Ignoring stop request for non-owning user
+[2019.03.26-15.27.18:076][313]LogOnlineVoice: OSS: StopLocalVoiceProcessing(0) returned 0xFFFFFFFF
+[2019.03.26-15.27.18:076][313]LogOnlineVoice: OSS: Stopping networked voice for user: 0
+[2019.03.26-15.27.18:079][313]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.03.26-15.27.18:080][313]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.26-15.27.18:080][313]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.26-15.27.18:080][313]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.26-15.27.18:137][313]LogHMD: SetSpectatorScreenMode(5).
+[2019.03.26-15.27.18:143][313]Cmd: vr.bEnableStereo false
+[2019.03.26-15.27.18:144][313]Cmd: r.setres 1024x768w
+[2019.03.26-15.27.18:144][313]r.SetRes = "1024x768w"
+[2019.03.26-15.27.18:144][313]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.26-15.27.18:145][313]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.015
+[2019.03.26-15.27.18:145][313]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.26-15.27.18:191][314]LogSlate: Took 0.007254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.03.26-15.27.32:646][181]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.26-15.27.32:647][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-15.27.32:686][181]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.26-15.27.32:687][181]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.26-15.27.32:714][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-15.27.32:752][183]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.03.26-15.27.36:721][421]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_StaticMesh)
+[2019.03.26-15.27.38:211][508]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ship)
+[2019.03.26-15.27.39:130][558]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_StaticMesh)
+[2019.03.26-15.27.39:886][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ship)
+[2019.03.26-15.27.40:556][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_StaticMesh)
+[2019.03.26-15.27.41:094][666]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ship)
+[2019.03.26-15.27.41:847][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_StaticMesh)
+[2019.03.26-15.27.42:302][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ship)
+[2019.03.26-15.27.43:771][814]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.26-15.27.57:796][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-15.29.01:486][471]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-15.29.04:918][677]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-15.29.13:303][180]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-15.29.16:647][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-15.29.52:378][523]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.03.26-15.29.52:705][538]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.26-15.30.11:933][676]Cmd: TRANSACTION UNDO
+[2019.03.26-15.30.11:933][676]LogEditorTransaction: Undo Move Actors
+[2019.03.26-15.30.27:027][554]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.26-15.30.27:931][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ship)
+[2019.03.26-15.30.53:561][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-15.30.59:737][508]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ship)
+[2019.03.26-15.31.00:784][565]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-15.31.16:674][518]Cmd: TRANSACTION UNDO
+[2019.03.26-15.31.16:674][518]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.26-15.31.16:906][528]Cmd: TRANSACTION UNDO
+[2019.03.26-15.31.16:906][528]LogEditorTransaction: Undo Select Brush Surface
+[2019.03.26-15.31.17:088][531]Cmd: TRANSACTION UNDO
+[2019.03.26-15.31.17:088][531]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.26-15.31.17:240][539]Cmd: TRANSACTION UNDO
+[2019.03.26-15.31.17:240][539]LogEditorTransaction: Undo Move Actors
+[2019.03.26-15.31.17:419][545]Cmd: TRANSACTION UNDO
+[2019.03.26-15.31.17:419][545]LogEditorTransaction: Undo Move Actors
+[2019.03.26-15.31.17:863][567]Cmd: TRANSACTION UNDO
+[2019.03.26-15.31.17:863][567]LogEditorTransaction: Undo Move Actors
+[2019.03.26-15.31.18:127][578]Cmd: TRANSACTION UNDO
+[2019.03.26-15.31.18:127][578]LogEditorTransaction: Undo Move Actors
+[2019.03.26-15.31.18:405][590]Cmd: TRANSACTION UNDO
+[2019.03.26-15.31.18:405][590]LogEditorTransaction: Undo Scale Actors
+[2019.03.26-15.31.18:621][598]Cmd: TRANSACTION UNDO
+[2019.03.26-15.31.18:621][598]LogEditorTransaction: Undo Scale Actors
+[2019.03.26-15.31.18:801][604]Cmd: TRANSACTION UNDO
+[2019.03.26-15.31.18:801][604]LogEditorTransaction: Undo Brush Add
+[2019.03.26-15.31.19:016][614]Cmd: TRANSACTION UNDO
+[2019.03.26-15.31.19:016][614]LogEditorTransaction: Undo Change Collision Profile
+[2019.03.26-15.31.20:165][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ship)
+[2019.03.26-15.31.27:612][124]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-15.31.29:228][221]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-15.31.31:790][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-15.31.49:840][456]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-15.32.05:879][416]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-15.32.20:285][280]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-15.32.50:564][ 96]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{43b86175-7d9e-44a1-8f89-e152066a9077} was removed. Shutting down audio device.
+[2019.03.26-15.32.50:564][ 96]LogInit: XAudio2 using 'HP Z27i (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.26-15.32.50:642][ 97]LogInit: XAudio2 using 'HP Z27i (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.26-15.33.07:344][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-15.33.10:227][270]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.26-15.33.10:243][270]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.26-15.33.10:243][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.26-15.33.10:243][270]PIE: New page: PIE session: MotionControllerMap (Mar 26, 2019, 5:33:10 PM)
+[2019.03.26-15.33.10:243][270]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.03.26-15.33.10:285][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041460s)
+[2019.03.26-15.33.10:285][270]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.03.26-15.33.10:286][270]LogPlayLevel: PIE: World Init took: (0.000596s)
+[2019.03.26-15.33.10:286][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.042216s)
+[2019.03.26-15.33.10:321][270]LogInit: XAudio2 using 'HP Z27i (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.26-15.33.10:330][270]LogInit: FAudioDevice initialized.
+[2019.03.26-15.33.10:362][270]LogLoad: Game class is 'SteamVR_GM_C'
+[2019.03.26-15.33.10:371][270]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2019.03.26-16.33.10
+[2019.03.26-15.33.10:372][270]LogWorld: Bringing up level for play took: 0.008779
+[2019.03.26-15.33.10:397][270]LogVoiceCapture: Warning: Failed to create capture device 0x88780078
+[2019.03.26-15.33.10:397][270]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2019.03.26-15.33.10:397][270]LogVoice: Warning: Voice capture initialization failed!
+[2019.03.26-15.33.10:397][270]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.26-15.33.10:397][270]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.26-15.33.10:397][270]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.26-15.33.10:434][270]LogHMD: SetSpectatorScreenMode(5).
+[2019.03.26-15.33.10:437][270]Cmd: vr.bEnableStereo false
+[2019.03.26-15.33.10:437][270]Cmd: r.setres 1024x768w
+[2019.03.26-15.33.10:437][270]r.SetRes = "1024x768w"
+[2019.03.26-15.33.10:437][270]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.26-15.33.10:437][270]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.693
+[2019.03.26-15.33.10:437][270]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.26-15.33.17:089][668]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.26-15.33.17:089][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-15.33.17:124][668]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.26-15.33.17:125][668]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.26-15.33.17:155][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-15.33.17:192][670]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.03.26-15.33.18:058][722]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ship)
+[2019.03.26-15.33.21:350][914]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-15.33.24:284][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-15.33.47:270][436]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-15.33.49:812][588]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-15.34.22:845][566]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-15.34.45:416][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-15.37.00:478][ 16]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Prototype/Ship.Ship
+[2019.03.26-15.37.00:697][ 16]LogMaterial: Display: Missing cached shader map for material M_SkyBox, compiling. 
+[2019.03.26-15.37.00:722][ 16]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.26-15.37.00:722][ 16]LogMaterial: Display: Missing cached shader map for material GridMaterial, compiling. 
+[2019.03.26-15.37.00:738][ 16]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.26-15.37.00:738][ 16]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.37.00:738][ 16]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.26-15.37.17:317][973]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-15.37.19:869][126]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-15.37.21:585][229]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-15.37.29:907][728]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-15.39.09:395][285]LogSavePackage: Moving '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/MotionControllerMap_Auto186EFEF774E8091F9DC3B2FBE61320C8C.tmp' to '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto1.umap'
+[2019.03.26-15.39.09:401][285]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.871
+[2019.03.26-15.39.09:401][285]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.871
+[2019.03.26-15.39.09:403][285]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Prototype/Ship] ([1] browsable assets)...
+[2019.03.26-15.39.09:414][285]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Prototype/Ship.Ship]
+[2019.03.26-15.39.09:414][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/Prototype/Ship]
+[2019.03.26-15.39.09:462][285]LogSavePackage: Moving '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Ship_Auto1787AF1E648C233067AB5F2999F619065.tmp' to '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Autosaves/Game/Prototype/Ship_Auto1.uasset'
+[2019.03.26-15.39.09:463][285]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Prototype/phong1] ([1] browsable assets)...
+[2019.03.26-15.39.09:472][285]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Prototype/phong1.phong1]
+[2019.03.26-15.39.09:472][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/Prototype/phong1]
+[2019.03.26-15.39.09:490][285]LogSavePackage: Moving '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/phong1_Auto13CB065DD47ABCB6F2F2DC29B60A0894E.tmp' to '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Autosaves/Game/Prototype/phong1_Auto1.uasset'
+[2019.03.26-15.39.09:492][285]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Prototype/lambert1] ([1] browsable assets)...
+[2019.03.26-15.39.09:502][285]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Prototype/lambert1.lambert1]
+[2019.03.26-15.39.09:502][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/Prototype/lambert1]
+[2019.03.26-15.39.09:519][285]LogSavePackage: Moving '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/lambert1_Auto10DA73F9E49573D698D790FA977A04005.tmp' to '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Autosaves/Game/Prototype/lambert1_Auto1.uasset'
+[2019.03.26-15.39.09:521][285]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Prototype/lambert13] ([1] browsable assets)...
+[2019.03.26-15.39.09:533][285]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Prototype/lambert13.lambert13]
+[2019.03.26-15.39.09:533][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/Prototype/lambert13]
+[2019.03.26-15.39.09:554][285]LogSavePackage: Moving '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/lambert13_Auto1769E033D481AF9A88E240091AB298EF6.tmp' to '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Autosaves/Game/Prototype/lambert13_Auto1.uasset'
+[2019.03.26-15.39.09:555][285]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Prototype/lambert16] ([1] browsable assets)...
+[2019.03.26-15.39.09:567][285]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Prototype/lambert16.lambert16]
+[2019.03.26-15.39.09:567][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/Prototype/lambert16]
+[2019.03.26-15.39.09:585][285]LogSavePackage: Moving '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/lambert16_Auto1B43ADEE945631564134AE0BFA61DBA5F.tmp' to '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Autosaves/Game/Prototype/lambert16_Auto1.uasset'
+[2019.03.26-15.39.09:587][285]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Prototype/DemoSoldier] ([1] browsable assets)...
+[2019.03.26-15.39.09:599][285]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Prototype/DemoSoldier.DemoSoldier]
+[2019.03.26-15.39.09:600][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/Prototype/DemoSoldier]
+[2019.03.26-15.39.09:621][285]LogSavePackage: Moving '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/DemoSoldier_Auto1D3D460074103A2AA4FF386B7D7805623.tmp' to '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Autosaves/Game/Prototype/DemoSoldier_Auto1.uasset'
+[2019.03.26-15.39.09:623][285]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Prototype/lambert15] ([1] browsable assets)...
+[2019.03.26-15.39.09:634][285]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Prototype/lambert15.lambert15]
+[2019.03.26-15.39.09:634][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/Prototype/lambert15]
+[2019.03.26-15.39.09:654][285]LogSavePackage: Moving '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/lambert15_Auto1DA3D81AC431E4DD38B0E4FAEADCCB5FA.tmp' to '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Autosaves/Game/Prototype/lambert15_Auto1.uasset'
+[2019.03.26-15.39.09:655][285]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Prototype/phong30] ([1] browsable assets)...
+[2019.03.26-15.39.09:670][285]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Prototype/phong30.phong30]
+[2019.03.26-15.39.09:670][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/Prototype/phong30]
+[2019.03.26-15.39.09:700][285]LogSavePackage: Moving '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/phong30_Auto10FE945B84A4CADC7467AA5BF107F0380.tmp' to '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Autosaves/Game/Prototype/phong30_Auto1.uasset'
+[2019.03.26-15.39.09:703][285]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Prototype/SciFi_Prop_14_3] ([1] browsable assets)...
+[2019.03.26-15.39.09:716][285]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Prototype/SciFi_Prop_14_3.SciFi_Prop_14_3]
+[2019.03.26-15.39.09:716][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/Prototype/SciFi_Prop_14_3]
+[2019.03.26-15.39.09:760][285]LogSavePackage: Moving '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/SciFi_Prop_14_3_Auto1AC6591E44D7D0D7A65AEBDB5883535AC.tmp' to '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Autosaves/Game/Prototype/SciFi_Prop_14_3_Auto1.uasset'
+[2019.03.26-15.39.09:764][285]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Prototype/Scene_Root] ([1] browsable assets)...
+[2019.03.26-15.39.09:780][285]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Prototype/Scene_Root.Scene_Root]
+[2019.03.26-15.39.09:780][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/Prototype/Scene_Root]
+[2019.03.26-15.39.09:803][285]LogSavePackage: Moving '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Scene_Root_Auto1EFCB8B8D449230185EC99F8E9DB72382.tmp' to '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Autosaves/Game/Prototype/Scene_Root_Auto1.uasset'
+[2019.03.26-15.39.09:805][285]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Prototype/SciFi_Prop_12_8] ([1] browsable assets)...
+[2019.03.26-15.39.09:816][285]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Prototype/SciFi_Prop_12_8.SciFi_Prop_12_8]
+[2019.03.26-15.39.09:816][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/Prototype/SciFi_Prop_12_8]
+[2019.03.26-15.39.09:836][285]LogSavePackage: Moving '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/SciFi_Prop_12_8_Auto1B51A5DF74D0CE924286FDD8DDB624429.tmp' to '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Autosaves/Game/Prototype/SciFi_Prop_12_8_Auto1.uasset'
+[2019.03.26-15.39.09:838][285]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Prototype/SciFi_Prop_03_2] ([1] browsable assets)...
+[2019.03.26-15.39.09:850][285]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Prototype/SciFi_Prop_03_2.SciFi_Prop_03_2]
+[2019.03.26-15.39.09:851][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/Prototype/SciFi_Prop_03_2]
+[2019.03.26-15.39.09:869][285]LogSavePackage: Moving '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/SciFi_Prop_03_2_Auto1A3DB30E243C5A732A33AD89286EF8D30.tmp' to '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Autosaves/Game/Prototype/SciFi_Prop_03_2_Auto1.uasset'
+[2019.03.26-15.39.09:871][285]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Prototype/Sci_Fi_Crate20_1] ([1] browsable assets)...
+[2019.03.26-15.39.09:881][285]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Prototype/Sci_Fi_Crate20_1.Sci_Fi_Crate20_1]
+[2019.03.26-15.39.09:881][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/Prototype/Sci_Fi_Crate20_1]
+[2019.03.26-15.39.09:899][285]LogSavePackage: Moving '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Sci_Fi_Crate20_1_Auto1A8457A9A43FE50B3E3BE8A8389324ABA.tmp' to '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Autosaves/Game/Prototype/Sci_Fi_Crate20_1_Auto1.uasset'
+[2019.03.26-15.39.09:900][285]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Prototype/Sci_Fi_Crate1_1] ([1] browsable assets)...
+[2019.03.26-15.39.09:915][285]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Prototype/Sci_Fi_Crate1_1.Sci_Fi_Crate1_1]
+[2019.03.26-15.39.09:915][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/Prototype/Sci_Fi_Crate1_1]
+[2019.03.26-15.39.09:932][285]LogSavePackage: Moving '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Sci_Fi_Crate1_1_Auto1C66CEBA247E5776D1BE72DAAC135C044.tmp' to '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Autosaves/Game/Prototype/Sci_Fi_Crate1_1_Auto1.uasset'
+[2019.03.26-15.39.09:933][285]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Prototype/Scene_Root1] ([1] browsable assets)...
+[2019.03.26-15.39.09:945][285]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Prototype/Scene_Root1.Scene_Root1]
+[2019.03.26-15.39.09:945][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/Prototype/Scene_Root1]
+[2019.03.26-15.39.09:963][285]LogSavePackage: Moving '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Scene_Root1_Auto1F27318BA4E6ECE9E774E5B9E34DAF016.tmp' to '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Autosaves/Game/Prototype/Scene_Root1_Auto1.uasset'
+[2019.03.26-15.39.09:964][285]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Prototype/Color_1] ([1] browsable assets)...
+[2019.03.26-15.39.09:977][285]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Prototype/Color_1.Color_1]
+[2019.03.26-15.39.09:977][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/Prototype/Color_1]
+[2019.03.26-15.39.09:996][285]LogSavePackage: Moving '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Color_1_Auto199681D70418BB56808B284BA8B654764.tmp' to '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Autosaves/Game/Prototype/Color_1_Auto1.uasset'
+[2019.03.26-15.39.09:997][285]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Prototype/Color_2] ([1] browsable assets)...
+[2019.03.26-15.39.10:007][285]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Prototype/Color_2.Color_2]
+[2019.03.26-15.39.10:007][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/Prototype/Color_2]
+[2019.03.26-15.39.10:029][285]LogSavePackage: Moving '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Color_2_Auto1B75CE25740D9217B8054A688CE67BA37.tmp' to '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/Autosaves/Game/Prototype/Color_2_Auto1.uasset'
+[2019.03.26-15.39.10:031][285]LogFileHelpers: Auto-saving content packages took 0.629
+[2019.03.26-15.41.01:991][665]LogSavePackage: Moving '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Saved/ShipA6F7F87241E7E9ABE71B87A4266CD042.tmp' to '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/mordentral-vrexppluginexample-d51abb2d3aa1/Content/Prototype/Ship.uasset'
+[2019.03.26-15.41.05:871][897]LogSlate: Window 'Ship' being destroyed
+[2019.03.26-15.41.05:876][897]LogSlate: Window 'Ship' being destroyed
+[2019.03.26-15.41.09:735][122]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.26-15.41.09:749][122]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.26-15.41.09:749][122]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.26-15.41.09:749][122]PIE: New page: PIE session: MotionControllerMap (Mar 26, 2019, 5:41:09 PM)
+[2019.03.26-15.41.09:750][122]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.03.26-15.41.09:790][122]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040960s)
+[2019.03.26-15.41.09:791][122]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.03.26-15.41.09:791][122]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2019.03.26-15.41.09:791][122]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.042101s)
+[2019.03.26-15.41.09:828][122]LogInit: XAudio2 using 'HP Z27i (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.26-15.41.09:903][122]LogInit: FAudioDevice initialized.
+[2019.03.26-15.41.09:940][122]LogLoad: Game class is 'SteamVR_GM_C'
+[2019.03.26-15.41.09:949][122]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2019.03.26-16.41.09
+[2019.03.26-15.41.09:950][122]LogWorld: Bringing up level for play took: 0.008773
+[2019.03.26-15.41.09:968][122]LogVoiceCapture: Warning: Failed to create capture device 0x88780078
+[2019.03.26-15.41.09:969][122]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2019.03.26-15.41.09:969][122]LogVoice: Warning: Voice capture initialization failed!
+[2019.03.26-15.41.09:969][122]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.26-15.41.09:969][122]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.26-15.41.09:969][122]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.26-15.41.10:008][122]LogHMD: SetSpectatorScreenMode(5).
+[2019.03.26-15.41.10:009][122]Cmd: vr.bEnableStereo false
+[2019.03.26-15.41.10:009][122]Cmd: r.setres 1024x768w
+[2019.03.26-15.41.10:010][122]r.SetRes = "1024x768w"
+[2019.03.26-15.41.10:010][122]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.26-15.41.10:010][122]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.88
+[2019.03.26-15.41.10:010][122]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.26-15.41.16:645][519]LogCharacterMovement: FPS_VivePawnCharacter_C_0 is stuck and failed to move! Velocity: X=-270.97 Y=535.33 Z=0.00 Location: X=-2634.81 Y=1038.93 Z=275.48 Normal: X=-0.07 Y=-0.23 Z=-0.97 PenetrationDepth:0.000 Actor:Ship_756 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2019.03.26-15.41.30:729][364]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.26-15.41.30:729][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-15.41.30:766][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.26-15.41.30:766][364]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'

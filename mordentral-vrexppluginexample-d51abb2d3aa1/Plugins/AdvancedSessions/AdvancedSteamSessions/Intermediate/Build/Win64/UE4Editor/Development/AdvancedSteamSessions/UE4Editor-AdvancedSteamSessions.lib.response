@@ -6,8 +6,8 @@
 /NAME:"UE4Editor-AdvancedSteamSessions.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"E:\UnrealProjects\mordentral-vrexppluginexample-d51abb2d3aa1\Intermediate\Build\Win64\VRExpPluginExampleEditor\Development\Engine\SharedPCH.Engine.h.obj"
-"E:\UnrealProjects\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
-"E:\UnrealProjects\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp.obj"
-"E:\UnrealProjects\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\PCLaunch.rc.res"
-/OUT:"E:\UnrealProjects\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\UE4Editor-AdvancedSteamSessions.lib"
+"C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Intermediate\Build\Win64\VRExpPluginExampleEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+"C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp.obj"
+"C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\PCLaunch.rc.res"
+/OUT:"C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\mordentral-vrexppluginexample-d51abb2d3aa1\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\UE4Editor-AdvancedSteamSessions.lib"
