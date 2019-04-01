@@ -1,0 +1,5 @@
+C:\Users\Slavi\Desktop\Oops\Repo\VREscapeRoom\VREscapeRoomPlugless\Source\VREscapeRoomPlugless\VREscapeRoomPlugless.Build.cs
+C:\Users\Slavi\Desktop\Oops\Repo\VREscapeRoom\VREscapeRoomPlugless\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin\OpenVRExpansionPlugin.Build.cs
+C:\Users\Slavi\Desktop\Oops\Repo\VREscapeRoom\VREscapeRoomPlugless\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\VRExpansionPlugin.Build.cs
+C:\Users\Slavi\Desktop\Oops\Repo\VREscapeRoom\VREscapeRoomPlugless\Source\VREscapeRoomPlugless.Target.cs
+C:\Users\Slavi\Desktop\Oops\Repo\VREscapeRoom\VREscapeRoomPlugless\Source\VREscapeRoomPluglessEditor.Target.cs
