@@ -1,0 +1,5 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Slaggy\Desktop\Dev\VREscapeRoom).
+  Waiting for 'git status' command to complete
+  Target is up to date
+  Deploying VRExpPluginExampleEditor Win64 Development...
+  Total build time: 2.90 seconds (NoActionsToExecute executor: 0.00 seconds)
