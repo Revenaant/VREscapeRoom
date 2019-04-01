@@ -1,0 +1,1608 @@
+﻿Log file open, 03/28/19 13:41:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Submarine
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.278713
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogPluginManager: Mounting plugin OpenVRExpansionPlugin
+LogPluginManager: Mounting plugin VRExpansionPlugin
+LogStreaming: Display: Took  0.134s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7820HQ CPU @ 2.90GHz, GPU: NVIDIA Quadro P5200
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.03.28-12.41.27:533][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Saved/Config/Windows/Engine.ini]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[r.ForwardShading:1]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:3]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:0]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:1]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Saved/Config/Windows/Engine.ini]
+[2019.03.28-12.41.27:534][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Saved/Config/Windows/Engine.ini]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Saved/Config/Windows/Engine.ini]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.03.28-12.41.27:534][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Saved/Config/Windows/Engine.ini]
+[2019.03.28-12.41.27:534][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Saved/Config/Windows/Engine.ini]
+[2019.03.28-12.41.27:539][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Saved/Config/Windows/Scalability.ini]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Saved/Config/Windows/Scalability.ini]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Saved/Config/Windows/Scalability.ini]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Saved/Config/Windows/Scalability.ini]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.28-12.41.27:539][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.28-12.41.27:540][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.28-12.41.27:540][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.28-12.41.27:540][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.28-12.41.27:540][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Saved/Config/Windows/Scalability.ini]
+[2019.03.28-12.41.27:540][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.28-12.41.27:540][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.28-12.41.27:540][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.28-12.41.27:540][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.28-12.41.27:540][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.28-12.41.27:540][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.28-12.41.27:540][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.28-12.41.27:540][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.28-12.41.27:540][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Saved/Config/Windows/Scalability.ini]
+[2019.03.28-12.41.27:540][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.03.28-12.41.27:540][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.28-12.41.27:540][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.03.28-12.41.27:540][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.03.28-12.41.27:540][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.28-12.41.27:540][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.03.28-12.41.27:540][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.28-12.41.27:540][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.28-12.41.27:540][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.28-12.41.27:540][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.28-12.41.27:540][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.28-12.41.27:540][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.28-12.41.27:540][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.28-12.41.27:540][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Saved/Config/Windows/Scalability.ini]
+[2019.03.28-12.41.27:540][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.28-12.41.27:540][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.28-12.41.27:540][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.28-12.41.27:540][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.28-12.41.27:557][  0]LogHAL: Display: Platform has ~ 16 GB [17099833344 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.03.28-12.41.27:558][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.28-12.41.27:558][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Saved/Config/Windows/Scalability.ini]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Saved/Config/Windows/Scalability.ini]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Saved/Config/Windows/Scalability.ini]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Saved/Config/Windows/Scalability.ini]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Saved/Config/Windows/Scalability.ini]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.28-12.41.27:558][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.28-12.41.27:559][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.28-12.41.27:559][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Saved/Config/Windows/Scalability.ini]
+[2019.03.28-12.41.27:559][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.03.28-12.41.27:559][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.28-12.41.27:559][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.03.28-12.41.27:559][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.03.28-12.41.27:559][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.28-12.41.27:559][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.03.28-12.41.27:559][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.28-12.41.27:559][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.28-12.41.27:559][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.28-12.41.27:559][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.28-12.41.27:559][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.28-12.41.27:559][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.28-12.41.27:559][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.28-12.41.27:559][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Saved/Config/Windows/Scalability.ini]
+[2019.03.28-12.41.27:559][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.28-12.41.27:559][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.28-12.41.27:559][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.03.28-12.41.27:559][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.03.28-12.41.27:559][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Saved/Config/Windows/Engine.ini]
+[2019.03.28-12.41.27:559][  0]LogInit: Computer: DESKTOP-GMKVEES
+[2019.03.28-12.41.27:559][  0]LogInit: User: HPZVRBackpack
+[2019.03.28-12.41.27:559][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.03.28-12.41.27:559][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.03.28-12.41.27:559][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.03.28-12.41.27:559][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.28-12.41.27:559][  0]LogMemory: Process Physical Memory: 102.93 MB used, 102.94 MB peak
+[2019.03.28-12.41.27:559][  0]LogMemory: Process Virtual Memory: 91.48 MB used, 91.48 MB peak
+[2019.03.28-12.41.27:559][  0]LogMemory: Physical Memory: 8461.89 MB used,  7845.78 MB free, 16307.67 MB total
+[2019.03.28-12.41.27:559][  0]LogMemory: Virtual Memory: 4651.24 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.03.28-12.41.27:579][  0]LogInit: Using OS detected language (en-GB).
+[2019.03.28-12.41.27:579][  0]LogInit: Using OS detected locale (en-US).
+[2019.03.28-12.41.27:580][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.03.28-12.41.28:020][  0]LogStreaming: Display: Took  0.441s to InitEngineTextLocalization.
+[2019.03.28-12.41.28:062][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.28-12.41.28:062][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.28-12.41.28:917][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.28-12.41.28:983][  0]LogD3D11RHI:    0. 'NVIDIA Quadro P5200' (Feature Level 11_0)
+[2019.03.28-12.41.28:983][  0]LogD3D11RHI:       16255/0/8153 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.03.28-12.41.28:985][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.28-12.41.28:985][  0]LogD3D11RHI:       0/0/8153 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.28-12.41.28:985][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.28-12.41.28:995][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.28-12.41.28:995][  0]LogD3D11RHI:     GPU DeviceId: 0x1bb5 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.28-12.41.28:995][  0]LogWindows: EnumDisplayDevices:
+[2019.03.28-12.41.28:996][  0]LogWindows:    0. 'NVIDIA Quadro P5200' (P:1 D:1)
+[2019.03.28-12.41.28:996][  0]LogWindows:    1. 'NVIDIA Quadro P5200' (P:0 D:0)
+[2019.03.28-12.41.28:996][  0]LogWindows:    2. 'NVIDIA Quadro P5200' (P:0 D:0)
+[2019.03.28-12.41.28:996][  0]LogWindows:    3. 'NVIDIA Quadro P5200' (P:0 D:0)
+[2019.03.28-12.41.28:997][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.03.28-12.41.28:997][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro P5200
+[2019.03.28-12.41.28:997][  0]LogD3D11RHI:   Driver Version: 416.58 (internal:25.21.14.1658, unified:416.58)
+[2019.03.28-12.41.28:997][  0]LogD3D11RHI:      Driver Date: 10-23-2018
+[2019.03.28-12.41.28:997][  0]LogRHI: Texture pool is 11378 MB (70% of 16255 MB)
+[2019.03.28-12.41.29:044][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.28-12.41.29:063][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.03.28-12.41.29:439][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.28-12.41.29:453][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.28-12.41.29:468][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.28-12.41.29:483][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.28-12.41.29:497][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.28-12.41.29:512][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.28-12.41.29:527][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.28-12.41.29:543][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.28-12.41.29:550][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.28-12.41.29:640][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.28-12.41.29:640][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.28-12.41.29:640][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.28-12.41.29:640][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.28-12.41.29:640][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.28-12.41.29:640][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.28-12.41.29:640][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.28-12.41.29:640][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.28-12.41.29:640][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.28-12.41.29:640][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.28-12.41.29:640][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.28-12.41.29:640][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.28-12.41.29:640][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.28-12.41.29:640][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.28-12.41.29:640][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.28-12.41.29:640][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.28-12.41.29:640][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.28-12.41.29:640][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.28-12.41.29:642][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.28-12.41.29:710][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.28-12.41.29:710][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.28-12.41.29:741][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.28-12.41.29:741][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.28-12.41.29:760][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.28-12.41.29:779][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.28-12.41.29:794][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.28-12.41.29:809][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.28-12.41.29:859][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.28-12.41.29:859][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.28-12.41.29:859][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.28-12.41.29:916][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Intermediate/Shaders/WorkingDirectory/23556/).
+[2019.03.28-12.41.29:916][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/HP ZVR Backpack/AppData/Local/Temp/UnrealShaderWorkingDir/DD5D9AD844E763CE1935B6B4C1BF497E/'.
+[2019.03.28-12.41.29:918][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.28-12.41.29:918][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.28-12.41.29:918][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.28-12.41.30:501][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.28-12.41.30:554][  0]LogDerivedDataCache: Loaded boot cache 0.05s 75MB C:/Users/HP ZVR Backpack/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.28-12.41.30:554][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/HP ZVR Backpack/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.03.28-12.41.30:554][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.28-12.41.30:554][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.28-12.41.30:554][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.28-12.41.30:554][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.28-12.41.30:570][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.28-12.41.30:571][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.28-12.41.30:571][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.03.28-12.41.30:582][  0]LogDerivedDataCache: Using Local data cache path C:/Users/HP ZVR Backpack/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.28-12.41.30:582][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.28-12.41.30:582][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.28-12.41.30:612][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.28-12.41.30:613][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.28-12.41.30:614][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.28-12.41.30:705][  0]LogAssetRegistry: FAssetRegistry took 0.0355 seconds to start up
+[2019.03.28-12.41.31:056][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.28-12.41.31:221][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.28-12.41.31:225][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.28-12.41.31:225][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.28-12.41.31:225][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.28-12.41.31:225][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.28-12.41.31:239][  0]LogNetVersion: Submarine 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1048016283)
+[2019.03.28-12.41.31:846][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.112429 seconds
+[2019.03.28-12.41.31:853][  0]LogUObjectArray: 39784 objects as part of root set at end of initial load.
+[2019.03.28-12.41.31:854][  0]LogUObjectAllocator: 6925464 out of 0 bytes used by permanent object pool.
+[2019.03.28-12.41.31:854][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.28-12.41.32:635][  0]LogMaterial: Display: Missing cached shader map for material BaseColor, compiling. 
+[2019.03.28-12.41.32:635][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\BaseColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.28-12.41.32:635][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.28-12.41.32:679][  0]LogMaterial: Display: Missing cached shader map for material LightingModel, compiling. 
+[2019.03.28-12.41.32:679][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\LightingModel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.28-12.41.32:679][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.28-12.41.32:684][  0]LogMaterial: Display: Missing cached shader map for material MaterialAO, compiling. 
+[2019.03.28-12.41.32:684][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\MaterialAO.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.28-12.41.32:684][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.28-12.41.32:689][  0]LogMaterial: Display: Missing cached shader map for material Metallic, compiling. 
+[2019.03.28-12.41.32:690][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Metallic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.28-12.41.32:690][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.28-12.41.32:694][  0]LogMaterial: Display: Missing cached shader map for material Opacity, compiling. 
+[2019.03.28-12.41.32:695][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Opacity.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.28-12.41.32:695][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.28-12.41.32:699][  0]LogMaterial: Display: Missing cached shader map for material Roughness, compiling. 
+[2019.03.28-12.41.32:699][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Roughness.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.28-12.41.32:699][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.28-12.41.32:731][  0]LogMaterial: Display: Missing cached shader map for material Specular, compiling. 
+[2019.03.28-12.41.32:732][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Specular.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.28-12.41.32:732][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.28-12.41.32:736][  0]LogMaterial: Display: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2019.03.28-12.41.32:736][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\SubsurfaceColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.28-12.41.32:736][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.28-12.41.32:740][  0]LogMaterial: Display: Missing cached shader map for material WorldNormal, compiling. 
+[2019.03.28-12.41.32:741][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\WorldNormal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.28-12.41.32:741][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.28-12.41.32:808][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.28-12.41.32:822][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.28-12.41.33:536][  0]SourceControl: Source control is disabled
+[2019.03.28-12.41.33:536][  0]SourceControl: Source control is disabled
+[2019.03.28-12.41.33:537][  0]SourceControl: Source control is disabled
+[2019.03.28-12.41.33:538][  0]SourceControl: Source control is disabled
+[2019.03.28-12.41.33:696][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.28-12.41.33:752][  0]LogOcInput: OculusInput pre-init called
+[2019.03.28-12.41.33:909][  0]LogEngine: Initializing Engine...
+[2019.03.28-12.41.33:912][  0]LogHMD: SteamVR initialized.  Driver: holographic  Display: WindowsHolographic
+[2019.03.28-12.41.33:916][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.28-12.41.33:916][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Reconstruct NetIndex -  0.000 s
+[2019.03.28-12.41.33:916][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.28-12.41.34:180][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.28-12.41.34:193][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.28-12.41.34:257][  0]LogInit: XAudio2 using 'HP Z27i (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.28-12.41.34:276][  0]LogInit: FAudioDevice initialized.
+[2019.03.28-12.41.34:277][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.28-12.41.34:324][  0]LogDerivedDataCache: Saved boot cache 0.05s 75MB C:/Users/HP ZVR Backpack/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.28-12.41.34:337][  0]LogInit: Texture streaming: Enabled
+[2019.03.28-12.41.34:354][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.28-12.41.34:369][  0]LogInit: Transaction tracking system initialized
+[2019.03.28-12.41.34:395][  0]BlueprintLog: New page: Editor Load
+[2019.03.28-12.41.34:479][  0]LocalizationService: Localization service is disabled
+[2019.03.28-12.41.34:985][  0]LogFileCache: Scanning file cache for directory 'C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Content/' took 0.02s
+[2019.03.28-12.41.34:985][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.28-12.41.34:985][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.28-12.41.34:985][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.28-12.41.34:986][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.28-12.41.34:986][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Reconstruct NetIndex -  0.000 s
+[2019.03.28-12.41.34:986][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.28-12.41.35:122][  0]SourceControl: Source control is disabled
+[2019.03.28-12.41.35:122][  0]Cmd: MAP LOAD FILE="../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.28-12.41.35:123][  0]LightingResults: New page: Lighting Build
+[2019.03.28-12.41.35:126][  0]MapCheck: New page: Map Check
+[2019.03.28-12.41.35:126][  0]LightingResults: New page: Lighting Build
+[2019.03.28-12.41.39:530][  0]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.03.28-12.41.39:581][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.28-12.41.39:670][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.28-12.41.39:670][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.145ms to complete.
+[2019.03.28-12.41.39:670][  0]LogFileHelpers: Loading map 'MotionControllerMap' took 4.548
+[2019.03.28-12.41.39:760][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.28-12.41.39:768][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.28-12.41.39:776][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.28-12.41.39:785][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.28-12.41.39:791][  0]LogCollectionManager: Loaded 0 collections in 0.001768 seconds
+[2019.03.28-12.41.39:806][  0]LogFileCache: Scanning file cache for directory 'C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Saved/Collections/' took 0.01s
+[2019.03.28-12.41.39:806][  0]LogFileCache: Scanning file cache for directory 'C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Content/Developers/HPZVRBackpack/Collections/' took 0.00s
+[2019.03.28-12.41.39:806][  0]LogFileCache: Scanning file cache for directory 'C:/Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Content/Collections/' took 0.00s
+[2019.03.28-12.41.39:806][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.03.28-12.41.39:815][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2730 classes and 641 folders.
+[2019.03.28-12.41.39:822][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.28-12.41.39:823][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.28-12.41.39:824][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.28-12.41.39:824][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.28-12.41.39:825][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.28-12.41.39:825][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.28-12.41.39:825][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.28-12.41.39:826][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.28-12.41.39:826][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.28-12.41.39:826][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.28-12.41.39:827][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.28-12.41.39:828][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.28-12.41.39:828][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.28-12.41.39:828][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.28-12.41.39:829][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.28-12.41.39:829][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.28-12.41.39:830][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.28-12.41.39:831][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.28-12.41.39:831][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.28-12.41.39:831][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.28-12.41.39:832][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.28-12.41.39:832][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.28-12.41.39:833][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.28-12.41.39:833][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.28-12.41.39:834][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.28-12.41.39:834][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.28-12.41.39:834][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.28-12.41.39:864][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.03.28-12.41.39:869][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.03.28-12.41.39:884][  0]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.28-12.41.39:887][  0]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.28-12.41.39:893][  0]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.28-12.41.39:985][  0]LogRenderer: Reallocating scene render targets to support 1024x1024 Format 10 NumSamples 4 (Frame:1).
+[2019.03.28-12.41.40:003][  0]LogRenderer: Reallocating scene render targets to support 1184x1024 Format 26 NumSamples 4 (Frame:1).
+[2019.03.28-12.41.40:157][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.28-12.41.40:157][  0]LogLoad: (Engine Initialization) Total time: 14.49 seconds
+[2019.03.28-12.41.40:157][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.28-12.41.40:232][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.28-12.41.40:264][  0]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.28-12.41.41:575][ 12]LogAssetRegistry: Asset discovery search completed in 10.8932 seconds
+[2019.03.28-12.41.41:577][ 12]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.28-12.41.41:577][ 12]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000057 seconds (updated 0 objects)
+[2019.03.28-12.42.07:535][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-12.42.07:735][799]LogTemp: Repeating last play command: VR Preview
+[2019.03.28-12.42.07:747][799]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.28-12.42.07:747][799]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.28-12.42.07:748][799]PIE: New page: PIE session: MotionControllerMap (Mar 28, 2019, 2:42:07 PM)
+[2019.03.28-12.42.07:749][799]LogOnline: Warning: STEAM: Steam API disabled!
+[2019.03.28-12.42.07:749][799]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2019.03.28-12.42.07:763][799]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.03.28-12.42.07:810][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046361s)
+[2019.03.28-12.42.07:810][799]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.03.28-12.42.07:810][799]LogPlayLevel: PIE: World Init took: (0.000520s)
+[2019.03.28-12.42.07:810][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.047149s)
+[2019.03.28-12.42.07:845][799]LogVoiceCapture: Warning: Failed to create capture device 0x88780078
+[2019.03.28-12.42.07:845][799]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2019.03.28-12.42.07:845][799]LogVoice: Warning: Voice capture initialization failed!
+[2019.03.28-12.42.07:845][799]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2019.03.28-12.42.07:854][799]LogInit: XAudio2 using 'HP Z27i (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.28-12.42.07:865][799]LogInit: FAudioDevice initialized.
+[2019.03.28-12.42.07:874][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.28-12.42.07:960][799]LogLoad: Game class is 'SteamVR_GM_C'
+[2019.03.28-12.42.07:970][799]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.03.28-13.42.07
+[2019.03.28-12.42.07:972][799]LogWorld: Bringing up level for play took: 0.009803
+[2019.03.28-12.42.08:027][799]LogVoiceCapture: Warning: Failed to create capture device 0x88780078
+[2019.03.28-12.42.08:027][799]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2019.03.28-12.42.08:027][799]LogVoice: Warning: Voice capture initialization failed!
+[2019.03.28-12.42.08:030][799]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.03.28-12.42.08:030][799]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.28-12.42.08:030][799]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.28-12.42.08:030][799]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.28-12.42.08:052][799]Cmd: vr.bEnableStereo true
+[2019.03.28-12.42.08:055][799]OpenVRExpansionFunctionLibraryLog: Display: OpenVRDeviceType - Prop_ModelNumber_String_1001: HP Windows Mixed Reality Headset
+[2019.03.28-12.42.08:055][799]LogHMD: SetSpectatorScreenMode(5).
+[2019.03.28-12.42.08:058][799]Cmd: vr.bEnableStereo true
+[2019.03.28-12.42.08:058][799]Cmd: r.setres 1280x720w
+[2019.03.28-12.42.08:058][799]r.SetRes = "1280x720w"
+[2019.03.28-12.42.08:060][799]Cmd: sg.ResolutionQuality 100
+[2019.03.28-12.42.08:060][799]sg.ResolutionQuality = "100"
+[2019.03.28-12.42.08:060][799]Cmd: r.screenpercentage 100
+[2019.03.28-12.42.08:060][799]r.ScreenPercentage = "100"
+[2019.03.28-12.42.08:060][799]Cmd: vr.PixelDensity 1
+[2019.03.28-12.42.08:060][799]vr.PixelDensity = "1"
+[2019.03.28-12.42.08:060][799]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.28-12.42.08:064][799]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.945
+[2019.03.28-12.42.08:065][799]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.28-12.42.08:135][801]LogRenderer: Reallocating scene render targets to support 4184x2092 Format 26 NumSamples 4 (Frame:1).
+[2019.03.28-12.42.08:205][801]LogSlate: Took 0.002210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.03.28-12.48.06:629][ 44]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.28-12.48.06:796][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.28-12.48.06:833][ 44]LogSlate: Window 'Submarine Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.28-12.48.06:841][ 44]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2019.03.28-12.48.06:879][ 44]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.28-12.48.06:879][ 44]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.28-12.48.06:930][ 45]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.03.28-12.48.20:766][863]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2019.03.28-12.48.23:882][ 44]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.03.28-12.48.25:708][151]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume3)
+[2019.03.28-12.48.27:643][263]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2019.03.28-12.48.29:149][349]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume3)
+[2019.03.28-12.48.34:399][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-12.48.55:507][910]Cmd: TRANSACTION UNDO
+[2019.03.28-12.48.55:507][910]LogEditorTransaction: Undo Move Actors
+[2019.03.28-12.48.55:508][910]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2019.03.28-12.48.55:508][910]LogGeometryMode: Warning: Unable to resolve NavMeshBoundsVolume3 Brush in new BSP, see above
+[2019.03.28-12.48.55:508][910]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.03.28-12.48.55:517][910]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.28-12.49.00:753][221]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.28-12.49.14:575][ 43]Cmd: TRANSACTION UNDO
+[2019.03.28-12.49.14:575][ 43]LogEditorTransaction: Undo Move Actors
+[2019.03.28-12.49.14:575][ 43]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.03.28-12.49.14:575][ 43]LogGeometryMode: Warning: Unable to resolve NavMeshBoundsVolume3 Brush in new BSP, see above
+[2019.03.28-12.49.14:576][ 43]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.03.28-12.49.15:184][ 79]Cmd: TRANSACTION UNDO
+[2019.03.28-12.49.15:184][ 79]LogEditorTransaction: Undo Move Actors
+[2019.03.28-12.49.15:186][ 79]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.03.28-12.49.15:186][ 79]LogGeometryMode: Warning: Unable to resolve NavMeshBoundsVolume3 Brush in new BSP, see above
+[2019.03.28-12.49.15:186][ 79]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.03.28-12.49.28:258][857]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.28-12.49.42:590][712]Cmd: TRANSACTION UNDO
+[2019.03.28-12.49.42:590][712]LogEditorTransaction: Undo Move Actors
+[2019.03.28-12.49.42:591][712]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2019.03.28-12.49.42:591][712]LogGeometryMode: Warning: Unable to resolve NavMeshBoundsVolume3 Brush in new BSP, see above
+[2019.03.28-12.49.42:591][712]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.03.28-12.49.42:984][732]Cmd: TRANSACTION UNDO
+[2019.03.28-12.49.42:984][732]LogEditorTransaction: Undo Move Actors
+[2019.03.28-12.49.42:985][732]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2019.03.28-12.49.42:985][732]LogGeometryMode: Warning: Unable to resolve NavMeshBoundsVolume3 Brush in new BSP, see above
+[2019.03.28-12.49.42:985][732]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.03.28-12.49.48:827][ 77]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.28-12.50.37:910][ 17]Cmd: DUPLICATE
+[2019.03.28-12.50.37:911][ 17]Cmd: ACTOR DUPLICATE
+[2019.03.28-12.50.37:984][ 17]LogGeometryMode: Warning: Unable to find NavMeshBoundsVolume3_0 Brush(s) in new BSP
+[2019.03.28-12.50.37:984][ 17]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.03.28-12.50.40:772][171]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.28-12.50.58:300][212]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.28-12.51.21:249][581]Cmd: TRANSACTION UNDO
+[2019.03.28-12.51.21:249][581]LogEditorTransaction: Undo Rotate Actors
+[2019.03.28-12.51.27:119][930]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-12.52.09:476][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ship)
+[2019.03.28-12.52.10:428][508]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.28-12.52.14:306][740]Cmd: TRANSACTION UNDO
+[2019.03.28-12.52.14:306][740]LogEditorTransaction: Undo Move Actors
+[2019.03.28-12.52.56:509][260]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.28-12.53.12:635][225]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.28-12.53.14:249][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ship)
+[2019.03.28-12.53.49:510][424]LogEditorViewport: Clicking on Actor (LMB): Sedan_C (Sedan)
+[2019.03.28-12.53.53:192][643]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.28-12.53.54:961][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-12.54.24:433][515]Cmd: TRANSACTION UNDO
+[2019.03.28-12.54.24:433][515]LogEditorTransaction: Undo Move Components
+[2019.03.28-12.54.43:676][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-12.54.44:879][738]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.28-12.54.54:186][296]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.28-12.54.56:421][430]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.28-12.55.02:343][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-12.55.06:492][ 30]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.28-12.55.08:560][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Submarine_fixed_1)
+[2019.03.28-12.55.10:262][241]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2019.03.28-12.55.21:396][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-12.55.28:905][353]LogEditorViewport: Clicking on Actor (LMB): Sedan_C (Sedan)
+[2019.03.28-12.55.37:359][857]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2019.03.28-12.55.38:091][899]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-12.55.56:841][ 23]LogEditorViewport: Clicking on Actor (LMB): Sedan_C (Sedan)
+[2019.03.28-12.56.02:543][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-12.56.08:351][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-12.56.14:064][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Submarine_fixed_1)
+[2019.03.28-12.56.14:829][ 87]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2019.03.28-12.56.16:493][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-12.56.23:537][606]LogEditorViewport: Clicking on Actor (LMB): Sedan_C (Sedan)
+[2019.03.28-12.56.25:374][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-12.56.31:230][ 63]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2019.03.28-12.56.32:346][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-12.56.41:430][670]LogEditorViewport: Clicking on Actor (LMB): Sedan_C (Sedan)
+[2019.03.28-12.56.43:366][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-12.56.51:709][283]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2019.03.28-12.56.53:089][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-12.57.09:318][335]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.28-12.57.30:423][590]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume3)
+[2019.03.28-12.57.32:304][693]LogEditorViewport: Clicking on Actor (LMB): Sedan_C (Sedan)
+[2019.03.28-12.57.34:721][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-12.57.44:885][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-12.57.54:291][  1]LogEditorViewport: Clicking on Component (LMB): VRButtonComponent (ExitButton)
+[2019.03.28-12.57.57:120][168]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-12.58.05:980][698]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2019.03.28-12.58.07:593][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-12.58.15:356][255]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-12.58.23:085][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Submarine_fixed_1)
+[2019.03.28-12.58.24:603][792]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2019.03.28-12.58.25:258][829]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.28-12.58.28:104][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-12.58.37:109][536]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.28-12.58.49:122][253]Cmd: TRANSACTION UNDO
+[2019.03.28-12.58.49:122][253]LogEditorTransaction: Undo Rotate Components
+[2019.03.28-12.58.53:140][493]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.28-12.59.24:284][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-12.59.24:384][361]LogTemp: Repeating last play command: VR Preview
+[2019.03.28-12.59.24:397][361]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.28-12.59.24:398][361]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.28-12.59.24:398][361]PIE: New page: PIE session: MotionControllerMap (Mar 28, 2019, 2:59:24 PM)
+[2019.03.28-12.59.24:398][361]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.03.28-12.59.24:444][361]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046779s)
+[2019.03.28-12.59.24:445][361]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.03.28-12.59.24:445][361]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2019.03.28-12.59.24:445][361]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.047921s)
+[2019.03.28-12.59.24:473][361]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2019.03.28-12.59.24:480][361]LogInit: XAudio2 using 'HP Z27i (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.28-12.59.24:492][361]LogInit: FAudioDevice initialized.
+[2019.03.28-12.59.24:500][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.28-12.59.24:575][361]LogLoad: Game class is 'SteamVR_GM_C'
+[2019.03.28-12.59.24:585][361]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.03.28-13.59.24
+[2019.03.28-12.59.24:586][361]LogWorld: Bringing up level for play took: 0.010101
+[2019.03.28-12.59.24:641][361]LogVoiceCapture: Warning: Failed to create capture device 0x88780078
+[2019.03.28-12.59.24:641][361]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2019.03.28-12.59.24:641][361]LogVoice: Warning: Voice capture initialization failed!
+[2019.03.28-12.59.24:641][361]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.28-12.59.24:641][361]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.28-12.59.24:641][361]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.28-12.59.24:661][361]Cmd: vr.bEnableStereo true
+[2019.03.28-12.59.24:664][361]OpenVRExpansionFunctionLibraryLog: Display: OpenVRDeviceType - Prop_ModelNumber_String_1001: HP Windows Mixed Reality Headset
+[2019.03.28-12.59.24:664][361]LogHMD: SetSpectatorScreenMode(5).
+[2019.03.28-12.59.24:666][361]Cmd: vr.bEnableStereo true
+[2019.03.28-12.59.24:666][361]Cmd: r.setres 1280x720w
+[2019.03.28-12.59.24:666][361]r.SetRes = "1280x720w"
+[2019.03.28-12.59.24:666][361]Cmd: sg.ResolutionQuality 100
+[2019.03.28-12.59.24:666][361]LogConsoleManager: Warning: Setting the console variable 'r.ScreenPercentage' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '100'
+[2019.03.28-12.59.24:666][361]sg.ResolutionQuality = "100"
+[2019.03.28-12.59.24:666][361]Cmd: r.screenpercentage 100
+[2019.03.28-12.59.24:666][361]r.ScreenPercentage = "100"
+[2019.03.28-12.59.24:666][361]Cmd: vr.PixelDensity 1
+[2019.03.28-12.59.24:666][361]vr.PixelDensity = "1"
+[2019.03.28-12.59.24:666][361]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.28-12.59.24:670][361]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.449
+[2019.03.28-12.59.24:671][361]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.28-13.00.46:673][731]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.28-13.00.46:846][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.28-13.00.46:881][731]LogSlate: Window 'Submarine Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.28-13.00.46:889][731]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2019.03.28-13.00.46:931][731]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.28-13.00.46:931][731]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.28-13.00.46:981][732]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.03.28-13.00.52:971][ 90]LogEditorViewport: Clicking on Actor (LMB): Sedan_C (Sedan)
+[2019.03.28-13.00.53:613][126]LogEditorViewport: Clicking on Actor (LMB): Sedan_C (Sedan)
+[2019.03.28-13.00.54:062][152]LogEditorViewport: Clicking on Component (LMB): VRButtonComponent (ExitButton)
+[2019.03.28-13.00.54:725][189]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.28-13.01.29:226][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-13.01.42:669][ 61]LogLinker: Warning: Can't find file '/Game/Vehicle/Sedan/Sedan_SkelMesh'
+[2019.03.28-13.01.42:669][ 61]LogLinker: Warning: Can't find file '/Game/Vehicle/Sedan/Sedan_SkelMesh'
+[2019.03.28-13.01.42:669][ 61]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Vehicle/Sedan/Sedan_SkelMesh.Sedan_SkelMesh'
+[2019.03.28-13.01.52:692][659]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VRExpansion/Vive/Testing/Car/VehicleBP/Sedan/Sedan.Sedan
+[2019.03.28-13.01.53:189][659]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 117 classes and 0 folders.
+[2019.03.28-13.01.54:325][659]LogSlate: Took 0.004134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.28-13.02.06:981][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-13.02.07:048][325]LogTemp: Repeating last play command: VR Preview
+[2019.03.28-13.02.07:066][325]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.28-13.02.07:067][325]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.28-13.02.07:067][325]PIE: New page: PIE session: MotionControllerMap (Mar 28, 2019, 3:02:07 PM)
+[2019.03.28-13.02.07:067][325]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.03.28-13.02.07:118][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050582s)
+[2019.03.28-13.02.07:118][325]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.03.28-13.02.07:119][325]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2019.03.28-13.02.07:119][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.051468s)
+[2019.03.28-13.02.07:154][325]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2019.03.28-13.02.07:162][325]LogInit: XAudio2 using 'HP Z27i (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.28-13.02.07:174][325]LogInit: FAudioDevice initialized.
+[2019.03.28-13.02.07:183][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.28-13.02.07:274][325]LogLoad: Game class is 'SteamVR_GM_C'
+[2019.03.28-13.02.07:283][325]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.03.28-14.02.07
+[2019.03.28-13.02.07:284][325]LogWorld: Bringing up level for play took: 0.009627
+[2019.03.28-13.02.07:342][325]LogVoiceCapture: Warning: Failed to create capture device 0x88780078
+[2019.03.28-13.02.07:342][325]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2019.03.28-13.02.07:342][325]LogVoice: Warning: Voice capture initialization failed!
+[2019.03.28-13.02.07:342][325]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.28-13.02.07:342][325]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.28-13.02.07:342][325]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.28-13.02.07:363][325]Cmd: vr.bEnableStereo true
+[2019.03.28-13.02.07:366][325]OpenVRExpansionFunctionLibraryLog: Display: OpenVRDeviceType - Prop_ModelNumber_String_1001: HP Windows Mixed Reality Headset
+[2019.03.28-13.02.07:366][325]LogHMD: SetSpectatorScreenMode(5).
+[2019.03.28-13.02.07:369][325]Cmd: vr.bEnableStereo true
+[2019.03.28-13.02.07:369][325]Cmd: r.setres 1280x720w
+[2019.03.28-13.02.07:369][325]r.SetRes = "1280x720w"
+[2019.03.28-13.02.07:369][325]Cmd: sg.ResolutionQuality 100
+[2019.03.28-13.02.07:369][325]LogConsoleManager: Warning: Setting the console variable 'r.ScreenPercentage' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '100'
+[2019.03.28-13.02.07:369][325]sg.ResolutionQuality = "100"
+[2019.03.28-13.02.07:369][325]Cmd: r.screenpercentage 100
+[2019.03.28-13.02.07:369][325]r.ScreenPercentage = "100"
+[2019.03.28-13.02.07:369][325]Cmd: vr.PixelDensity 1
+[2019.03.28-13.02.07:369][325]vr.PixelDensity = "1"
+[2019.03.28-13.02.07:369][325]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.28-13.02.07:377][325]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.258
+[2019.03.28-13.02.07:378][325]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.28-13.03.20:986][854]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.28-13.03.21:162][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.28-13.03.21:220][854]LogSlate: Window 'Submarine Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.28-13.03.21:226][854]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2019.03.28-13.03.21:264][854]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.28-13.03.21:264][854]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.28-13.03.21:390][855]Cmd: SELECT NONE
+[2019.03.28-13.03.21:393][855]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.03.28-13.03.46:771][342]LogSavePackage: Moving '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Saved/MotionControllerMap_Auto1D6046E4E40AE8D75F57D2982D1917C66.tmp' to '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto1.umap'
+[2019.03.28-13.03.46:776][342]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.542
+[2019.03.28-13.03.46:776][342]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.542
+[2019.03.28-13.11.34:680][239]LogEditorViewport: Clicking on Actor (LMB): Sedan_C (Sedan)
+[2019.03.28-13.11.35:850][307]Cmd: DUPLICATE
+[2019.03.28-13.11.35:850][307]Cmd: ACTOR DUPLICATE
+[2019.03.28-13.11.39:613][528]LogEditorViewport: Clicking on Actor (CTRL LMB): Sedan_C (Sedan)
+[2019.03.28-13.11.45:162][847]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.28-13.11.46:163][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Submarine_fixed_1)
+[2019.03.28-13.11.47:429][975]Cmd: TRANSACTION UNDO
+[2019.03.28-13.11.47:429][975]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.28-13.11.48:423][ 33]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Submarine_fixed_1)
+[2019.03.28-13.11.48:657][ 40]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.28-13.11.49:619][ 96]Cmd: TRANSACTION UNDO
+[2019.03.28-13.11.49:619][ 96]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.28-13.11.50:930][173]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume2)
+[2019.03.28-13.11.51:767][220]Cmd: TRANSACTION UNDO
+[2019.03.28-13.11.51:767][220]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.28-13.12.07:741][163]LogEditorViewport: Clicking on Actor (LMB): Sedan_C (Sedan2)
+[2019.03.28-13.12.08:735][220]LogEditorViewport: Clicking on Actor (LMB): Sedan_C (Sedan2)
+[2019.03.28-13.12.09:273][251]LogEditorViewport: Clicking on Actor (LMB): Sedan_C (Sedan)
+[2019.03.28-13.12.13:843][522]Cmd: TRANSACTION UNDO
+[2019.03.28-13.12.13:843][522]LogEditorTransaction: Undo Move Actors
+[2019.03.28-13.12.14:486][559]Cmd: TRANSACTION UNDO
+[2019.03.28-13.12.14:486][559]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.28-13.12.15:073][593]Cmd: TRANSACTION UNDO
+[2019.03.28-13.12.15:073][593]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.28-13.12.16:230][662]Cmd: TRANSACTION UNDO
+[2019.03.28-13.12.16:230][662]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.28-13.12.17:027][709]Cmd: TRANSACTION UNDO
+[2019.03.28-13.12.17:027][709]LogEditorTransaction: Undo Move Actors
+[2019.03.28-13.12.17:815][755]Cmd: TRANSACTION UNDO
+[2019.03.28-13.12.17:815][755]LogEditorTransaction: Undo Rotate Actors
+[2019.03.28-13.12.18:354][786]Cmd: TRANSACTION UNDO
+[2019.03.28-13.12.18:354][786]LogEditorTransaction: Undo Move Actors
+[2019.03.28-13.12.18:841][814]Cmd: TRANSACTION UNDO
+[2019.03.28-13.12.18:841][814]LogEditorTransaction: Undo Move Actors
+[2019.03.28-13.12.19:198][834]Cmd: TRANSACTION UNDO
+[2019.03.28-13.12.19:198][834]LogEditorTransaction: Undo Move Actors
+[2019.03.28-13.12.19:565][855]Cmd: TRANSACTION UNDO
+[2019.03.28-13.12.19:565][855]LogEditorTransaction: Undo Move Actors
+[2019.03.28-13.12.20:033][882]Cmd: TRANSACTION UNDO
+[2019.03.28-13.12.20:033][882]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.28-13.12.20:516][910]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.28-13.12.23:624][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-13.12.27:350][317]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.28-13.12.30:663][514]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.28-13.12.34:547][746]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.28-13.12.39:330][ 27]Cmd: TRANSACTION UNDO
+[2019.03.28-13.12.39:330][ 27]LogEditorTransaction: Undo Move Actors
+[2019.03.28-13.12.44:617][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Submarine_fixed_1)
+[2019.03.28-13.12.47:790][517]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-13.12.52:758][806]Cmd: TRANSACTION UNDO
+[2019.03.28-13.12.52:758][806]LogEditorTransaction: Undo Replace component used material
+[2019.03.28-13.12.54:149][884]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-13.12.55:545][963]LogMaterial: Display: Missing cached shader map for material hendle, compiling. 
+[2019.03.28-13.12.55:592][963]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.28-13.12.55:592][963]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.28-13.12.55:592][963]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.28-13.13.00:357][242]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-13.13.08:623][732]LogMaterial: Display: Missing cached shader map for material aluminium, compiling. 
+[2019.03.28-13.13.08:739][733]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.28-13.13.08:739][733]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.28-13.13.08:739][733]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.28-13.13.13:828][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-13.13.20:153][407]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-13.13.33:340][183]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-13.13.36:599][372]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-13.13.39:097][520]LogMaterial: Display: Missing cached shader map for material black_poli_plastic, compiling. 
+[2019.03.28-13.13.39:111][520]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.28-13.13.39:111][520]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.28-13.13.39:111][520]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.28-13.13.41:393][651]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-13.13.54:521][431]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-13.14.06:208][122]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/VRExpansion/FirstPersonBP/FirstPerson/Meshes/FirstPersonProjectileMaterial.FirstPersonProjectileMaterial
+[2019.03.28-13.14.08:458][233]LogSlate: Window 'FirstPersonProjectileMaterial' being destroyed
+[2019.03.28-13.14.08:464][233]LogSlate: Window 'FirstPersonProjectileMaterial' being destroyed
+[2019.03.28-13.14.26:441][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-13.15.03:891][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-13.15.13:395][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-13.15.24:817][721]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-13.15.29:183][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-13.15.34:803][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-13.15.37:160][443]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.03.28-13.15.37:213][444]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.03.28-13.15.37:213][444]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.03.28-13.15.37:213][444]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.03.28-13.15.37:213][444]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.28-13.15.37:230][444]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2019.03.28-13.15.37:293][445]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2019.03.28-13.15.37:346][446]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2019.03.28-13.15.37:393][447]LogMaterial: Display: Missing cached shader map for material Material_4, compiling. 
+[2019.03.28-13.15.37:394][447]LogMaterial: Warning: /Engine/Transient.Material_4 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.28-13.15.37:394][447]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2019.03.28-13.15.39:751][583]LogShaderCompilers: Display: Shaders left to compile 136
+[2019.03.28-13.15.39:761][584]LogShaderCompilers: Display: Shaders left to compile 126
+[2019.03.28-13.15.41:265][674]LogShaderCompilers: Display: Shaders left to compile 116
+[2019.03.28-13.15.42:214][731]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.03.28-13.15.43:123][782]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.03.28-13.15.43:793][821]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.03.28-13.15.43:848][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-13.15.45:458][919]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.03.28-13.15.47:261][ 27]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.03.28-13.15.50:336][211]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.03.28-13.15.53:767][417]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.03.28-13.15.55:735][534]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.03.28-13.15.56:119][557]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.03.28-13.15.57:668][650]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.28-13.15.57:691][651]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.28-13.16.09:139][325]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-13.16.12:559][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-13.16.15:161][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-13.16.34:928][827]Cmd: TRANSACTION UNDO
+[2019.03.28-13.16.34:928][827]LogEditorTransaction: Undo Move Actors
+[2019.03.28-13.16.37:091][948]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Submarine_fixed_1)
+[2019.03.28-13.16.37:117][948]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-13.16.41:464][206]Cmd: PIVOT HERE
+[2019.03.28-13.16.43:290][309]Cmd: TRANSACTION UNDO
+[2019.03.28-13.16.43:290][309]LogEditorTransaction: Undo Actor Movement
+[2019.03.28-13.17.08:553][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-13.17.14:570][161]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.28-13.17.17:252][321]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.28-13.17.30:446][106]Cmd: TRANSACTION UNDO
+[2019.03.28-13.17.30:446][106]LogEditorTransaction: Undo Select Brush Surface
+[2019.03.28-13.17.31:056][139]Cmd: TRANSACTION UNDO
+[2019.03.28-13.17.31:056][139]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.28-13.17.31:476][163]Cmd: TRANSACTION UNDO
+[2019.03.28-13.17.31:476][163]LogEditorTransaction: Undo Move Actors
+[2019.03.28-13.18.00:550][785]LogSavePackage: Moving '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Saved/MotionControllerMap_Auto295FF8E82470D1D82F502AF81E0F364BF.tmp' to '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto2.umap'
+[2019.03.28-13.18.00:555][785]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.607
+[2019.03.28-13.18.00:556][785]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.607
+[2019.03.28-13.18.27:087][865]LogHMD: SteamVR Shutting down.
+[2019.03.28-13.33.45:701][271]Cmd: TRANSACTION UNDO
+[2019.03.28-13.33.45:701][271]LogEditorTransaction: Undo Modifier [Edit]
+[2019.03.28-13.33.45:846][278]Cmd: TRANSACTION UNDO
+[2019.03.28-13.33.45:846][278]LogEditorTransaction: Undo Select Brush Surface
+[2019.03.28-13.33.45:996][279]Cmd: TRANSACTION UNDO
+[2019.03.28-13.33.45:996][279]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2019.03.28-13.33.46:155][287]Cmd: TRANSACTION UNDO
+[2019.03.28-13.33.46:155][287]LogEditorTransaction: Undo Create Actors
+[2019.03.28-13.33.46:274][290]Cmd: TRANSACTION UNDO
+[2019.03.28-13.33.46:274][290]LogEditorTransaction: Undo Replace component used material
+[2019.03.28-13.33.46:402][294]Cmd: TRANSACTION UNDO
+[2019.03.28-13.33.46:402][294]LogEditorTransaction: Undo Replace component used material
+[2019.03.28-13.33.46:540][299]Cmd: TRANSACTION UNDO
+[2019.03.28-13.33.46:540][299]LogEditorTransaction: Undo Replace component used material
+[2019.03.28-13.33.46:677][304]Cmd: TRANSACTION UNDO
+[2019.03.28-13.33.46:677][304]LogEditorTransaction: Undo Replace component used material
+[2019.03.28-13.33.46:814][309]Cmd: TRANSACTION UNDO
+[2019.03.28-13.33.46:814][309]LogEditorTransaction: Undo Replace component used material
+[2019.03.28-13.33.46:952][314]Cmd: TRANSACTION UNDO
+[2019.03.28-13.33.46:952][314]LogEditorTransaction: Undo Replace component used material
+[2019.03.28-13.33.47:105][320]Cmd: TRANSACTION UNDO
+[2019.03.28-13.33.47:105][320]LogEditorTransaction: Undo Replace component used material
+[2019.03.28-13.33.47:258][326]Cmd: TRANSACTION UNDO
+[2019.03.28-13.33.47:258][326]LogEditorTransaction: Undo Replace component used material
+[2019.03.28-13.33.47:429][333]Cmd: TRANSACTION UNDO
+[2019.03.28-13.33.47:429][333]LogEditorTransaction: Undo Replace component used material
+[2019.03.28-13.33.47:601][340]Cmd: TRANSACTION UNDO
+[2019.03.28-13.33.47:601][340]LogEditorTransaction: Undo Replace component used material
+[2019.03.28-13.33.47:770][347]Cmd: TRANSACTION UNDO
+[2019.03.28-13.33.47:770][347]LogEditorTransaction: Undo Replace component used material
+[2019.03.28-13.33.48:024][359]Cmd: TRANSACTION UNDO
+[2019.03.28-13.33.48:024][359]LogEditorTransaction: Undo Replace component used material
+[2019.03.28-13.33.48:275][371]Cmd: TRANSACTION UNDO
+[2019.03.28-13.33.48:275][371]LogEditorTransaction: Undo Replace component used material
+[2019.03.28-13.33.48:494][381]Cmd: TRANSACTION UNDO
+[2019.03.28-13.33.48:494][381]LogEditorTransaction: Undo Replace component used material
+[2019.03.28-13.33.48:696][390]Cmd: TRANSACTION UNDO
+[2019.03.28-13.33.48:696][390]LogEditorTransaction: Undo Replace component used material
+[2019.03.28-13.33.48:900][399]Cmd: TRANSACTION UNDO
+[2019.03.28-13.33.48:900][399]LogEditorTransaction: Undo Replace component used material
+[2019.03.28-13.33.49:069][406]Cmd: TRANSACTION UNDO
+[2019.03.28-13.33.49:069][406]LogEditorTransaction: Undo Replace component used material
+[2019.03.28-13.33.49:255][414]Cmd: TRANSACTION UNDO
+[2019.03.28-13.33.49:255][414]LogEditorTransaction: Undo Replace component used material
+[2019.03.28-13.33.49:425][421]Cmd: TRANSACTION UNDO
+[2019.03.28-13.33.49:425][421]LogEditorTransaction: Undo Replace component used material
+[2019.03.28-13.33.49:729][436]Cmd: TRANSACTION UNDO
+[2019.03.28-13.33.49:729][436]LogEditorTransaction: Undo Replace component used material
+[2019.03.28-13.33.50:052][452]Cmd: TRANSACTION UNDO
+[2019.03.28-13.33.50:052][452]LogEditorTransaction: Undo Replace component used material
+[2019.03.28-13.33.50:355][467]Cmd: TRANSACTION UNDO
+[2019.03.28-13.33.50:355][467]LogEditorTransaction: Undo Replace component used material
+[2019.03.28-13.33.50:740][487]Cmd: TRANSACTION UNDO
+[2019.03.28-13.33.50:740][487]LogEditorTransaction: Undo Replace component used material
+[2019.03.28-13.34.14:321][897]Cmd: TRANSACTION UNDO
+[2019.03.28-13.34.14:321][897]LogEditorTransaction: Undo Rotate Actors
+[2019.03.28-13.34.15:019][931]LogEditorViewport: Clicking on Actor (LMB): Sedan_C (Sedan2)
+[2019.03.28-13.34.22:848][397]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.28-13.34.30:087][829]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2019.03.28-13.34.31:485][911]Cmd: DELETE
+[2019.03.28-13.34.31:486][911]Cmd: ACTOR DELETE
+[2019.03.28-13.34.31:504][911]LogEditorActor: Deleted Actor: Actor
+[2019.03.28-13.34.31:541][911]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2019.03.28-13.34.32:586][974]LogEditorViewport: Clicking on Actor (LMB): Sedan_C (Sedan2)
+[2019.03.28-13.34.34:806][104]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.28-13.34.36:963][233]LogEditorViewport: Clicking on Actor (LMB): Sedan_C (Sedan2)
+[2019.03.28-13.35.08:948][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-13.35.08:981][145]Cmd: MODE GRID=0
+[2019.03.28-13.35.13:442][410]Cmd: MODE GRID=1
+[2019.03.28-13.35.16:493][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-13.35.23:588][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-13.35.54:127][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-13.36.47:510][ 10]LogSavePackage: Moving '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Saved/MotionControllerMap_Auto347EFD0F94D68BABCD012F3BB282C8297.tmp' to '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto3.umap'
+[2019.03.28-13.36.47:515][ 10]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.505
+[2019.03.28-13.36.47:515][ 10]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.505
+[2019.03.28-13.38.17:491][406]LogEditorViewport: Clicking on Component (LMB): VRLeverComponent (SteeringWheel)
+[2019.03.28-13.38.21:444][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-13.38.38:257][645]LogEditorViewport: Clicking on Component (LMB): VRButtonComponent (StartButton)
+[2019.03.28-13.38.40:140][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-13.38.41:525][838]LogEditorViewport: Clicking on Component (LMB): TextRenderComponent (InCarSpeed)
+[2019.03.28-13.38.43:060][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-13.38.44:187][995]LogEditorViewport: Clicking on Component (LMB): TextRenderComponent (InCarGear)
+[2019.03.28-13.38.45:468][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-13.38.47:462][189]LogEditorViewport: Clicking on Component (LMB): VRButtonComponent (ShotgunRearExitButton)
+[2019.03.28-13.38.50:719][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-13.38.55:239][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Submarine_fixed_1)
+[2019.03.28-13.38.59:950][926]LogEditorViewport: Clicking on Actor (LMB): Sedan_C (Sedan2)
+[2019.03.28-13.39.00:895][981]LogEditorViewport: Clicking on Actor (LMB): Sedan_C (Sedan2)
+[2019.03.28-13.39.02:360][ 68]LogEditorViewport: Clicking on Actor (LMB): Sedan_C (Sedan2)
+[2019.03.28-13.39.04:865][216]LogEditorViewport: Clicking on Actor (LMB): Sedan_C (Sedan2)
+[2019.03.28-13.39.05:481][252]LogEditorViewport: Clicking on Actor (LMB): Sedan_C (Sedan2)
+[2019.03.28-13.39.07:732][385]LogEditorViewport: Clicking on Actor (LMB): Sedan_C (Sedan2)
+[2019.03.28-13.39.08:085][405]LogEditorViewport: Clicking on Component (LMB): VRButtonComponent (DriverRearExitButton)
+[2019.03.28-13.39.10:844][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-13.39.14:944][812]LogEditorViewport: Clicking on Component (LMB): ThrottleLever_C (ThrottleLever)
+[2019.03.28-13.39.18:569][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-13.39.22:820][279]LogEditorViewport: Clicking on Component (LMB): VRButtonComponent (ExitButton)
+[2019.03.28-13.39.27:890][579]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.28-13.39.47:918][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-13.39.47:984][778]Cmd: MODE GRID=0
+[2019.03.28-13.39.57:246][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Submarine_fixed_1)
+[2019.03.28-13.40.01:962][606]LogEditorViewport: Clicking on Actor (LMB): Sedan_C (Sedan2)
+[2019.03.28-13.40.05:079][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-13.40.08:933][ 20]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.28-13.40.19:049][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-13.40.19:098][627]LogTemp: Repeating last play command: VR Preview
+[2019.03.28-13.40.19:117][627]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.28-13.40.19:117][627]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.28-13.40.19:117][627]PIE: New page: PIE session: MotionControllerMap (Mar 28, 2019, 3:40:19 PM)
+[2019.03.28-13.40.19:117][627]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.03.28-13.40.19:162][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044945s)
+[2019.03.28-13.40.19:163][627]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.03.28-13.40.19:163][627]LogPlayLevel: PIE: World Init took: (0.000787s)
+[2019.03.28-13.40.19:163][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.045933s)
+[2019.03.28-13.40.19:195][627]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2019.03.28-13.40.19:204][627]LogInit: XAudio2 using 'HP Z27i (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.28-13.40.19:217][627]LogInit: FAudioDevice initialized.
+[2019.03.28-13.40.19:227][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.28-13.40.19:264][627]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.03.28-13.40.19:998][627]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.733 s
+[2019.03.28-13.40.19:998][627]LogOutputDevice: Error: === Handled ensure: ===
+[2019.03.28-13.40.19:998][627]LogOutputDevice: Error: 
+[2019.03.28-13.40.19:998][627]LogOutputDevice: Error: Ensure condition failed: VRSystem && VRCompositor [File:D:\Build\++UE4\Sync\Engine\Plugins\Runtime\Steam\SteamVR\Source\SteamVR\Private\SteamVRHMD.cpp] [Line: 1596]
+[2019.03.28-13.40.19:998][627]LogOutputDevice: Error: 
+[2019.03.28-13.40.19:998][627]LogOutputDevice: Error: Stack: 
+[2019.03.28-13.40.19:998][627]LogOutputDevice: Error: [Callstack] 0x00007ffad2ae83fe UE4Editor-SteamVR.dll!UnknownFunction []
+[2019.03.28-13.40.19:998][627]LogOutputDevice: Error: [Callstack] 0x00007ffad2ad40f3 UE4Editor-SteamVR.dll!UnknownFunction []
+[2019.03.28-13.40.19:998][627]LogOutputDevice: Error: [Callstack] 0x00007ffad815a80e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.28-13.40.19:998][627]LogOutputDevice: Error: [Callstack] 0x00007ffad817b350 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.28-13.40.19:998][627]LogOutputDevice: Error: [Callstack] 0x00007ffad81992e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.28-13.40.19:998][627]LogOutputDevice: Error: [Callstack] 0x00007ffad7b91891 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.28-13.40.19:998][627]LogOutputDevice: Error: [Callstack] 0x00007ffad84b2346 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.28-13.40.19:999][627]LogOutputDevice: Error: [Callstack] 0x00007ff6b5406225 UE4Editor.exe!UnknownFunction []
+[2019.03.28-13.40.19:999][627]LogOutputDevice: Error: [Callstack] 0x00007ff6b541596c UE4Editor.exe!UnknownFunction []
+[2019.03.28-13.40.19:999][627]LogOutputDevice: Error: [Callstack] 0x00007ff6b54159ea UE4Editor.exe!UnknownFunction []
+[2019.03.28-13.40.19:999][627]LogOutputDevice: Error: [Callstack] 0x00007ff6b54248da UE4Editor.exe!UnknownFunction []
+[2019.03.28-13.40.19:999][627]LogOutputDevice: Error: [Callstack] 0x00007ff6b542659a UE4Editor.exe!UnknownFunction []
+[2019.03.28-13.40.19:999][627]LogOutputDevice: Error: [Callstack] 0x00007ffb4bcd81f4 KERNEL32.DLL!UnknownFunction []
+[2019.03.28-13.40.19:999][627]LogOutputDevice: Error: [Callstack] 0x00007ffb4e25a251 ntdll.dll!UnknownFunction []
+[2019.03.28-13.40.19:999][627]LogOutputDevice: Error: 
+[2019.03.28-13.40.20:001][627]LogStats:                SubmitErrorReport -  0.000 s
+[2019.03.28-13.40.20:668][627]LogStats:                    SendNewReport -  0.667 s
+[2019.03.28-13.40.20:668][627]LogStats:             FDebug::EnsureFailed -  1.404 s
+[2019.03.28-13.40.20:670][627]LogLoad: Game class is 'SteamVR_GM_C'
+[2019.03.28-13.40.20:681][627]LogVehicles: Warning: Cannot create vehicle for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Sedan2.MovementComp. UpdatedComponent has not initialized its rigid body actor.
+[2019.03.28-13.40.20:681][627]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.03.28-14.40.20
+[2019.03.28-13.40.20:682][627]LogWorld: Bringing up level for play took: 0.011492
+[2019.03.28-13.40.20:740][627]LogVoiceCapture: Warning: Failed to create capture device 0x88780078
+[2019.03.28-13.40.20:740][627]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2019.03.28-13.40.20:740][627]LogVoice: Warning: Voice capture initialization failed!
+[2019.03.28-13.40.20:741][627]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.28-13.40.20:741][627]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.28-13.40.20:741][627]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.28-13.40.20:772][627]Cmd: vr.bEnableStereo true
+[2019.03.28-13.40.20:772][627]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.28-13.40.20:775][627]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.655
+[2019.03.28-13.40.20:775][627]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.28-13.40.21:377][801]LogHMD: SetSpectatorScreenMode(5).
+[2019.03.28-13.40.21:379][801]Cmd: vr.bEnableStereo true
+[2019.03.28-13.40.21:379][801]Cmd: r.setres 1280x720w
+[2019.03.28-13.40.21:379][801]r.SetRes = "1280x720w"
+[2019.03.28-13.40.21:379][801]Cmd: sg.ResolutionQuality 100
+[2019.03.28-13.40.21:379][801]LogConsoleManager: Warning: Setting the console variable 'r.ScreenPercentage' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '100'
+[2019.03.28-13.40.21:379][801]sg.ResolutionQuality = "100"
+[2019.03.28-13.40.21:379][801]Cmd: r.screenpercentage 100
+[2019.03.28-13.40.21:379][801]r.ScreenPercentage = "100"
+[2019.03.28-13.40.21:379][801]Cmd: vr.PixelDensity 1
+[2019.03.28-13.40.21:379][801]vr.PixelDensity = "1"
+[2019.03.28-13.40.40:174][  7]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.28-13.40.40:175][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.28-13.40.40:209][  7]LogSlate: Window 'Submarine Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.28-13.40.40:213][  7]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2019.03.28-13.40.40:251][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.28-13.40.40:251][  7]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.28-13.40.40:308][  8]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.03.28-13.40.44:127][236]LogTemp: Repeating last play command: VR Preview
+[2019.03.28-13.40.44:150][236]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.28-13.40.44:150][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.28-13.40.44:150][236]PIE: New page: PIE session: MotionControllerMap (Mar 28, 2019, 3:40:44 PM)
+[2019.03.28-13.40.44:150][236]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.03.28-13.40.44:203][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052723s)
+[2019.03.28-13.40.44:203][236]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.03.28-13.40.44:204][236]LogPlayLevel: PIE: World Init took: (0.000515s)
+[2019.03.28-13.40.44:204][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.053493s)
+[2019.03.28-13.40.44:243][236]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2019.03.28-13.40.44:252][236]LogInit: XAudio2 using 'HP Z27i (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.28-13.40.44:266][236]LogInit: FAudioDevice initialized.
+[2019.03.28-13.40.44:273][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.28-13.40.44:312][236]LogLoad: Game class is 'SteamVR_GM_C'
+[2019.03.28-13.40.44:322][236]LogVehicles: Warning: Cannot create vehicle for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Sedan2.MovementComp. UpdatedComponent has not initialized its rigid body actor.
+[2019.03.28-13.40.44:323][236]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.03.28-14.40.44
+[2019.03.28-13.40.44:324][236]LogWorld: Bringing up level for play took: 0.011189
+[2019.03.28-13.40.44:384][236]LogVoiceCapture: Warning: Failed to create capture device 0x88780078
+[2019.03.28-13.40.44:384][236]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2019.03.28-13.40.44:384][236]LogVoice: Warning: Voice capture initialization failed!
+[2019.03.28-13.40.44:384][236]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.28-13.40.44:384][236]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.28-13.40.44:384][236]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.28-13.40.44:423][236]Cmd: vr.bEnableStereo true
+[2019.03.28-13.40.44:423][236]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.28-13.40.44:427][236]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.693
+[2019.03.28-13.40.44:427][236]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.28-13.40.45:125][382]LogHMD: SetSpectatorScreenMode(5).
+[2019.03.28-13.40.45:127][382]Cmd: vr.bEnableStereo true
+[2019.03.28-13.40.45:127][382]Cmd: r.setres 1280x720w
+[2019.03.28-13.40.45:127][382]r.SetRes = "1280x720w"
+[2019.03.28-13.40.45:127][382]Cmd: sg.ResolutionQuality 100
+[2019.03.28-13.40.45:127][382]LogConsoleManager: Warning: Setting the console variable 'r.ScreenPercentage' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '100'
+[2019.03.28-13.40.45:127][382]sg.ResolutionQuality = "100"
+[2019.03.28-13.40.45:127][382]Cmd: r.screenpercentage 100
+[2019.03.28-13.40.45:127][382]r.ScreenPercentage = "100"
+[2019.03.28-13.40.45:127][382]Cmd: vr.PixelDensity 1
+[2019.03.28-13.40.45:127][382]vr.PixelDensity = "1"
+[2019.03.28-13.40.54:216][966]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.28-13.40.54:216][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.28-13.40.54:248][966]LogSlate: Window 'Submarine Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.28-13.40.54:251][966]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2019.03.28-13.40.54:284][966]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.28-13.40.54:285][966]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.28-13.40.54:346][967]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.03.28-13.41.00:195][315]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.28-13.41.00:195][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.28-13.41.00:195][315]PIE: New page: PIE session: MotionControllerMap (Mar 28, 2019, 3:41:00 PM)
+[2019.03.28-13.41.00:196][315]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.03.28-13.41.00:251][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054664s)
+[2019.03.28-13.41.00:251][315]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.03.28-13.41.00:252][315]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2019.03.28-13.41.00:252][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.055778s)
+[2019.03.28-13.41.00:286][315]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2019.03.28-13.41.00:293][315]LogInit: XAudio2 using 'HP Z27i (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.28-13.41.00:303][315]LogInit: FAudioDevice initialized.
+[2019.03.28-13.41.00:310][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.28-13.41.00:351][315]LogLoad: Game class is 'SteamVR_GM_C'
+[2019.03.28-13.41.00:362][315]LogVehicles: Warning: Cannot create vehicle for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Sedan2.MovementComp. UpdatedComponent has not initialized its rigid body actor.
+[2019.03.28-13.41.00:363][315]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.03.28-14.41.00
+[2019.03.28-13.41.00:364][315]LogWorld: Bringing up level for play took: 0.012186
+[2019.03.28-13.41.00:418][315]LogVoiceCapture: Warning: Failed to create capture device 0x88780078
+[2019.03.28-13.41.00:419][315]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2019.03.28-13.41.00:419][315]LogVoice: Warning: Voice capture initialization failed!
+[2019.03.28-13.41.00:419][315]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.28-13.41.00:419][315]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.28-13.41.00:419][315]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.28-13.41.00:453][315]Cmd: vr.bEnableStereo true
+[2019.03.28-13.41.00:453][315]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.28-13.41.00:456][315]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.664
+[2019.03.28-13.41.00:456][315]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.28-13.41.01:164][466]LogHMD: SetSpectatorScreenMode(5).
+[2019.03.28-13.41.01:166][466]Cmd: vr.bEnableStereo true
+[2019.03.28-13.41.01:166][466]Cmd: r.setres 1280x720w
+[2019.03.28-13.41.01:166][466]r.SetRes = "1280x720w"
+[2019.03.28-13.41.01:166][466]Cmd: sg.ResolutionQuality 100
+[2019.03.28-13.41.01:166][466]LogConsoleManager: Warning: Setting the console variable 'r.ScreenPercentage' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '100'
+[2019.03.28-13.41.01:166][466]sg.ResolutionQuality = "100"
+[2019.03.28-13.41.01:166][466]Cmd: r.screenpercentage 100
+[2019.03.28-13.41.01:166][466]r.ScreenPercentage = "100"
+[2019.03.28-13.41.01:166][466]Cmd: vr.PixelDensity 1
+[2019.03.28-13.41.01:166][466]vr.PixelDensity = "1"
+[2019.03.28-13.41.13:616][496]LogSlate: Window 'Submarine Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.28-13.41.13:620][496]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.28-13.41.13:628][496]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2019.03.28-13.41.13:666][496]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.28-13.41.13:666][496]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.03.28-13.41.13:727][497]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.03.28-13.41.22:807][940]LogSlate: Window 'Save Content' being destroyed
+[2019.03.28-13.41.23:435][940]LogSavePackage: Moving '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Saved/MotionControllerMap72E81597426C480DA6C109BA27767EB1.tmp' to '../../../../../../Users/HP ZVR Backpack/Desktop/Dev/VREscapeRoom/Submarine/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2019.03.28-13.41.23:469][940]LogFileHelpers: Saving map 'MotionControllerMap' took 0.641
+[2019.03.28-13.41.23:549][940]LogSlate: Window 'Submarine - Unreal Editor' being destroyed
+[2019.03.28-13.41.23:763][941]Cmd: QUIT_EDITOR
+[2019.03.28-13.41.24:134][941]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.28-13.41.24:149][941]LogExit: Preparing to exit.
+[2019.03.28-13.41.24:825][941]LogExit: Editor shut down
+[2019.03.28-13.41.24:826][941]LogExit: Transaction tracking system shut down
+[2019.03.28-13.41.25:214][941]LogExit: Object subsystem successfully closed.
+[2019.03.28-13.41.25:242][941]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.03.28-13.41.25:247][941]LogD3D11RHI: Shutdown
+[2019.03.28-13.41.25:247][941]LogD3D11RHI: CleanupD3DDevice
+[2019.03.28-13.41.25:251][941]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.03.28-13.41.25:274][941]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (642)
+[2019.03.28-13.41.25:274][941]LogModuleManager: Shutting down and abandoning module BlueprintGraph (640)
+[2019.03.28-13.41.25:274][941]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (638)
+[2019.03.28-13.41.25:274][941]LogModuleManager: Shutting down and abandoning module Voice (636)
+[2019.03.28-13.41.25:278][941]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (634)
+[2019.03.28-13.41.25:278][941]LogModuleManager: Shutting down and abandoning module SceneOutliner (632)
+[2019.03.28-13.41.25:278][941]LogModuleManager: Shutting down and abandoning module AddContentDialog (630)
+[2019.03.28-13.41.25:279][941]LogModuleManager: Shutting down and abandoning module WidgetCarousel (629)
+[2019.03.28-13.41.25:279][941]LogModuleManager: Shutting down and abandoning module EditorWidgets (626)
+[2019.03.28-13.41.25:279][941]LogModuleManager: Shutting down and abandoning module CollectionManager (624)
+[2019.03.28-13.41.25:279][941]LogModuleManager: Shutting down and abandoning module StatsViewer (622)
+[2019.03.28-13.41.25:279][941]LogModuleManager: Shutting down and abandoning module FoliageEdit (620)
+[2019.03.28-13.41.25:279][941]LogModuleManager: Shutting down and abandoning module LandscapeEditor (618)
+[2019.03.28-13.41.25:279][941]LogModuleManager: Shutting down and abandoning module MeshPaintMode (616)
+[2019.03.28-13.41.25:279][941]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (614)
+[2019.03.28-13.41.25:279][941]LogModuleManager: Shutting down and abandoning module ActorPickerMode (612)
+[2019.03.28-13.41.25:279][941]LogModuleManager: Shutting down and abandoning module GeometryMode (610)
+[2019.03.28-13.41.25:279][941]LogModuleManager: Shutting down and abandoning module TextureAlignMode (608)
+[2019.03.28-13.41.25:279][941]LogModuleManager: Shutting down and abandoning module BspMode (606)
+[2019.03.28-13.41.25:279][941]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (604)
+[2019.03.28-13.41.25:279][941]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (602)
+[2019.03.28-13.41.25:279][941]LogModuleManager: Shutting down and abandoning module AutomationWorker (600)
+[2019.03.28-13.41.25:279][941]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (598)
+[2019.03.28-13.41.25:279][941]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (596)
+[2019.03.28-13.41.25:279][941]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (594)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module PlacementMode (593)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module MaterialEditor (592)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (588)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (586)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (584)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (582)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module WebMMedia (580)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (578)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (576)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module SequenceRecorder (575)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (572)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (570)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (568)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (566)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (564)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (562)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (560)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (558)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (556)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (554)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module CharacterAI (552)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module SmartSnapping (550)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module SessionServices (548)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.03.28-13.41.25:280][941]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.03.28-13.41.25:717][941]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.03.28-13.41.25:717][941]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.03.28-13.41.25:717][941]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.03.28-13.41.25:717][941]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.03.28-13.41.25:717][941]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.03.28-13.41.25:717][941]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.03.28-13.41.25:717][941]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.03.28-13.41.25:717][941]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.03.28-13.41.25:717][941]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.03.28-13.41.25:717][941]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.03.28-13.41.25:717][941]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.03.28-13.41.25:717][941]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.03.28-13.41.25:717][941]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.03.28-13.41.25:717][941]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.03.28-13.41.25:717][941]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.03.28-13.41.25:717][941]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.03.28-13.41.25:719][941]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.03.28-13.41.25:719][941]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.03.28-13.41.25:719][941]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.03.28-13.41.25:719][941]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.03.28-13.41.25:719][941]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.03.28-13.41.25:719][941]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.03.28-13.41.25:719][941]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.03.28-13.41.25:762][941]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.03.28-13.41.25:762][941]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.03.28-13.41.25:762][941]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.03.28-13.41.25:762][941]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.03.28-13.41.25:762][941]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.03.28-13.41.25:762][941]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.03.28-13.41.25:762][941]LogModuleManager: Shutting down and abandoning module Persona (464)
+[2019.03.28-13.41.25:762][941]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (463)
+[2019.03.28-13.41.25:762][941]LogModuleManager: Shutting down and abandoning module AnimGraph (461)
+[2019.03.28-13.41.25:762][941]LogModuleManager: Shutting down and abandoning module Kismet (458)
+[2019.03.28-13.41.25:769][941]LogModuleManager: Shutting down and abandoning module GraphEditor (456)
+[2019.03.28-13.41.25:769][941]LogModuleManager: Shutting down and abandoning module ClassViewer (454)
+[2019.03.28-13.41.25:769][941]LogModuleManager: Shutting down and abandoning module Toolbox (452)
+[2019.03.28-13.41.25:769][941]LogModuleManager: Shutting down and abandoning module DesktopPlatform (451)
+[2019.03.28-13.41.25:769][941]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.03.28-13.41.25:769][941]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.03.28-13.41.25:769][941]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.03.28-13.41.25:769][941]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.03.28-13.41.25:769][941]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.03.28-13.41.25:769][941]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (438)
+[2019.03.28-13.41.25:769][941]LogModuleManager: Shutting down and abandoning module MovieScene (436)
+[2019.03.28-13.41.25:769][941]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (434)
+[2019.03.28-13.41.25:769][941]LogModuleManager: Shutting down and abandoning module LauncherPlatform (432)
+[2019.03.28-13.41.25:769][941]LogModuleManager: Shutting down and abandoning module AnalyticsET (430)
+[2019.03.28-13.41.25:769][941]LogModuleManager: Shutting down and abandoning module PortalServices (428)
+[2019.03.28-13.41.25:769][941]LogModuleManager: Shutting down and abandoning module PortalRpc (426)
+[2019.03.28-13.41.25:769][941]LogModuleManager: Shutting down and abandoning module MessagingRpc (424)
+[2019.03.28-13.41.25:769][941]LogModuleManager: Shutting down and abandoning module AIModule (422)
+[2019.03.28-13.41.25:769][941]LogModuleManager: Shutting down and abandoning module GameplayDebugger (421)
+[2019.03.28-13.41.25:769][941]LogModuleManager: Shutting down and abandoning module AITestSuite (419)
+[2019.03.28-13.41.25:769][941]LogModuleManager: Shutting down and abandoning module NavigationSystem (417)
+[2019.03.28-13.41.25:769][941]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (414)
+[2019.03.28-13.41.25:772][941]LogModuleManager: Shutting down and abandoning module ProfilerService (412)
+[2019.03.28-13.41.25:786][941]LogModuleManager: Shutting down and abandoning module TaskGraph (410)
+[2019.03.28-13.41.25:786][941]LogModuleManager: Shutting down and abandoning module VRExpansionPlugin (408)
+[2019.03.28-13.41.25:786][941]LogModuleManager: Shutting down and abandoning module OpenVRExpansionPlugin (406)
+[2019.03.28-13.41.25:786][941]LogModuleManager: Shutting down and abandoning module SteamVRController (404)
+[2019.03.28-13.41.25:786][941]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (402)
+[2019.03.28-13.41.25:786][941]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (400)
+[2019.03.28-13.41.25:786][941]LogModuleManager: Shutting down and abandoning module OculusInput (398)
+[2019.03.28-13.41.25:787][941]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (396)
+[2019.03.28-13.41.25:787][941]LogModuleManager: Shutting down and abandoning module EditableMesh (394)
+[2019.03.28-13.41.25:787][941]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (392)
+[2019.03.28-13.41.25:787][941]LogModuleManager: Shutting down and abandoning module CableComponent (390)
+[2019.03.28-13.41.25:787][941]LogModuleManager: Shutting down and abandoning module AudioCapture (388)
+[2019.03.28-13.41.25:787][941]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (386)
+[2019.03.28-13.41.25:787][941]LogModuleManager: Shutting down and abandoning module AndroidPermission (384)
+[2019.03.28-13.41.25:787][941]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (382)
+[2019.03.28-13.41.25:787][941]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (380)
+[2019.03.28-13.41.25:787][941]LogModuleManager: Shutting down and abandoning module MediaCompositing (378)
+[2019.03.28-13.41.25:787][941]LogModuleManager: Shutting down and abandoning module LinearTimecode (376)
+[2019.03.28-13.41.25:787][941]LogModuleManager: Shutting down and abandoning module ImgMedia (374)
+[2019.03.28-13.41.25:791][941]LogModuleManager: Shutting down and abandoning module HTML5Networking (372)
+[2019.03.28-13.41.25:791][941]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (370)
+[2019.03.28-13.41.25:791][941]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (368)
+[2019.03.28-13.41.25:791][941]LogModuleManager: Shutting down and abandoning module BackChannel (366)
+[2019.03.28-13.41.25:791][941]LogModuleManager: Shutting down and abandoning module AppleVision (364)
+[2019.03.28-13.41.25:791][941]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (362)
+[2019.03.28-13.41.25:791][941]LogModuleManager: Shutting down and abandoning module AppleImageUtils (360)
+[2019.03.28-13.41.25:791][941]LogModuleManager: Shutting down and abandoning module AlembicImporter (358)
+[2019.03.28-13.41.25:791][941]LogModuleManager: Shutting down and abandoning module AlembicLibrary (357)
+[2019.03.28-13.41.25:791][941]LogModuleManager: Shutting down and abandoning module GeometryCache (356)
+[2019.03.28-13.41.25:791][941]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (355)
+[2019.03.28-13.41.25:791][941]LogModuleManager: Shutting down and abandoning module VariantManagerContent (350)
+[2019.03.28-13.41.25:791][941]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (348)
+[2019.03.28-13.41.25:791][941]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (346)
+[2019.03.28-13.41.25:791][941]LogModuleManager: Shutting down and abandoning module PluginBrowser (344)
+[2019.03.28-13.41.25:791][941]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (342)
+[2019.03.28-13.41.25:791][941]LogModuleManager: Shutting down and abandoning module PolygonModeling (340)
+[2019.03.28-13.41.25:791][941]LogModuleManager: Shutting down and abandoning module MeshEditor (338)
+[2019.03.28-13.41.25:791][941]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (336)
+[2019.03.28-13.41.25:791][941]LogModuleManager: Shutting down and abandoning module CryptoKeys (334)
+[2019.03.28-13.41.25:791][941]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (332)
+[2019.03.28-13.41.25:791][941]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (330)
+[2019.03.28-13.41.25:791][941]LogModuleManager: Shutting down and abandoning module UObjectPlugin (328)
+[2019.03.28-13.41.25:791][941]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (326)
+[2019.03.28-13.41.25:791][941]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (324)
+[2019.03.28-13.41.25:791][941]LogModuleManager: Shutting down and abandoning module GitSourceControl (322)
+[2019.03.28-13.41.25:791][941]LogModuleManager: Shutting down and abandoning module SourceControl (321)
+[2019.03.28-13.41.25:792][941]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (318)
+[2019.03.28-13.41.25:792][941]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (316)
+[2019.03.28-13.41.25:792][941]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (314)
+[2019.03.28-13.41.25:792][941]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (312)
+[2019.03.28-13.41.25:792][941]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (310)
+[2019.03.28-13.41.25:792][941]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (308)
+[2019.03.28-13.41.25:792][941]LogModuleManager: Shutting down and abandoning module Paper2DEditor (306)
+[2019.03.28-13.41.25:792][941]LogModuleManager: Shutting down and abandoning module MeshPaint (305)
+[2019.03.28-13.41.25:792][941]LogModuleManager: Shutting down and abandoning module Submarine (302)
+[2019.03.28-13.41.25:792][941]LogModuleManager: Shutting down and abandoning module AdvancedSteamSessions (300)
+[2019.03.28-13.41.25:792][941]LogModuleManager: Shutting down and abandoning module AdvancedSessions (298)
+[2019.03.28-13.41.25:792][941]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (296)
+[2019.03.28-13.41.25:792][941]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (294)
+[2019.03.28-13.41.25:792][941]LogModuleManager: Shutting down and abandoning module PhysXVehicles (292)
+[2019.03.28-13.41.25:792][941]LogModuleManager: Shutting down and abandoning module OculusEditor (290)
+[2019.03.28-13.41.25:792][941]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (288)
+[2019.03.28-13.41.25:792][941]LogModuleManager: Shutting down and abandoning module ActorSequence (286)
+[2019.03.28-13.41.25:792][941]LogModuleManager: Shutting down and abandoning module UdpMessaging (284)
+[2019.03.28-13.41.25:893][941]LogModuleManager: Shutting down and abandoning module TcpMessaging (282)
+[2019.03.28-13.41.25:994][941]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (280)
+[2019.03.28-13.41.25:994][941]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.03.28-13.41.25:994][941]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.03.28-13.41.25:994][941]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.03.28-13.41.25:994][941]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.03.28-13.41.25:994][941]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.03.28-13.41.25:994][941]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.03.28-13.41.25:994][941]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.03.28-13.41.25:994][941]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.03.28-13.41.25:995][941]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.03.28-13.41.25:995][941]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.03.28-13.41.25:995][941]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.03.28-13.41.25:997][941]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.03.28-13.41.25:997][941]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (254)
+[2019.03.28-13.41.25:997][941]LogModuleManager: Shutting down and abandoning module AISupportModule (252)
+[2019.03.28-13.41.25:997][941]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.03.28-13.41.25:997][941]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.03.28-13.41.25:997][941]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.03.28-13.41.25:997][941]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.03.28-13.41.25:999][941]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.03.28-13.41.26:005][941]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.03.28-13.41.26:005][941]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.03.28-13.41.26:005][941]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.03.28-13.41.26:005][941]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.03.28-13.41.26:005][941]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.03.28-13.41.26:005][941]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.03.28-13.41.26:005][941]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.03.28-13.41.26:005][941]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.03.28-13.41.26:005][941]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.03.28-13.41.26:005][941]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.03.28-13.41.26:005][941]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.03.28-13.41.26:005][941]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.03.28-13.41.26:005][941]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.03.28-13.41.26:005][941]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.03.28-13.41.26:005][941]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.03.28-13.41.26:006][941]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.03.28-13.41.26:006][941]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.03.28-13.41.26:006][941]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.03.28-13.41.26:006][941]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.03.28-13.41.26:006][941]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.03.28-13.41.26:008][941]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.03.28-13.41.26:008][941]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.03.28-13.41.26:008][941]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.03.28-13.41.26:008][941]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.03.28-13.41.26:008][941]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.03.28-13.41.26:008][941]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.03.28-13.41.26:008][941]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.03.28-13.41.26:008][941]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.03.28-13.41.26:008][941]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.03.28-13.41.26:008][941]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.03.28-13.41.26:009][941]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.03.28-13.41.26:009][941]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.03.28-13.41.26:009][941]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.03.28-13.41.26:009][941]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.03.28-13.41.26:009][941]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.03.28-13.41.26:009][941]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.03.28-13.41.26:009][941]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.03.28-13.41.26:009][941]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.03.28-13.41.26:029][941]LogDerivedDataCache: Shutdown
+[2019.03.28-13.41.26:030][941]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.03.28-13.41.26:030][941]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.03.28-13.41.26:030][941]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.03.28-13.41.26:030][941]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.03.28-13.41.26:030][941]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.03.28-13.41.26:030][941]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.03.28-13.41.26:030][941]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.03.28-13.41.26:030][941]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.03.28-13.41.26:030][941]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.03.28-13.41.26:030][941]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.03.28-13.41.26:030][941]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.03.28-13.41.26:030][941]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.03.28-13.41.26:030][941]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.03.28-13.41.26:030][941]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.03.28-13.41.26:030][941]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.03.28-13.41.26:030][941]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.03.28-13.41.26:030][941]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.03.28-13.41.26:030][941]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.03.28-13.41.26:032][941]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.03.28-13.41.26:032][941]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.03.28-13.41.26:032][941]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.03.28-13.41.26:032][941]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.03.28-13.41.26:032][941]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.03.28-13.41.26:034][941]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.03.28-13.41.26:034][941]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.03.28-13.41.26:036][941]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.03.28-13.41.26:036][941]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.03.28-13.41.26:053][941]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.03.28-13.41.26:053][941]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.03.28-13.41.26:053][941]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.03.28-13.41.26:053][941]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.03.28-13.41.26:053][941]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.03.28-13.41.26:053][941]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.03.28-13.41.26:053][941]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.03.28-13.41.26:053][941]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.03.28-13.41.26:053][941]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.03.28-13.41.26:053][941]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.03.28-13.41.26:054][941]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.03.28-13.41.26:054][941]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.03.28-13.41.26:054][941]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.03.28-13.41.26:054][941]LogHMD: Freeing OpenVRDLLHandle.
+[2019.03.28-13.41.26:054][941]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.03.28-13.41.26:054][941]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.03.28-13.41.26:054][941]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.03.28-13.41.26:054][941]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.03.28-13.41.26:054][941]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.03.28-13.41.26:055][941]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.03.28-13.41.26:055][941]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.03.28-13.41.26:072][941]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.03.28-13.41.26:072][941]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.03.28-13.41.26:072][941]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD1E7556E-487E-E723-3D18-A3ACA6679FC1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=7cd9b6234e7760476d2c4ca02a748c24%7Ca3aba71760a14926bf25d09cbd17455e%7C18484232-16ae-4f82-886b-b7a27f2432ce&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.03.28-13.41.26:086][941]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.03.28-13.41.26:087][941]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.03.28-13.41.26:087][941]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.03.28-13.41.26:087][941]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.03.28-13.41.26:087][941]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.03.28-13.41.26:087][941]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.03.28-13.41.26:088][941]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.03.28-13.41.26:088][941]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.03.28-13.41.26:088][941]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.03.28-13.41.26:088][941]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.03.28-13.41.26:088][941]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.03.28-13.41.26:089][941]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.03.28-13.41.26:089][941]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.03.28-13.41.26:089][941]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.03.28-13.41.26:089][941]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.03.28-13.41.26:089][941]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.03.28-13.41.26:089][941]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.03.28-13.41.26:089][941]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.03.28-13.41.26:090][941]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.03.28-13.41.26:090][941]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.03.28-13.41.26:091][941]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.03.28-13.41.26:091][941]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.03.28-13.41.26:091][941]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.03.28-13.41.26:091][941]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.03.28-13.41.26:091][941]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.03.28-13.41.26:091][941]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.03.28-13.41.26:091][941]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.03.28-13.41.26:091][941]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.03.28-13.41.26:091][941]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.03.28-13.41.26:101][941]LogExit: Exiting.
+[2019.03.28-13.41.26:121][941]Log file closed, 03/28/19 14:41:26
