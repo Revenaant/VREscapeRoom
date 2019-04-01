@@ -93,3 +93,8 @@ Documentation/*
 SourceFiles/*
 
 PackagedBuilds/*
+*.log
+
+Submarine/Saved/Config/CrashReportClient/
+
+Submarine/Saved/Crashes/
