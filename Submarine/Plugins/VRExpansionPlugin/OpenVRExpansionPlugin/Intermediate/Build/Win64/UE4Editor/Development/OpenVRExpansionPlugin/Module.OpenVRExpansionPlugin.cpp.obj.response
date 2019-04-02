@@ -24,12 +24,12 @@
 /wd4838
 /we4668
 /I .
-/I "C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin\Private"
-/I "C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenVRExpansionPlugin"
-/I "C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source"
+/I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin\Private
+/I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenVRExpansionPlugin
+/I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source
 /I Runtime\Engine\Private\PhysicsEngine
-/I "C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin\Public"
-/I "C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin"
+/I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin\Public
+/I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -438,12 +438,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-/FI"C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.cpp"
-/FI"C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Definitions.OpenVRExpansionPlugin.h"
-/Fo"C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.cpp.obj"
+/FI"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.cpp"
+/FI"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Definitions.OpenVRExpansionPlugin.h"
+/Fo"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.cpp.obj"
 /TP
 /GR-
 /W4

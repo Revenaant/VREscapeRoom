@@ -189,11 +189,11 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-/I "C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\UnrealEd"
-/Yc"C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\UnrealEd\SharedPCH.UnrealEd.h"
-/Fp"C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.pch"
-"C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\UnrealEd\SharedPCH.UnrealEd.cpp"
-/Fo"C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+/I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\UnrealEd
+/Yc"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\UnrealEd\SharedPCH.UnrealEd.h"
+/Fp"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.pch"
+"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\UnrealEd\SharedPCH.UnrealEd.cpp"
+/Fo"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
 /TP
 /GR-
 /W4
