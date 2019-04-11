@@ -412,6 +412,7 @@
 /I ThirdParty
 /I ThirdParty\libSampleRate\Public
 /I ThirdParty\libSampleRate
+/I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Intermediate\Build\Win64\UE4Editor\Inc\Submarine
 /I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Source
 /I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Source\Submarine
 /I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions

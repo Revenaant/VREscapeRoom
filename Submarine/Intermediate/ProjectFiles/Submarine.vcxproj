@@ -111,7 +111,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{C0121DE3-F678-4BD7-A980-0953E3E55179}</ProjectGuid>
+    <ProjectGuid>{80542AC1-7EEE-436A-A246-1CA7F7A81B80}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>Submarine</RootNamespace>
     <PlatformToolset>v141</PlatformToolset>
