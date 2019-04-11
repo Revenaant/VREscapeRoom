@@ -185,23 +185,15 @@
 /I Runtime\AIModule\Classes
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-<<<<<<< Updated upstream
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
 /I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\UnrealEd
 /Yc"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\UnrealEd\SharedPCH.UnrealEd.h"
 /Fp"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.pch"
 "C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\UnrealEd\SharedPCH.UnrealEd.cpp"
 /Fo"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
-=======
-/I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\UnrealEd
-/Yc"C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\UnrealEd\SharedPCH.UnrealEd.h"
-/Fp"C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.pch"
-"C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\UnrealEd\SharedPCH.UnrealEd.cpp"
-/Fo"C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
->>>>>>> Stashed changes
 /TP
 /GR-
 /W4

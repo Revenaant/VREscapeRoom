@@ -24,11 +24,7 @@
 /wd4838
 /we4668
 /I .
-<<<<<<< Updated upstream
 /I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private
-=======
-/I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private
->>>>>>> Stashed changes
 /I ..\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem\Source
@@ -82,19 +78,11 @@
 /I ..\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes
 /I ..\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public
 /I ..\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils
-<<<<<<< Updated upstream
 /I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSteamSessions
 /I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSteamSessions\Source
 /I ..\Plugins\Online\OnlineSubsystemSteam\Source\Private
 /I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes
 /I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions
-=======
-/I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSteamSessions
-/I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSteamSessions\Source
-/I ..\Plugins\Online\OnlineSubsystemSteam\Source\Private
-/I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes
-/I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions
->>>>>>> Stashed changes
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime\CoreUObject\Public
 /I Runtime\CoreUObject
@@ -446,17 +434,10 @@
 /I ThirdParty
 /I ThirdParty\libSampleRate\Public
 /I ThirdParty\libSampleRate
-<<<<<<< Updated upstream
 /I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions
 /I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Source
 /I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes
 /I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions
-=======
-/I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions
-/I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Source
-/I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes
-/I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions
->>>>>>> Stashed changes
 /I ThirdParty\Steamworks\Steamv139\sdk\public
 /I ..\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystemSteam
 /I ..\Plugins\Online\OnlineSubsystemSteam
@@ -465,25 +446,16 @@
 /I ..\Plugins\Online\OnlineSubsystemSteam\Source
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-<<<<<<< Updated upstream
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
 /FI"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\Engine\SharedPCH.Engine.h"
 /Yu"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\Engine\SharedPCH.Engine.h"
 /Fp"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\Engine\SharedPCH.Engine.h.pch"
 "C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp"
 /FI"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
 /Fo"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
-=======
-/FI"C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp"
-/FI"C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
-/Fo"C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
->>>>>>> Stashed changes
 /TP
 /GR-
 /W4

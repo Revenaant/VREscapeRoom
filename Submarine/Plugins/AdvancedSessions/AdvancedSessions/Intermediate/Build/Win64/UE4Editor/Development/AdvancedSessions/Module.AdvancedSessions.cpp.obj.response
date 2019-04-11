@@ -24,11 +24,7 @@
 /wd4838
 /we4668
 /I .
-<<<<<<< Updated upstream
 /I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Private
-=======
-/I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Private
->>>>>>> Stashed changes
 /I ..\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem\Source
@@ -82,17 +78,10 @@
 /I ..\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes
 /I ..\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public
 /I ..\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils
-<<<<<<< Updated upstream
 /I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions
 /I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Source
 /I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes
 /I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions
-=======
-/I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions
-/I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Source
-/I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes
-/I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions
->>>>>>> Stashed changes
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime\CoreUObject\Public
 /I Runtime\CoreUObject
@@ -446,25 +435,16 @@
 /I ThirdParty\libSampleRate
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-<<<<<<< Updated upstream
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
 /FI"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\Engine\SharedPCH.Engine.h"
 /Yu"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\Engine\SharedPCH.Engine.h"
 /Fp"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\Engine\SharedPCH.Engine.h.pch"
 "C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.cpp"
 /FI"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Definitions.AdvancedSessions.h"
 /Fo"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.cpp.obj"
-=======
-/FI"C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.cpp"
-/FI"C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Definitions.AdvancedSessions.h"
-/Fo"C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.cpp.obj"
->>>>>>> Stashed changes
 /TP
 /GR-
 /W4

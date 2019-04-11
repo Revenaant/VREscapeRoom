@@ -2,7 +2,6 @@
 	"BuildId": "4541578",
 	"Modules": 
 	{
-		"Submarine": "UE4Editor-Submarine-7223.dll",
-		"VRExpPluginExample": "UE4Editor-VRExpPluginExample.dll"
+		"Submarine": "UE4Editor-Submarine.dll"
 	}
 }

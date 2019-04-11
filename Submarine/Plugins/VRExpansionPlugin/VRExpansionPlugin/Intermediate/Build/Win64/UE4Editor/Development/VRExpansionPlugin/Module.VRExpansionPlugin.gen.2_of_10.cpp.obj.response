@@ -24,11 +24,7 @@
 /wd4838
 /we4668
 /I .
-<<<<<<< Updated upstream
 /I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Private
-=======
-/I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Private
->>>>>>> Stashed changes
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd
 /I Editor
 /I Programs\UnrealLightmass\Public
@@ -429,7 +425,6 @@
 /I Runtime\AnimGraphRuntime\Public\BoneControllers
 /I Runtime\AnimGraphRuntime\Public\RBF
 /I ..\Plugins\Runtime\PhysXVehicles\Source\ThirdParty
-<<<<<<< Updated upstream
 /I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin
 /I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source
 /I Runtime\Engine\Private\PhysicsEngine
@@ -440,18 +435,6 @@
 /I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Interactibles
 /I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc
 /I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\SimpleChar
-=======
-/I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin
-/I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source
-/I Runtime\Engine\Private\PhysicsEngine
-/I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public
-/I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin
-/I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables
-/I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts
-/I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Interactibles
-/I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc
-/I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\SimpleChar
->>>>>>> Stashed changes
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -477,25 +460,16 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-<<<<<<< Updated upstream
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
 /FI"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\UnrealEd\SharedPCH.UnrealEd.h"
 /Yu"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\UnrealEd\SharedPCH.UnrealEd.h"
 /Fp"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.pch"
 "C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.2_of_10.cpp"
 /FI"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Definitions.VRExpansionPlugin.h"
 /Fo"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.2_of_10.cpp.obj"
-=======
-/FI"C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\UnrealEd\SharedPCH.UnrealEd.h"
-/Yu"C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\UnrealEd\SharedPCH.UnrealEd.h"
-/Fp"C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.pch"
-"C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.2_of_10.cpp"
-/FI"C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Definitions.VRExpansionPlugin.h"
-/Fo"C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.2_of_10.cpp.obj"
->>>>>>> Stashed changes
 /TP
 /GR-
 /W4
