@@ -6,8 +6,8 @@
 /NAME:"UE4Editor-Submarine.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\Engine\SharedPCH.Engine.h.obj"
-"C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\Submarine\Intermediate\Build\Win64\UE4Editor\Development\Submarine\EmptyClassForProject.cpp.obj"
-"C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\Submarine\Intermediate\Build\Win64\UE4Editor\Development\Submarine\Submarine.cpp.obj"
-"C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\Submarine\Intermediate\Build\Win64\UE4Editor\Development\Submarine\PCLaunch.rc.res"
-/OUT:"C:\Users\HP ZVR Backpack\Desktop\Dev\VREscapeRoom\Submarine\Intermediate\Build\Win64\UE4Editor\Development\Submarine\UE4Editor-Submarine.lib"
+"C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Intermediate\Build\Win64\UE4Editor\Development\Submarine\EmptyClassForProject.cpp.obj"
+"C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Intermediate\Build\Win64\UE4Editor\Development\Submarine\Submarine.cpp.obj"
+"C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Intermediate\Build\Win64\UE4Editor\Development\Submarine\PCLaunch.rc.res"
+/OUT:"C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Intermediate\Build\Win64\UE4Editor\Development\Submarine\UE4Editor-Submarine.lib"
