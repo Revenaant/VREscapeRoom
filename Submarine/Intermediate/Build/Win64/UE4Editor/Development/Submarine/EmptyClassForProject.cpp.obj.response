@@ -24,14 +24,29 @@
 /wd4838
 /we4668
 /I .
-<<<<<<< Updated upstream
-/I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Source
-/I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Source\Submarine
-=======
-/I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Source
-/I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Source\Submarine
->>>>>>> Stashed changes
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
 /I Runtime
+/I Runtime\Engine\Classes
+/I Runtime\Engine\Public
+/I Runtime\Engine
+/I Runtime\Engine\Public\AI
+/I Runtime\Engine\Public\AI\Navigation
+/I Runtime\Engine\Public\Analytics
+/I Runtime\Engine\Public\Animation
+/I Runtime\Engine\Public\Curves
+/I Runtime\Engine\Public\EdGraph
+/I Runtime\Engine\Public\Internationalization
+/I Runtime\Engine\Public\Net
+/I Runtime\Engine\Public\PacketHandlers
+/I Runtime\Engine\Public\Performance
+/I Runtime\Engine\Public\Physics
+/I Runtime\Engine\Public\Physics\Experimental
+/I Runtime\Engine\Public\Physics\ImmediatePhysics
+/I Runtime\Engine\Public\ProfilingDebugging
+/I Runtime\Engine\Public\Rendering
+/I Runtime\Engine\Public\Slate
+/I Runtime\Engine\Public\Tests
+/I Runtime\Engine\Public\VisualLogger
 /I Runtime\Core\Public
 /I Runtime\Core
 /I Runtime\Core\Public\Algo
@@ -71,28 +86,6 @@
 /I Runtime\CoreUObject\Public\Serialization\Formatters
 /I Runtime\CoreUObject\Public\Templates
 /I Runtime\CoreUObject\Public\UObject
-/I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
-/I Runtime\Engine\Classes
-/I Runtime\Engine\Public
-/I Runtime\Engine
-/I Runtime\Engine\Public\AI
-/I Runtime\Engine\Public\AI\Navigation
-/I Runtime\Engine\Public\Analytics
-/I Runtime\Engine\Public\Animation
-/I Runtime\Engine\Public\Curves
-/I Runtime\Engine\Public\EdGraph
-/I Runtime\Engine\Public\Internationalization
-/I Runtime\Engine\Public\Net
-/I Runtime\Engine\Public\PacketHandlers
-/I Runtime\Engine\Public\Performance
-/I Runtime\Engine\Public\Physics
-/I Runtime\Engine\Public\Physics\Experimental
-/I Runtime\Engine\Public\Physics\ImmediatePhysics
-/I Runtime\Engine\Public\ProfilingDebugging
-/I Runtime\Engine\Public\Rendering
-/I Runtime\Engine\Public\Slate
-/I Runtime\Engine\Public\Tests
-/I Runtime\Engine\Public\VisualLogger
 /I Runtime\ApplicationCore\Public
 /I Runtime\ApplicationCore
 /I Runtime\ApplicationCore\Public\GenericPlatform
@@ -419,17 +412,12 @@
 /I ThirdParty
 /I ThirdParty\libSampleRate\Public
 /I ThirdParty\libSampleRate
-<<<<<<< Updated upstream
-/I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions
-/I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Source
-/I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes
-/I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions
-=======
+/I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Source
+/I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Source\Submarine
 /I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions
 /I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Source
 /I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes
 /I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions
->>>>>>> Stashed changes
 /I ..\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem\Source
@@ -446,18 +434,6 @@
 /I Runtime\Networking\Public\Interfaces
 /I Runtime\Networking\Public\Interfaces\IPv4
 /I Runtime\Networking\Public\Interfaces\Steam
-<<<<<<< Updated upstream
-/I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin
-/I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source
-/I Runtime\Engine\Private\PhysicsEngine
-/I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public
-/I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin
-/I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables
-/I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts
-/I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Interactibles
-/I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc
-/I C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\SimpleChar
-=======
 /I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin
 /I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source
 /I Runtime\Engine\Private\PhysicsEngine
@@ -468,7 +444,6 @@
 /I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Interactibles
 /I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc
 /I C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\SimpleChar
->>>>>>> Stashed changes
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -498,21 +473,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-<<<<<<< Updated upstream
-/FI"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Source\Submarine\EmptyClassForProject.cpp"
-/FI"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Intermediate\Build\Win64\UE4Editor\Development\Submarine\Definitions.Submarine.h"
-/Fo"C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Intermediate\Build\Win64\UE4Editor\Development\Submarine\EmptyClassForProject.cpp.obj"
-=======
 /FI"C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\Engine\SharedPCH.Engine.h"
 /Yu"C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\Engine\SharedPCH.Engine.h"
 /Fp"C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Intermediate\Build\Win64\SubmarineEditor\Development\Engine\SharedPCH.Engine.h.pch"
 "C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Source\Submarine\EmptyClassForProject.cpp"
 /FI"C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Intermediate\Build\Win64\UE4Editor\Development\Submarine\Definitions.Submarine.h"
 /Fo"C:\Users\rodri\UnrealProjects\VREscapeRoom\Submarine\Intermediate\Build\Win64\UE4Editor\Development\Submarine\EmptyClassForProject.cpp.obj"
->>>>>>> Stashed changes
 /TP
 /GR-
 /W4
