@@ -106,3 +106,5 @@ DerivedDataCache/*
 Submarine/DerivedDataCache/*
 
 *.log
+
+Submarine/Submarine\.sln\.DotSettings\.user
