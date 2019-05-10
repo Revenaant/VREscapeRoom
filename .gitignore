@@ -1,5 +1,6 @@
 # Visual Studio 2015 user specific files
 .vs/
+Submarine/.vs/
 
 # Visual Studio 2015 database file
 *.VC.db
@@ -55,26 +56,29 @@ Plugins/*/*/Binaries/*
 
 Submarine/Binaries/*
 Submarine/Plugins/*/Binaries/*
-Submarine/Binaries/*
 Submarine/Plugins/*/*/Binaries/*
 
 # Builds
 Build/*
-Builds/*
-
 Plugins/*/Build/*
-Plugins/*/Builds/*
-
 Plugins/*/*/Build/*
-Plugins/*/*/Builds/*
+
+Submarine/Build/*
+Submarine/Plugins/*/Build/*
+Submarine/Plugins/*/*/Build/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
 Build/*/**
 !Build/*/PakBlacklist*.txt
 
+!Submarine/Build/*/
+Submarine/Build/*/**
+!Submarine/Build/*/PakBlacklist*.txt
+
 # Don't ignore icon files in Build
 !Build/**/*.ico
+!Submarine/Build/**/*.ico
 
 # Built data for maps
 *_BuiltData.uasset
@@ -99,5 +103,6 @@ Submarine/Plugins/*/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Submarine/DerivedDataCache/*
 
 *.log
