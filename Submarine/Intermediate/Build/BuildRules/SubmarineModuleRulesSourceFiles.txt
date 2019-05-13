@@ -1,7 +1,0 @@
-C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Source\Submarine\Submarine.Build.cs
-C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\AdvancedSessions.Build.cs
-C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\AdvancedSteamSessions.Build.cs
-C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin\OpenVRExpansionPlugin.Build.cs
-C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\VRExpansionPlugin.Build.cs
-C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Source\Submarine.Target.cs
-C:\Users\Slaggy\Desktop\Dev\VR_ER\VREscapeRoom\Submarine\Source\SubmarineEditor.Target.cs
