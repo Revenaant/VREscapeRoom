@@ -29,6 +29,10 @@
 		{
 			"Name": "OpenVRExpansionPlugin",
 			"Enabled": true
+		},
+		{
+			"Name": "HoudiniEngine",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
