@@ -33,6 +33,10 @@
 		{
 			"Name": "HoudiniEngine",
 			"Enabled": false
+		},
+		{
+			"Name": "FMODStudio",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
