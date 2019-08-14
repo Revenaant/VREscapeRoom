@@ -1,6 +1,6 @@
-# VREscapeRoom
+# Pollution Below Water | VR Escape Room
 
-VR Escape Room based on the UN's SDG #14: Life Under Water. 
+Pollution Below Water is a virtual reality escape room based on the UN's SDG #14: Life Under Water. 
 
 This is a very early prototype that has no win condition, menu or tutorial implemented.
 
